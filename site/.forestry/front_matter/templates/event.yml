@@ -1,0 +1,29 @@
+---
+label: Event
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: startdate
+  label: Start Date
+  description: 'Important: Format must be as 2018-10-25'
+- type: text
+  name: enddate
+  label: End date
+  description: 'Important: Format must be as 2018-10-25'
+- type: include
+  template: contact
+  label: Contact
+  name: contact
+- type: include
+  template: event-specials
+  label: Animated Box
+  name: animated_box
+  description: Information to display in the Animated box
+- type: include
+  name: image
+  label: Image
+  template: image

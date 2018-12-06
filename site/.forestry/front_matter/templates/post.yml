@@ -1,0 +1,21 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: description
+  label: Description
+  description: Text introducing the post on list pages.
+- type: file
+  name: image
+  label: Image
+- type: tag_list
+  name: tags
+  label: Tags
+- type: tag_list
+  name: categories
+  label: Categories

@@ -1,0 +1,19 @@
+---
+label: Image
+hide_body: false
+is_partial: true
+display_field: photo
+fields:
+- type: file
+  label: 'Image '
+  name: photo
+  description: Default image
+- type: file
+  name: largeboxphoto
+  label: Large
+- type: file
+  name: mediumboxphoto
+  label: Medium
+- type: file
+  name: smallboxphoto
+  label: Small

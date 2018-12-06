@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-nav">
+        <h3>Press/Media</h3>
+    
+        <ul>
+            <li><a href="/industry-news">Industry News</a></li>
+            <li><a href="mailto:info@oregonsadventurecoast.com">Email Us</a></li>
+        </ul>
+    </div>
+    
+    <div class="m-standard-content">
+        <h1>{{ .Title }}</h1>
+    
+        <div class="introtext clearfix">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+{{ end }}

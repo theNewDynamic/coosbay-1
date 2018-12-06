@@ -1,0 +1,12 @@
+@import "netlify-cms/dist/cms.css";
+
+.nc-imageWidget-image,
+.nc-widgetPreview img,
+.cms-preview img {
+    max-width: 100%;
+}
+
+.checkboxList,
+.checkboxList li {
+    list-style: none;
+}

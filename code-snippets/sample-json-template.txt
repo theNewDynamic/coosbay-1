@@ -1,0 +1,5 @@
+{{ $coffee := getJSON "http://localhost:8234/index.php?method=get&type=coffee" }}
+
+{{ range $coffee.results }}
+    {{ . }}
+{{ end }}

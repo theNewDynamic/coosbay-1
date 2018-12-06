@@ -1,0 +1,32 @@
+---
+label: Tours and equipment
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: property_description
+  label: Description
+- type: list
+  name: equip_type
+  label: Type
+  config:
+    min: '1'
+    max: '2'
+    use_select: true
+    source:
+      type: simple
+    options:
+    - 1 - Tour
+    - 2 - Equipement
+  description: Please select if this entry provides Tours, Equipments or both.
+- type: include
+  template: image-alt
+  label: Image
+  name: image
+- type: include
+  template: contact
+  label: Contact
+  name: contact

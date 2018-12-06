@@ -1,0 +1,509 @@
+backend:
+  name: git-gateway
+
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
+display_url: https://oregonsadventurecoast.com
+publish_mode: editorial_workflow
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Blog" # Used in the UI, ie.: "New Post"
+    folder: "site/content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["news"]
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "SEO Title", name: "title", widget: "string", required: false}
+          - {label: "Description", name: "description", widget: "text", required: false}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+  - name: "unpublishedblogs" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Unpublished Blogs" # Used in the UI, ie.: "New Post"
+    folder: "site/content/unpublishedblogs" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["news"]
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "SEO Title", name: "title", widget: "string", required: false}
+          - {label: "Description", name: "description", widget: "text", required: false}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+  - name: "sitepages"
+    label: "Pages"
+    folder: "site/content/sitepages"
+    create: true
+    fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - label: "Template"
+          name: "layout"
+          widget: "select"
+          required: false
+          options:
+            - {label: "Traveler's Info", value: 'travelersinfo'}
+            - {label: "Our Area", value: 'our-area'}
+            - {label: "Contact", value: 'contact'}
+            - {label: "Meeting Planners", value: 'meeting-planners'}
+            - {label: "Meeting Planners Subpages", value: 'meeting-planners-sub'}
+            - {label: "Press, Media & Industry", value: 'press-media-industry'}
+            - {label: "Relocation Request", value: 'relocation-request'}
+            - {label: "Thank You Page", value: 'thank-you'}
+        - {label: "Permalink", name: "url", widget: "string"}
+        - {label: "Feature Photo", name: "photo", widget: "image", required: false}
+        - {label: "Content", name: "body", widget: "markdown"}
+        - label: "SEO"
+          name: "seo"
+          widget: "object"
+          required: false
+          fields:
+            - {label: "SEO Title", name: "title", widget: "string", required: false}
+            - {label: "Description", name: "description", widget: "text", required: false}
+            - {label: "Image", name: "image", widget: "image", required: false}
+            - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+  - name: "landingpages"
+    label: "Data Driven Pages"
+    files:
+      - file: "site/content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - label: "Slideshow"
+            name: "slideshow"
+            widget: "list"
+            fields:
+              - {label: Photo, name: photo, widget: image}
+              - {label: Title, name: title, widget: string}
+          - {label: "Welcome Headline", name: "welcomeheadline", widget: "string"}
+          - {label: "Welcome Text", name: "body", widget: "markdown"}
+          - label: "Masonry Box Tiny (#1)"
+            name: "masonry1"
+            widget: "object"
+            fields:
+              - {label: "Desktop Photo", name: "desktopphoto", widget: "image"}
+              - {label: "Mobile Photo", name: "mobilephoto", widget: "image"}
+              - {label: "Desktop Title", name: "desktoptitle", widget: "string"}
+              - {label: "Mobile Title", name: "mobiletitle", widget: "string"}
+              - {label: "Hover Title", name: "hovertitle", widget: "string"}
+              - {label: "Hover Description", name: "hoverdescription", widget: "text"}
+              - {label: "URL", name: "url", widget: "string"}
+          - label: "Masonry Box Large (#2)"
+            name: "masonry2"
+            widget: "object"
+            fields:
+              - {label: "Desktop Photo", name: "desktopphoto", widget: "image"}
+              - {label: "Mobile Photo", name: "mobilephoto", widget: "image"}
+              - {label: "Desktop Title", name: "desktoptitle", widget: "string"}
+              - {label: "Mobile Title", name: "mobiletitle", widget: "string"}
+              - {label: "Hover Title", name: "hovertitle", widget: "string"}
+              - {label: "Hover Description", name: "hoverdescription", widget: "text"}
+              - {label: "URL", name: "url", widget: "string"}
+          - label: "Masonry Box Bottom Left (#3)"
+            name: "masonry3"
+            widget: "object"
+            fields:
+              - {label: "Desktop Photo", name: "desktopphoto", widget: "image"}
+              - {label: "Mobile Photo", name: "mobilephoto", widget: "image"}
+              - {label: "Desktop Title", name: "desktoptitle", widget: "string"}
+              - {label: "Mobile Title", name: "mobiletitle", widget: "string"}
+              - {label: "Hover Title", name: "hovertitle", widget: "string"}
+              - {label: "Hover Description", name: "hoverdescription", widget: "text"}
+              - {label: "URL", name: "url", widget: "string"}
+          - label: "Masonry Box Bottom Middle (#4)"
+            name: "masonry4"
+            widget: "object"
+            fields:
+              - {label: "Desktop Photo", name: "desktopphoto", widget: "image"}
+              - {label: "Mobile Photo", name: "mobilephoto", widget: "image"}
+              - {label: "Desktop Title", name: "desktoptitle", widget: "string"}
+              - {label: "Mobile Title", name: "mobiletitle", widget: "string"}
+              - {label: "Hover Title", name: "hovertitle", widget: "string"}
+              - {label: "Hover Description", name: "hoverdescription", widget: "text"}
+              - {label: "URL", name: "url", widget: "string"}
+          - label: "Masonry Box Top Right (#5)"
+            name: "masonry5"
+            widget: "object"
+            fields:
+              - {label: "Desktop Photo", name: "desktopphoto", widget: "image"}
+              - {label: "Mobile Photo", name: "mobilephoto", widget: "image"}
+              - {label: "Desktop Title", name: "desktoptitle", widget: "string"}
+              - {label: "Mobile Title", name: "mobiletitle", widget: "string"}
+              - {label: "Hover Title", name: "hovertitle", widget: "string"}
+              - {label: "Hover Description", name: "hoverdescription", widget: "text"}
+              - {label: "URL", name: "url", widget: "string"}
+          - label: "Masonry Box Middle Right (#6)"
+            name: "masonry6"
+            widget: "object"
+            fields:
+              - {label: "Desktop Photo", name: "desktopphoto", widget: "image"}
+              - {label: "Mobile Photo", name: "mobilephoto", widget: "image"}
+              - {label: "Desktop Title", name: "desktoptitle", widget: "string"}
+              - {label: "Mobile Title", name: "mobiletitle", widget: "string"}
+              - {label: "Hover Title", name: "hovertitle", widget: "string"}
+              - {label: "Hover Description", name: "hoverdescription", widget: "text"}
+              - {label: "URL", name: "url", widget: "string"}
+          - label: "Masonry Box Bottom Right (#7)"
+            name: "masonry7"
+            widget: "object"
+            fields:
+              - {label: "Desktop Photo", name: "desktopphoto", widget: "image"}
+              - {label: "Mobile Photo", name: "mobilephoto", widget: "image"}
+              - {label: "Desktop Title", name: "desktoptitle", widget: "string"}
+              - {label: "Mobile Title", name: "mobiletitle", widget: "string"}
+              - {label: "Hover Title", name: "hovertitle", widget: "string"}
+              - {label: "Hover Description", name: "hoverdescription", widget: "text"}
+              - {label: "URL", name: "url", widget: "string"}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "SEO Title", name: "title", widget: "string", required: false}
+              - {label: "Description", name: "description", widget: "text", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+      - file: "site/content/adventures.md"
+        label: "Adventures Landing"
+        name: "adventures"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "adventures"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Feature Photo", name: "photo", widget: "image", required: false}
+          - {label: "Summary Text", name: "body", widget: "markdown"}
+          - label: "Adventure Boxes"
+            name: "boxes"
+            widget: "list"
+            fields:
+              - {label: "Desktop Photo", name: "desktopphoto", widget: "image"}
+              - {label: "Mobile Photo", name: "mobilephoto", widget: "image"}
+              - {label: "Desktop Title", name: "desktoptitle", widget: "string"}
+              - {label: "Mobile Title", name: "mobiletitle", widget: "string"}
+              - {label: "Hover Title", name: "hovertitle", widget: "string"}
+              - {label: "Hover Description", name: "hoverdescription", widget: "text"}
+              - {label: "URL", name: "url", widget: "string"}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "SEO Title", name: "title", widget: "string", required: false}
+              - {label: "Description", name: "description", widget: "text", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+      - file: "site/content/calendar.md"
+        label: "Calendar Landing"
+        name: "calendar"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "calendarpage"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Feature Photo", name: "photo", widget: "image", required: false}
+          - {label: "Summary Text", name: "body", widget: "markdown"}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "SEO Title", name: "title", widget: "string", required: false}
+              - {label: "Description", name: "description", widget: "text", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+      - file: "site/content/dining.md"
+        label: "Dining Landing"
+        name: "dining"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "diningpage"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Feature Photo", name: "photo", widget: "image", required: false}
+          - {label: "Summary Text", name: "body", widget: "markdown"}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "SEO Title", name: "title", widget: "string", required: false}
+              - {label: "Description", name: "description", widget: "text", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+      - file: "site/content/events.md"
+        label: "Events Landing"
+        name: "events"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "eventspage"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Feature Photo", name: "photo", widget: "image", required: false}
+          - {label: "Summary Text", name: "body", widget: "markdown"}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "SEO Title", name: "title", widget: "string", required: false}
+              - {label: "Description", name: "description", widget: "text", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+      - file: "site/content/lodging.md"
+        label: "Lodging Landing"
+        name: "lodging"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "lodgingpage"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Feature Photo", name: "photo", widget: "image", required: false}
+          - {label: "Summary Text", name: "body", widget: "markdown"}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "SEO Title", name: "title", widget: "string", required: false}
+              - {label: "Description", name: "description", widget: "text", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+      - file: "site/content/tour-guides-and-charters.md"
+        label: "Tour Guides & Charters"
+        name: "tourcharters"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "tourcharters"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Feature Photo", name: "photo", widget: "image", required: false}
+          - {label: "Content", name: "body", widget: "markdown"}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "SEO Title", name: "title", widget: "string", required: false}
+              - {label: "Description", name: "description", widget: "text", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+      - file: "site/content/equipment-rent-and-buy.md"
+        label: "Equipment Rent & Buy"
+        name: "equipment"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "equipment"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Feature Photo", name: "photo", widget: "image", required: false}
+          - {label: "Content", name: "body", widget: "markdown"}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {label: "SEO Title", name: "title", widget: "string", required: false}
+              - {label: "Description", name: "description", widget: "text", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+  - name: "adventure"
+    label: "Adventures"
+    folder: "site/content/adventure"
+    create: true
+    fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Permalink", name: "url", widget: "string", required: false}
+        - {label: "Feature Photo", name: "photo", widget: "image", required: false}
+        - {label: "Content", name: "body", widget: "markdown"}
+        - label: "SEO"
+          name: "seo"
+          widget: "object"
+          required: false
+          fields:
+            - {label: "SEO Title", name: "title", widget: "string", required: false}
+            - {label: "Description", name: "description", widget: "text", required: false}
+            - {label: "Image", name: "image", widget: "image", required: false}
+            - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+  - name: "event"
+    label: "Events"
+    folder: "site/content/event"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Event Pg Header Photo", name: "photo", widget: "image", required: false}
+      - {label: "Large Box Photo", name: "largeboxphoto", widget: "image", required: false}
+      - {label: "Medium Box Photo", name: "mediumboxphoto", widget: "image", required: false}
+      - {label: "Small Box Photo", name: "smallboxphoto", widget: "image", required: false}
+      - {label: "Desktop Title", name: "desktoptitle", widget: "string"}
+      - {label: "Mobile Title", name: "mobiletitle", widget: "string"}
+      - {label: "Hover Title", name: "hovertitle", widget: "string"}
+      - {label: "Hover Description", name: "hoverdescription", widget: "text"}
+      - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Start Date"
+        name: "startdate"
+        widget: "date"
+        default: ""
+        required: true
+      - label: "End Date"
+        name: "enddate"
+        widget: "date"
+        default: ""
+        required: true
+      - name: "address"
+        label: "Address"
+        widget: "object"
+        required: false
+        fields:
+          - {name: "street", label: "Street Address", widget: "string", required: false}
+          - {name: "street2", label: "Street Address 2", widget: "string", required: false}
+          - {name: "city", label: "City", widget: "string", required: false}
+          - {name: "state", label: "State", widget: "string", required: false}
+          - {name: "zip", label: "Zip Code", widget: "string", required: false}
+      - {name: "phone_toll_free", label: "Toll Free Phone Number", widget: "string", required: false}
+      - {name: "phone_local", label: "Local Phone Number", widget: "string", required: false}
+      - {name: "website", label: "Website", widget: "string", required: false}
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "SEO Title", name: "title", widget: "string", required: false}
+          - {label: "Description", name: "description", widget: "text", required: false}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
+  - name: "lodging"
+    label: "Lodging"
+    folder: "site/content/lodgingitems"
+    create: true
+    fields:
+        - {name: "title", label: "Title", widget: "string", required: true}
+        - {name: "photo_name", label: "Photo", widget: "image", required: false}
+        - {name: "photo_alt", label: "Photo Alt Text", widget: "string", required: false}
+        - {name: "property_name", label: "Property Name", widget: "string", required: true}
+        - name: "property_category"
+          label: "Category"
+          widget: "select"
+          options:
+            - {label: "Hotels, Motels & Inns", value: 1}
+            - {label: "RV Parks & Camping", value: 2}
+            - {label: "Bed & Breakfasts", value: 3}
+            - {label: "Vacation Rental Homes", value: 4}
+        - name: "address"
+          label: "Address"
+          widget: "object"
+          required: false
+          fields:
+            - {name: "street", label: "Street Address", widget: "string", required: false}
+            - {name: "street2", label: "Street Address 2", widget: "string", required: false}
+            - {name: "city", label: "City", widget: "string", required: false}
+            - {name: "state", label: "State", widget: "string", required: false}
+            - {name: "zip", label: "Zip Code", widget: "string", required: false}
+        - {name: "phone_toll_free", label: "Toll Free Phone Number", widget: "string", required: false}
+        - {name: "phone_local", label: "Local Phone Number", widget: "string", required: false}
+        - {name: "units", label: "Number of Units", widget: "string", required: false}
+        - name: "cost"
+          label: "Cost"
+          widget: "select"
+          options:
+            - {label: "$", value: 1}
+            - {label: "$$", value: 2}
+            - {label: "$$$", value: 3}
+        - {name: "property_description", label: "Property Description", widget: "text", required: false}
+        - {name: "website", label: "Website", widget: "string", required: false}
+        - name: "amenityList"
+          label: "Amenities"
+          widget: "list"
+          fields:
+            - label: "Amenity"
+              name: amenitySelect
+              widget: "select"
+              options:
+                - {value: 1, label: 'Restaurant/Bar/Rm Service'}
+                - {value: 2, label: 'Continental or Full Bkfst'}
+                - {value: 3, label: 'Fitness Center'}
+                - {value: 4, label: 'Pool/Hot Tub'}
+                - {value: 5, label: 'Pet Friendly'}
+                - {value: 6, label: 'WiFi Available'}
+                - {value: 7, label: 'Kitchens Available'}
+                - {value: 8, label: 'Meeting Facilities'}
+                - {value: 9, label: 'Handicap Accessible'}
+                - {value: 10, label: 'Chamber Member'}
+  - name: "tourandequipment"
+    label: "Tour & Equipment"
+    folder: "site/content/tourandequipment"
+    create: true
+    fields:
+        - {name: "title", label: "Title", widget: "string", required: true}
+        - {name: "photo_name", label: "Photo", widget: "image", required: false}
+        - {name: "photo_alt", label: "Photo Alt Text", widget: "string", required: false}
+        - {name: "property_name", label: "Property Name", widget: "string", required: true}
+        - name: "equip_type"
+          label: "Type"
+          widget: "list"
+          fields:
+            - label: "Type"
+              name: typeSelect
+              widget: "select"
+              options:
+                - {value: 1, label: 'Tour Guides & Charters'}
+                - {value: 2, label: 'Equipment Rent & Buy'}
+        - name: "address"
+          label: "Address"
+          widget: "object"
+          required: false
+          fields:
+            - {name: "street", label: "Street Address", widget: "string", required: false}
+            - {name: "street2", label: "Street Address 2", widget: "string", required: false}
+            - {name: "city", label: "City", widget: "string", required: false}
+            - {name: "state", label: "State", widget: "string", required: false}
+            - {name: "zip", label: "Zip Code", widget: "string", required: false}
+        - {name: "phone_toll_free", label: "Toll Free Phone Number", widget: "string", required: false}
+        - {name: "phone_local", label: "Local Phone Number", widget: "string", required: false}
+        - {name: "property_description", label: "Property Description", widget: "text", required: false}
+        - {name: "website", label: "Website", widget: "string", required: false}
+  - name: "tripideas"
+    label: "Trip Ideas"
+    folder: "site/content/tripideas"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - name: "durations"
+        label: "Choose Durations"
+        widget: "list"
+        default: ["full-day", "half-day", "long-weekend"]
+      - name: "towns"
+        label: "Choose Towns"
+        widget: "list"
+        default: ["coos-bay", "north-bend", "charleston"]
+      - name: "tripadventures"
+        label: "Choose Adventures"
+        widget: "list"
+        default: ["atving-motorsports", "beach", "culture-museums", "dunes", "eat-drink", "fairs-festivals", "fishing-crabbing-clamming", "historical", "lighthouses", "scenic-drives", "shopping", "state-parks-national-lands", "walking-hiking"]
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "SEO Title", name: "title", widget: "string", required: false}
+          - {label: "Description", name: "description", widget: "text", required: false}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Image Alt Text", name: "imgalt", widget: "string", required: false}
