@@ -83,4 +83,4 @@ We welcome you to Oregon’s Adventure Coast, where the land meets the bay and t
 
 ## Exciting Outdoor Activities on the Oregon Coast
 
-Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba diving and surfing to world-class fishing, crabbing and clamming. Hit the sand in an ATV, hike winding trails, bike along the boardwalk, and run the same path as legend and local hero, Steve Prefontaine. Take a chance with Vegas-style gaming, catch a movie at the historic Egyptian Theatre, and make time to dine upon a hilltop. Your adventure awaits. TEST
+Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba diving and surfing to world-class fishing, crabbing and clamming. Hit the sand in an ATV, hike winding trails, bike along the boardwalk, and run the same path as legend and local hero, Steve Prefontaine. Take a chance with Vegas-style gaming, catch a movie at the historic Egyptian Theatre, and make time to dine upon a hilltop. Your adventure awaits. 
