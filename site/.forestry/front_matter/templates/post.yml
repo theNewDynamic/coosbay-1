@@ -10,6 +10,7 @@ fields:
   name: description
   label: Description
   description: Text introducing the post on list pages.
+- type: datetime
 - type: file
   name: image
   label: Image
