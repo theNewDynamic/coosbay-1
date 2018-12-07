@@ -1,13 +1,13 @@
 ---
 title: Shopping
-url: /shopping
-photo: /img/shopping-sub-header.jpg
+url: "/shopping"
+photo: "/img/shopping-sub-header.jpg"
 seo:
-  description: >-
-    Discover one of the best things to do on your Oregon Coast trip - shopping!
-    Discover eclectic businesses with unique treasures all over the Coos Bay,
-    North Bend, & Charleston area.
+  description: Discover one of the best things to do on your Oregon Coast trip - shopping!
+    Discover eclectic businesses with unique treasures all over the Coos Bay, North
+    Bend, & Charleston area.
   title: Oregon Coast Trips - Shopping | Oregon's Adventure Coast
+
 ---
 Not all adventures take place outside! Shopping is one adventure that takes you into some ecclectic businesses, including antique and kitchy shops, all over the Coos Bay, North Bend & Charleston area.
 
@@ -19,7 +19,7 @@ Hunting for that special something or stumbling across a treasure you didn't eve
 
 ## Coos Bay
 
-In Coos Bay's Downtown area, here are a few places to stop in for unique shopping experiences: {{< link url="https://www.trufurnitureco.com" >}}Tru{{< /link >}}, {{< link url="https://www.facebook.com/atVintage101" >}}Vintage 101{{< /link >}}, {{< link url="https://www.facebook.com/TreehouseMall" >}}Leaf's Treehouse{{< /link >}}, {{< link url="https://www.facebook.com/Organic-Glass-Art-Gifts-159901224041236/" >}}Organic Glass Art & Gifts{{< /link >}}, {{< link url="https://katrinakathleens.com" >}}Katrina Kathleen's{{< /link >}} or {{< link url="https://www.facebook.com/happenstancecollective/" >}}Happenstance Collective{{< /link >}} _(previously Canard Labs)_, Oregon Wine Cellars, {{< link url="https://checkerberrys.com" >}}Checkerberries{{< /link >}}, {{< link url="https://www.theartistloftgallery.com" >}}Artist Loft Gallery{{< /link >}}, [Sweet Street Candy & Popcorn](https://www.facebook.com/sweetstreetpopcornshop/), and so many more!
+In Coos Bay's Downtown area, here are a few places to stop in for unique shopping experiences: {{< link url="https://www.trufurnitureco.com" >}}Tru{{< /link >}}, {{< link url="https://www.facebook.com/atVintage101" >}}Vintage 101{{< /link >}}, {{< link url="https://www.facebook.com/TreehouseMall" >}}Leaf's Treehouse{{< /link >}}, {{< link url="https://www.facebook.com/Organic-Glass-Art-Gifts-159901224041236/" >}}Organic Glass Art & Gifts{{< /link >}}, {{< link url="https://katrinakathleens.com" >}}Katrina Kathleen's{{< /link >}} or {{< link url="https://www.facebook.com/happenstancecollective/" >}}Canard Labs{{< /link >}}, Oregon Wine Cellars, {{< link url="https://checkerberrys.com" >}}Checkerberries{{< /link >}}, {{< link url="https://www.theartistloftgallery.com" >}}Artist Loft Gallery{{< /link >}}, [Sweet Street Candy & Popcorn](https://www.facebook.com/sweetstreetpopcornshop/), and so many more!
 
 The {{< link url="https://cooshistory.org/museum-store" >}}Coos History Museum Gift Shop{{< /link >}} provide visitors with a look at our history and culture. At our weekly {{< link url="https://www.facebook.com/CoosBayFarmersMarket" >}}Downtown Farmers Market{{< /link >}}, you can take home locally grown produce, handcrafted items, and lunch from the food court. More than 80 vendors take up 4 blocks of downtown every Wednesday, May to October, from 9am to 2pm.
 
