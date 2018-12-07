@@ -11,6 +11,9 @@ fields:
   label: Description
   description: Text introducing the post on list pages.
 - type: datetime
+  label: Publish Date
+  name: publish_date
+  description: 'Date will default to creation date. '
 - type: file
   name: image
   label: Image
