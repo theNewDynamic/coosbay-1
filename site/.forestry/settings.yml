@@ -73,12 +73,6 @@ sections:
 - type: document
   path: site/data/taxonomies.yaml
   label: Taxonomies
-- type: heading
-  label: Docs
-- type: document
-  path: site/docs/notes.md
-  label: Notes
-  read_only: true
 upload_dir: site/static/img
 public_path: "/img"
 front_matter_path: ''
