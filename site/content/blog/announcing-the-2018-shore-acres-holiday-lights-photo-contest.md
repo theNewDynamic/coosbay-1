@@ -1,6 +1,6 @@
 ---
 title: Announcing the 2018 Holiday Lights at Shore Acres Photo Contest
-date: 2018-11-20 12:28:25 -0500
+date: 2018-11-21 09:28:25 -0800
 description: 'Share your favorite photos from the 32nd Annual Holiday Lights at Shore
   Acres display happening November 22nd thru Dec. 31st, 2018 on Instagram for a chance
   to win great prizes! '
