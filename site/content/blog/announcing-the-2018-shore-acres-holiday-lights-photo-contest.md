@@ -14,6 +14,7 @@ categories:
 - Shore Acres
 - Holidays
 image: "/img/96336566-3350-49e0-8f45-055b330754ac.jpg"
+undefined: 2018-11-21 00:00:00 -0800
 
 ---
 ## Could Your Instagram Post Be Our "#coosholidaylights Photo-of-the-Week"?
