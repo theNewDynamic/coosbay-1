@@ -101,3 +101,4 @@ RedirectMatch 301 ^/2013/.*$ https://oregonsadventurecoast.com/blog
 RedirectMatch 301 ^/2012/.*$ https://oregonsadventurecoast.com/blog
 RedirectMatch 301 ^/2011/.*$ https://oregonsadventurecoast.com/blog
 RedirectMatch 301 ^/2010/.*$ https://oregonsadventurecoast.com/blog
+Redirect 301 /rob https://oregonsadventurecoast.com/?utm_source=Rob&utm_medium=Basin_Tackle&utm_campaign=Sponsorship
