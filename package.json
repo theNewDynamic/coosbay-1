@@ -11,7 +11,8 @@
     "start": "gulp server",
     "lint": "eslint src",
     "clean": "gulp clean",
-    "index": "node tools/lunr-run.js"
+    "index": "node tools/lunr-run.js",
+    "forestry": "npm install && npm run build"
   },
   "author": "Tyler Jones",
   "license": "MIT",
