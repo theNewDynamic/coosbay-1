@@ -79,3 +79,6 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 version: '0.52'
+build:
+  preview_command: npm run forestry
+  output_directory: dist
