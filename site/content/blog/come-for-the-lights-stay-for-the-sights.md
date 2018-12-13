@@ -8,6 +8,7 @@ tags:
 - " Holiday LIghts at Shore Acres "
 - 'Charleston Oregon '
 categories: []
+draft: true
 
 ---
 The[ Holiday Lights at Shore Acres](https://oregonsadventurecoast.com/event/32nd-annual-holiday-lights-at-shore-acres/) display is one of the most famous seasonal attractions on the Oregon Coast and attracts thousands of visitors to our area each year.
