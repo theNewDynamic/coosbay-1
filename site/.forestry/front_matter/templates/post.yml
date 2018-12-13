@@ -23,3 +23,5 @@ fields:
 - type: tag_list
   name: categories
   label: Categories
+pages:
+- site/content/blog/come-for-the-lights-stay-for-the-sights.md
