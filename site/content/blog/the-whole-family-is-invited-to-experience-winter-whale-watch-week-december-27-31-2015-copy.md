@@ -23,6 +23,7 @@ tags:
 categories:
 - State Parks & National Lands
 image: "/img/Gray_whale_Merrill_Gosho_NOAA2_crop.jpg"
+draft: true
 
 ---
 ### **Come Have a "Whale of a Time" During Winter 2018 Whale Watching Week December 27th – 31st, 2018**
