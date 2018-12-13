@@ -1,32 +1,32 @@
 ---
-title: >-
-  The Whole Family is Invited to Experience Winter Whale Watch Week December
+title: The Whole Family is Invited to Experience Winter Whale Watch Week December
   27-31, 2015
-date: 2015-12-03T23:02:23.000Z
-description: >-
-  Planning to take some time off for the holidays? We highly recommend adding a
-  Whale Watching Trip on the Oregon Coast this year. It's the perfect way to cap
-  off 2015 while experiencing a fantastic learning opportunity for the whole
+date: 2015-12-03 23:02:23 +0000
+description: Planning to take some time off for the holidays? We highly recommend
+  adding a Whale Watching Trip on the Oregon Coast this year. It's the perfect way
+  to cap off 2015 while experiencing a fantastic learning opportunity for the whole
   family.
 tags:
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - December
-  - Gray Whales
-  - Mexico
-  - North Bend
-  - Oregon
-  - recreation
-  - Shore Acres State Park
-  - the Oregon Coast
-  - Whale Watch
-  - Whale Watch Week 2014
-  - Whale watchers
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- December
+- Gray Whales
+- Mexico
+- North Bend
+- Oregon
+- recreation
+- Shore Acres State Park
+- the Oregon Coast
+- Whale Watch
+- Whale Watch Week 2014
+- Whale watchers
 categories:
-  - State Parks & National Lands
+- State Parks & National Lands
 image: ''
+draft: true
+
 ---
 Planning to take some time off for the holidays? We highly recommend adding a Whale Watching Trip on the Oregon Coast this year. It&#8217;s the perfect way to cap off 2015 while experiencing a fantastic learning opportunity for the whole family.
 
