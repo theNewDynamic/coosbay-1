@@ -2,7 +2,7 @@
 title: Come for the Lights...Stay for the Sights
 date: 2018-12-13 10:17:04 -0800
 description: 'Twelve Things To Do When You Visit Holiday Lights at Shore Acres Display '
-image: ''
+image: "/img/07-24-17-end-of-summer-todo.jpg"
 tags:
 - Shore Acres State Park
 - " Holiday LIghts at Shore Acres "
@@ -11,7 +11,11 @@ categories: []
 draft: true
 
 ---
-The[ Holiday Lights at Shore Acres](https://oregonsadventurecoast.com/event/32nd-annual-holiday-lights-at-shore-acres/) display is one of the most famous seasonal attractions on the Oregon Coast and attracts thousands of visitors to our area each year. If you’re among those traveling from out-of-town to see the holiday lights this year, we hope you’ll stick around and experience more of what Oregon’s Adventure Coast has to offer!  There’s a reason why our region is known as the place “Where the Soul Meets the Sea”.  Here are some tips to help you enjoy the very best of Coos Bay, North Bend and Charleston, Oregon during your visit this holiday season.
+The[ Holiday Lights at Shore Acres](https://oregonsadventurecoast.com/event/32nd-annual-holiday-lights-at-shore-acres/) display is one of the most famous seasonal attractions on the Oregon Coast and attracts thousands of visitors to our area each year.
+
+![](/img/holiday-lights-02-home-slider.jpg)
+
+If you’re among those traveling from out-of-town to see the holiday lights this year, we hope you’ll stick around and experience more of what Oregon’s Adventure Coast has to offer!  There’s a reason why our region is known as the place “Where the Soul Meets the Sea”.  Here are some tips to help you enjoy the very best of Coos Bay, North Bend and Charleston, Oregon during your visit this holiday season.
 
 #### #1 Learn Something New
 
@@ -23,9 +27,9 @@ We also recommend spending a day at the [South Slough National Estuarine Researc
 
 There are a number of local restaurants dishing out the freshest seafood and chowder you could possibly hope for! Though there are too many to mention in one post, here are a few ideas to whet your appetite.
 
-If you’re in Charleston, grab some chowder at  [Chuck’s Seafood](http://www.chucksseafood.com/) or [High Tide Café](http://hightidecafeoregon.com/). You can’t go wrong with the popular Fish ’n Chips at [Miller’s At the Cove Sports Bar & Grill](https://www.millersatthecove.rocks/).  The [Wildflour Cafe](https://www.wildflour-catering.com/) in North Bend along with[ these new locally owned restaurants](https://oregonsadventurecoast.com/blog/2018-05-08-four-new-oregon-coast-restaurants-you-need-to-try/) are getting rave reviews from locals and visitors alike. There are a number of establishments that have stood the test of time like [Shark Bites](http://www.sharkbites.cafe/) in Coos Bay, [Hilltop House Restaurant and Lounge](http://hilltophouserestaurant.com/), [Fisherman’s Grotto](http://www.fishermansgrottoinc.com/), [Blue Heron Bistro](http://www.blueheronbistro.com/), [Fisherman’s Seafood Market](http://fishermensseafoodmarket.com/), [Captain’s Choice Family Fish House ](http://www.captainschoicefishhouse.com/) and many more.  At the end of the day, grab a craft beverage at [7 Devils Brewing Co](https://www.7devilsbrewery.com/) in Coos Bay. 
+If you’re in Charleston, grab some chowder at  [Chuck’s Seafood](http://www.chucksseafood.com/) or [High Tide Café](http://hightidecafeoregon.com/). You can’t go wrong with the popular Fish ’n Chips at [Miller’s At the Cove Sports Bar & Grill](https://www.millersatthecove.rocks/).  The [Wildflour Cafe](https://www.wildflour-catering.com/) in North Bend along with[ these new locally owned restaurants](https://oregonsadventurecoast.com/blog/2018-05-08-four-new-oregon-coast-restaurants-you-need-to-try/) are getting rave reviews from locals and visitors alike. There are a number of establishments that have stood the test of time like [Shark Bites](http://www.sharkbites.cafe/) in Coos Bay, [Hilltop House Restaurant and Lounge](http://hilltophouserestaurant.com/), [Fisherman’s Grotto](http://www.fishermansgrottoinc.com/), [Blue Heron Bistro](http://www.blueheronbistro.com/), [Fisherman’s Seafood Market](http://fishermensseafoodmarket.com/), [Captain’s Choice Family Fish House ](http://www.captainschoicefishhouse.com/) and many more.  At the end of the day, grab a craft beverage at [7 Devils Brewing Co](https://www.7devilsbrewery.com/) in Coos Bay.
 
-[Download our Local Restaurant Guide](https://oregonsadventurecoast.com/img/restaurant-brochure.pdf) to carry with you or visit [oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all of our local restaurants. 
+[Download our Local Restaurant Guide](https://oregonsadventurecoast.com/img/restaurant-brochure.pdf) to carry with you or visit [oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all of our local restaurants.
 
 #### #3 Explore the Sights on Cape Arago Highway
 
@@ -33,7 +37,7 @@ On a nice day, spend some time exploring the beaches and state parks along the C
 
 #### #4 Go for a stroll along the Charleston Marina Complex
 
-Charleston is home to a marina and boatyard that support thriving commercial and recreational fleets. With nearly 200 commercial fishing boats and 250 or so recreational boats, the docks and boatyard are busy year-round. Our fishermen bring in fresh Oregon Dungeness crab and pink shrimp, both officially sustainable seafood fisheries. The [Coos Bay Boardwalk ](https://www.tripadvisor.com/Attraction_Review-g51813-d2043717-Reviews-Coos_Bay_Boardwalk-Coos_Bay_Oregon.html)along with the [North Bend Boardwalk ](https://www.tripadvisor.com/LocationPhotoDirectLink-g51993-i113552277-North_Bend_Oregon.html)are also lovely to explore. 
+Charleston is home to a marina and boatyard that support thriving commercial and recreational fleets. With nearly 200 commercial fishing boats and 250 or so recreational boats, the docks and boatyard are busy year-round. Our fishermen bring in fresh Oregon Dungeness crab and pink shrimp, both officially sustainable seafood fisheries. The [Coos Bay Boardwalk ](https://www.tripadvisor.com/Attraction_Review-g51813-d2043717-Reviews-Coos_Bay_Boardwalk-Coos_Bay_Oregon.html)along with the [North Bend Boardwalk ](https://www.tripadvisor.com/LocationPhotoDirectLink-g51993-i113552277-North_Bend_Oregon.html)are also lovely to explore.
 
 #### #5 Go Whale Watching
 
@@ -49,7 +53,7 @@ North Bend’s quaint downtown offers shoppers a blend of gift, antique and clot
 
 #### #7 Go Antiquing
 
-Our area has a rich and unique history, making this region an antique lovers playground. In fact, a treasure trove of beautiful antiques and collectibles are waiting to be discovered on Oregon’s south coast. [Click here]() to see more. 
+Our area has a rich and unique history, making this region an antique lovers playground. In fact, a treasure trove of beautiful antiques and collectibles are waiting to be discovered on Oregon’s south coast. [Click here]() to see more.
 
 #### #8 Go Winter Storm watching
 
@@ -57,7 +61,7 @@ Fall and winter is the best time to watch dramatic waves resulting from winter s
 
 #### #9 Visit an Art and/or History Museum
 
-Spend some time browsing the museums, galleries, and other cultural gems in our area like the [Coos Art Museum](http://www.coosart.org/), the cornerstone of visual arts on Oregon's Southern Coast and the [Coos History Museum](https://cooshistory.org/), Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. [ Click here](https://oregonsadventurecoast.com/art-history-culture/) to see more wonderful additions to our network of museums and galleries. 
+Spend some time browsing the museums, galleries, and other cultural gems in our area like the [Coos Art Museum](http://www.coosart.org/), the cornerstone of visual arts on Oregon's Southern Coast and the [Coos History Museum](https://cooshistory.org/), Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. [ Click here](https://oregonsadventurecoast.com/art-history-culture/) to see more wonderful additions to our network of museums and galleries.
 
 #### #10 Explore the hidden gems in North Bend Oregon
 
@@ -69,6 +73,6 @@ Have a charming adventure as you hit some of our favorite local destinations. [T
 
 #### #12 Take a memorable road trip
 
-The Cape Arago Highway and the Charleston to Bandon tour route are amazing on their own, but when combined, it makes for an inspiring adventure packed with natural wonder and fun along a remote stretch of shoreline here on Oregon’s South Coast. This 41-mile route is a delightful alternative to the Pacific Coast Highway (Highway 101) and will take just about 2-3 hours to drive (depending on the number of stops you make). The drive will lead you past six state parks, two National Wildlife Refuges, and America’s first National Estuarine Research Reserve. Travelers of all ages and experience levels will enjoy it as it has everything you could hope to see along the Oregon Coast — iconic views of the Pacific ocean, marine life, sea lions and seabirds, untouched beaches, secret coves and more! [Click here to learn more](https://oregonsadventurecoast.com/blog/featured-road-trip-cape-arago-highway-charleston-to-bandon-tour-route/). 
+The Cape Arago Highway and the Charleston to Bandon tour route are amazing on their own, but when combined, it makes for an inspiring adventure packed with natural wonder and fun along a remote stretch of shoreline here on Oregon’s South Coast. This 41-mile route is a delightful alternative to the Pacific Coast Highway (Highway 101) and will take just about 2-3 hours to drive (depending on the number of stops you make). The drive will lead you past six state parks, two National Wildlife Refuges, and America’s first National Estuarine Research Reserve. Travelers of all ages and experience levels will enjoy it as it has everything you could hope to see along the Oregon Coast — iconic views of the Pacific ocean, marine life, sea lions and seabirds, untouched beaches, secret coves and more! [Click here to learn more](https://oregonsadventurecoast.com/blog/featured-road-trip-cape-arago-highway-charleston-to-bandon-tour-route/).
 
 Need more ideas and inspiration? [Check out some of these adventures](https://oregonsadventurecoast.com/blog/live-from-oregons-adventure-coast-25-experiences-with-that-oregon-life/) by Oregon guru and journalist Rick Dancer from  That Oregon Life and his wife Kathy as they explore some of our favorite places and spaces in Coos Bay, North Bend & Charleston.
