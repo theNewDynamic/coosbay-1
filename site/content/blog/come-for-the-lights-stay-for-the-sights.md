@@ -7,6 +7,11 @@ tags:
 - Shore Acres State Park
 - " Holiday LIghts at Shore Acres "
 - 'Charleston Oregon '
+- Oregon Coast Visitors
+- Coos Bay
+- 'North Bend Oregon '
+- 'Charleston Oregon '
+- 'Fun things to do Charleston Oregon '
 categories: []
 draft: true
 
