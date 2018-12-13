@@ -1,28 +1,28 @@
 ---
 title: Wrap Up 2017 with Oregon's Annual Winter Whale Watch Week
-date: 2017-12-06T15:06:26.000Z
-description: >-
-  The end of another year is approaching which means it's time for the gray
-  whales make their annual journey from the arctic waters of the Bering and
-  Chukchi seas to the warmer waters near Baja Mexico. Whale watchers will often
-  see gray whales from Oregon’s shore nearly year-round, but the last week of
-  the year is special.
+date: 2017-12-06 15:06:26 +0000
+description: The end of another year is approaching which means it's time for the
+  gray whales make their annual journey from the arctic waters of the Bering and Chukchi
+  seas to the warmer waters near Baja Mexico. Whale watchers will often see gray whales
+  from Oregon’s shore nearly year-round, but the last week of the year is special.
 tags:
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - Gray Whales
-  - North Bend
-  - Oregon
-  - recreation
-  - Shore Acres State Park
-  - Watching Whales in Oregon
-  - Whale Watching Spoken Here
-  - Winter Whale Watch Week
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- Gray Whales
+- North Bend
+- Oregon
+- recreation
+- Shore Acres State Park
+- Watching Whales in Oregon
+- Whale Watching Spoken Here
+- Winter Whale Watch Week
 categories:
-  - Miscellaneous
-image: /img/12-17-17-anual-whale-watch.jpg
+- Miscellaneous
+image: "/img/12-17-17-anual-whale-watch.jpg"
+draft: true
+
 ---
 <pre><em>Photo Credit: <a href="https://whalespoken.wordpress.com/" target="_blank" rel="noopener noreferrer">Whale Watching Spoken Here®</a></em></pre>
 
