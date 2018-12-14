@@ -1,39 +1,39 @@
 ---
 title: 19 Free or Nearly-Free Ways To Experience Oregon's Adventure Coast
-date: 2016-09-20T14:58:33.000Z
-description: >+
-  We understand that for many travelers, budgets can be tight. But that does not
-  mean you can't take a fun trip to the coast any time of the year! Some of the
-  best destinations and activities on Oregon's Adventure Coast can be
-  experienced for a small amount and in many cases, absolutely FREE. Take the
-  mighty Pacific Ocean for example. One could spend hours gazing at it's
-  dramatic beauty without spending a dime.
-
+date: 2018-12-31 07:58:33 -0800
+description: "We understand that for many travelers, budgets can be tight. But that
+  does not mean you can't take a fun trip to the coast any time of the year! Some
+  of the best destinations and activities on Oregon's Adventure Coast can be experienced
+  for a small amount and in many cases, absolutely FREE. Take the mighty Pacific Ocean
+  for example. One could spend hours gazing at it's dramatic beauty without spending
+  a dime.\n\n"
 tags:
-  - Bowling
-  - Charleston Marine Life Center
-  - Coos Art Museum
-  - Coos Bay Boardwalk
-  - Coos History Museum and Maritime Collections
-  - First Friday Wine Walk
-  - Free Activities Oregon Coast
-  - Mingus Park
-  - Oregon Coast
-  - Oregon Dunes National Recreation Area
-  - Shore Acres State Park
-  - South Slough National Estuarine Research Reserve
-  - Southern Oregon Coast
-  - the Egyptian Theatre
-  - The Mill Casino
+- Bowling
+- Charleston Marine Life Center
+- Coos Art Museum
+- Coos Bay Boardwalk
+- Coos History Museum and Maritime Collections
+- First Friday Wine Walk
+- Free Activities Oregon Coast
+- Mingus Park
+- Oregon Coast
+- Oregon Dunes National Recreation Area
+- Shore Acres State Park
+- South Slough National Estuarine Research Reserve
+- Southern Oregon Coast
+- the Egyptian Theatre
+- The Mill Casino
 categories:
-  - Beach
-  - Culture & Museums
-  - Entertainment & Nightlife
-  - Fishing
-  - Crabbing & Clamming
-  - Historical
-  - Walking & Hiking
+- Beach
+- Culture & Museums
+- Entertainment & Nightlife
+- Fishing
+- Crabbing & Clamming
+- Historical
+- Walking & Hiking
 image: ''
+draft: true
+
 ---
 We understand that for many travelers, budgets can be tight. But that does not mean you can&#8217;t take a fun trip to the coast any time of the year! Some of the best destinations and activities on Oregon&#8217;s Adventure Coast can be experienced for a small amount and in many cases, absolutely FREE. Take the mighty Pacific Ocean for example. One could spend hours gazing at it&#8217;s dramatic beauty without spending a dime.
 
