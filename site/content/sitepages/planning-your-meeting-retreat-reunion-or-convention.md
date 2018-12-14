@@ -14,5 +14,3 @@ To start, we’ve created some planning tools to help you get organized and host
 * [Small Gatherings](/img/gathering-checklist-2018.pdf) Checklist _(Retreats & Family Reunions)_
 
 If you’d like more personalized help, e-mail us today at [mailto:info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com).
-
-_(**The form below is to request assistance with planning a meeting or convention.** Please do not use it to submit events to the VCB. Please email event information to_ [_info@oregonsadventurecoast.com_](info@oregonsadventurecoast.com)_. Thank You.)_ 
