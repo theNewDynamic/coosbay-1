@@ -1,6 +1,6 @@
 ---
 title: Experience 2018 Winter Whale Watch Week on Oregon's Adventure Coast
-date: 2015-12-03 23:02:23 +0000
+date: 2018-12-13 21:00:00 -0800
 description: 'Cap of 2018 with a Whale Watching Trip on the Oregon Coast! You''ll
   have a "whale of a time"! '
 tags:
