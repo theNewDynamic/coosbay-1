@@ -1,6 +1,6 @@
 ---
 title: 2018 Oregon Dungeness Crab Season Kicks Off!-
-date: 2000-12-31 21:00:00 -0800
+date: ''
 description: "It's the most wonderful time of the year... because crab season has
   officially kicked off in Oregon's south coast, Coos Bay, North Bend and Charleston!
   The season will offer the tastiest bounty of the sea for crab connoisseurs, and
