@@ -1,28 +1,28 @@
 ---
 title: Oregon Dungeness Crab Season Kicks Off!
-date: 2016-12-30T20:49:48.000Z
-description: >+
-  It's the most wonderful time of the year... because crab season has officially
-  kicked off in Oregon's south coast, Coos Bay, North Bend and Charleston! The
-  season will offer the tastiest bounty of the sea for crab connoisseurs, and
-  this year promises to be the best yet!
-
+date: 2016-12-30 20:49:48 +0000
+description: "It's the most wonderful time of the year... because crab season has
+  officially kicked off in Oregon's south coast, Coos Bay, North Bend and Charleston!
+  The season will offer the tastiest bounty of the sea for crab connoisseurs, and
+  this year promises to be the best yet!\n\n"
 tags:
-  - Charleston
-  - Coos Bay
-  - Crabbing & Clamming
-  - Dungeness Crab
-  - Dungeness crab season
-  - Fishing
-  - Crabbing & Clamming
-  - North Bend
-  - Oregon
-  - Oregon Coast
+- Charleston
+- Coos Bay
+- Crabbing & Clamming
+- Dungeness Crab
+- Dungeness crab season
+- Fishing
+- Crabbing & Clamming
+- North Bend
+- Oregon
+- Oregon Coast
 categories:
-  - Eat & Drink
-  - Fishing
-  - Crabbing & Clamming
+- Eat & Drink
+- Fishing
+- Crabbing & Clamming
 image: ''
+draft: true
+
 ---
 It&#8217;s the most wonderful time of the year&#8230; because crab season has officially kicked off in Oregon&#8217;s south coast, Coos Bay, North Bend and Charleston! The season will offer the tastiest bounty of the sea for crab connoisseurs, and this year promises to be the best yet!
 
