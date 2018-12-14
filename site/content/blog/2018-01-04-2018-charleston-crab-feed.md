@@ -1,30 +1,31 @@
 ---
-title: When and Where is the 34th Annual Charleston Crab Feed?
-date: 2018-01-04T15:02:59.000Z
-description: >-
-  'Crack Up' fresh Oregon Dungeness Crab from Charleston at the North Bend
-  Community Center on Saturday, February 10th, 2018!
+title: When and Where is the 2018 Annual Charleston Crab Feed?
+date: 2018-12-30 21:00:00 -0800
+description: "'Crack Up' fresh Oregon Dungeness Crab from Charleston at the North
+  Bend Community Center on Saturday, February 10th, 2018!"
 tags:
-  - Beaches
-  - Charleston
-  - Charleston Crab Feed
-  - charleston marina
-  - Charleston Merchants Association
-  - Charleston School
-  - Charleston Visitor Center
-  - Coast
-  - Coos Bay
-  - crab dinner
-  - Date Saturday February
-  - Fresh Dungeness Crab
-  - North Bend
-  - Oregon
-  - recreation
+- Beaches
+- Charleston
+- Charleston Crab Feed
+- charleston marina
+- Charleston Merchants Association
+- Charleston School
+- Charleston Visitor Center
+- Coast
+- Coos Bay
+- crab dinner
+- Date Saturday February
+- Fresh Dungeness Crab
+- North Bend
+- Oregon
+- recreation
 categories:
-  - Eat & Drink
-  - Fishing
-  - Crabbing & Clamming
-image: /img/02-02-18-catch-your-own-crab-mealoff.jpg
+- Eat & Drink
+- Fishing
+- Crabbing & Clamming
+image: "/img/02-02-18-catch-your-own-crab-mealoff.jpg"
+draft: true
+
 ---
 #### <h4><em>(This event was held in February 2018. The Date for the 35th Annual Charleston Crab Feed is February 9, 2019! Mark your calendars now so you don't miss it!)</em></h4>
 
