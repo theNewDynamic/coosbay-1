@@ -1,13 +1,13 @@
 ---
 title: Storm Watching
-url: /storm-watching
-photo: /img/travelers-information-header.jpg
+url: "/storm-watching"
+photo: "/img/travelers-information-header.jpg"
 seo:
-  description: >-
-    Want something amazing to do on your Oregon Coast trip? Try storm watching!
-    Fall & winter is the best time to watch dramatic waves reaching up to 120
-    feet high!
+  description: Want something amazing to do on your Oregon Coast trip? Try storm watching!
+    Fall & winter is the best time to watch dramatic waves reaching up to 120 feet
+    high!
   title: 'Oregon Coast Things to Do - Storm Watching | Oregon''s Adventure Coast '
+
 ---
 ## THE MAJESTY OF MOTHER NATURE
 
@@ -24,5 +24,7 @@ Shore Acres State Park is often lauded as the best stormwatching spot on the ent
 The safest areas to view winter storms are at the storm watching hut at Shore Acres State Park, the bluff overlooking Bastendorff Beach, Cape Arago State Park, and Sunset Bay State Park.
 
 The best viewing times tend to be November through March.
+
+<iframe width="695" height="403" src="[https://www.youtube.com/embed/jdnrfyh4gRc](https://www.youtube.com/embed/jdnrfyh4gRc "https://www.youtube.com/embed/jdnrfyh4gRc")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="695" height="403" src="https://www.youtube.com/embed/yTeho70rQFo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
