@@ -1,6 +1,8 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
+- title: Being in the Moment
+  photo: "/img/Shore-Acres-Couple-Flowers.jpg"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
 - photo: "/img/seven-devils-interior-night.jpg"
