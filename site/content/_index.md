@@ -1,10 +1,10 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
+- title: Best Storm Watching!
+  photo: "/img/storm-watching-wave-crash.jpg"
 - title: Being in the Moment
   photo: "/img/Shore-Acres-Couple-Flowers.jpg"
-- title: The Best Storm Watching!
-  photo: "/img/storm-watching-wave-crash.jpg"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
 - photo: "/img/seven-devils-interior-night.jpg"
