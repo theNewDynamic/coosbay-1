@@ -30,3 +30,5 @@ fields:
   template: contact
   label: Contact
   name: contact
+pages:
+- site/content/tourandequipment/indigenous-02.md
