@@ -4,7 +4,7 @@ date: 2019-01-04 13:28:22 -0800
 property_description: ''
 equip_type:
 - 1 - Tour
-photo_name: ''
+photo_name: "/img/indigenous-adventures-tours.jpg"
 photo_alt: ''
 address:
   street: ''
