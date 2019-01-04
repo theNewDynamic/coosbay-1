@@ -1,9 +1,9 @@
 ---
-title: Indigenous Travel
+title: Indigenous Adventures Guide Service
 date: 2019-01-04 13:28:22 -0800
 property_description: ''
 equip_type:
-- 2 - Equipement
+- 1 - Tour
 photo_name: ''
 photo_alt: ''
 address:
@@ -14,5 +14,6 @@ address:
 phone_local: ''
 phone_toll_free: ''
 website: ''
+draft: true
 
 ---
