@@ -17,6 +17,5 @@ address:
 phone_local: 541-537-0256
 phone_toll_free: ''
 website: https://www.indigenousadventuresfishing.com/
-draft: true
 
 ---
