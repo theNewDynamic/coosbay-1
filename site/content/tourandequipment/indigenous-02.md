@@ -1,6 +1,5 @@
 ---
 title: Indigenous Adventures Guide Service
-date: 2019-01-04 13:28:22 -0800
 property_name: Indigenous Adventures Guide Service
 property_description: Offers guided fishing trips for salmon, steelhead, shad, small
   mouth bass, striped bass, pink fin perch, & sturgeon, on the Coos, Coquille, Umpqua,
