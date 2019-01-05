@@ -9,6 +9,10 @@ fields:
 - type: textarea
   name: property_description
   label: Description
+- type: text
+  name: property_name
+  label: Business Name for Sorting
+  description: This text will determine the alpha sort
 - type: list
   name: equip_type
   label: Type
