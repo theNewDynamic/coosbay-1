@@ -1,8 +1,12 @@
 ---
-title: Winter Steelhead Fishing Forecast for 2019
+title: Oregon Coast Winter Steelhead Fishing Tips for 2019
 date: 2019-01-07 19:54:39 +0000
-description: ''
-image: ''
+description: 'Winter steelhead fishing is one of our most popular outdoor recreational
+  activities here in Coos Bay, North Bend and Charleston during the winter months.
+  We recently asked one of our local fishing experts, Gary Vonderohe from the Oregon
+  Department of Fish & Wildlife, to share some tips to help anglers get the most out
+  of their winter steelhead fishing trip. '
+image: "/img/hm-mas-fishing-mobile.jpg"
 tags:
 - best winter steelhead fishing
 - winter steelhead fishing trip
@@ -10,7 +14,7 @@ tags:
 categories: []
 
 ---
-_Winter steelhead fishing is one of our most popular outdoor recreational activities here in Coos Bay, North Bend and Charleston during the winter months. We recently asked one of our local fishing experts,_ **Gary Vonderohe** from the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/) , _to share some tips to help anglers get the most out of their winter steelhead fishing trip._ 
+_Winter steelhead fishing is one of our most popular outdoor recreational activities here in Coos Bay, North Bend and Charleston during the winter months. We recently asked one of our local fishing experts,_ **Gary Vonderohe** from the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/), _to share some tips to help anglers get the most out of their winter steelhead fishing trip._ 
 
 With a lack of rain in November through mid-December,  our winter steelhead fishing season was off to a slow start. However,  more rain in the forecast means that winter steelhead have begun moving into the Coos and Coquille basins. Here's what anglers need to know for this season: 
 
