@@ -1,6 +1,6 @@
 ---
 title: Oregon Coast Winter Steelhead Fishing Tips for 2019
-date: 2019-01-07 19:54:39 +0000
+date: 2001-01-10 21:00:00 -0800
 description: 'Winter steelhead fishing is one of our most popular outdoor recreational
   activities here in Coos Bay, North Bend and Charleston during the winter months.
   We recently asked one of our local fishing experts, Gary Vonderohe from the Oregon
