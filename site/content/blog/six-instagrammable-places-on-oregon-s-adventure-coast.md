@@ -20,7 +20,6 @@ tags:
 - The Oregon Dunes National Recreation Area
 - Fishermen’s Seafood Market
 categories: []
-draft: true
 
 ---
 The vast multitude of vista points and natural attractions like [Shore Acres State Park](https://oregonsadventurecoast.com/tags/shore-acres-state-park/), [Cape Arago Loop](https://oregonsadventurecoast.com/img/cape-arago-loop-itinerary-2018.pdf) and many other destinations on our coast give Instagramers plenty to work with. Parenting blogger Kristina Phelan was kind enough share some of her favorite local places to post from. Be sure to follow our Instagram feed at [@travelcoosbay](https://www.instagram.com/travelcoosbay/) and use the #travelcoosbay tag so we can see & share them too! 
