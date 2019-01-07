@@ -3,17 +3,14 @@ title: Winter Steelhead Fishing Forecast for 2019
 date: 2019-01-07 19:54:39 +0000
 description: ''
 image: ''
-tags: []
+tags:
+- best winter steelhead fishing
+- winter steelhead fishing trip
+- 'Oregon Coast fishing trip '
 categories: []
 
 ---
-_Of the many outdoor recreational activities here on Oregon’s Adventure Coast, winter steelhead fishing is undoubtedly a favorite among sportsmen! Coos Bay, North Bend and Charleston have a bounty of incredible fishing options, so we asked a local expert where fishermen can go to find the best winter steelhead fishing._
-
-We checked with **Gary Vonderohe**, a Fish Biologist with the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/) in Charleston, who shares his tips and recommendations below to help you plan your winter steelhead fishing trip to Coos Bay!
-
-To learn more, you can always check with the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/) for the most up to date recreation report and visit [Oregon’s Adventure Coast](https://oregonsadventurecoast.com/equipment-rent-and-buy) for a list of local bait and tackle shops. Visit our website to learn about more [fresh water fishing options](https://oregonsadventurecoast.com/tripideas/fresh-water-fishing-options--by-body-of-water) in Coos Bay.
-
-**By Gary Vonderohe**
+_Winter steelhead fishing is one of our most popular outdoor recreational activities here in Coos Bay, North Bend and Charleston during the winter months. We recently asked one of our local fishing experts,_ **Gary Vonderohe** from the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/) , _to share some tips to help anglers get the most out of their winter steelhead fishing trip._ 
 
 With a lack of rain in November through mid-December,  our winter steelhead fishing season was off to a slow start. However,  more rain in the forecast means that winter steelhead have begun moving into the Coos and Coquille basins. Here's what anglers need to know for this season: 
 
@@ -29,19 +26,12 @@ With a lack of rain in November through mid-December,  our winter steelhead fish
 
 **Coquille River.**
 
-In the Coquille Basin, hatchery steelhead are released in the North Fork and South Fork Coquille rivers.  
-
-Public angler access on the North Fork Coquille is primarily through Coos County’s Laverne Park. When fishing conditions are good most of the fishing holes are taken.  
-
-On the South Fork Coquille River there is some limited public bank fishing access sites but the river fishes best from a drift boat. The best stretches are from Beaver Creek (roughly halfway between Powers and Myrtle Point) downstream to Myrtle Point.  
-
-Best fishing on the North Fork is from December through early March.  
-
-On the South Fork fishing is best from December through early April.  
-
-The East Fork Coquille River is the only river in the Coos and Coquille basin where and angler has the option to harvest a wild winter steelhead.  Harvest is limited to 1 wild steelhead per day and only 3 per year.        
-
-Gary's Tips: 
+* In the Coquille Basin, hatchery steelhead are released in the North Fork and South Fork Coquille rivers.  
+* Public angler access on the North Fork Coquille is primarily through Coos County’s Laverne Park. When fishing conditions are good most of the fishing holes are taken.  
+* On the South Fork Coquille River there is some limited public bank fishing access sites but the river fishes best from a drift boat. The best stretches are from Beaver Creek (roughly halfway between Powers and Myrtle Point) downstream to Myrtle Point.  
+* Best fishing on the North Fork is from December through early March.  
+* On the South Fork fishing is best from December through early April.  
+* The East Fork Coquille River is the only river in the Coos and Coquille basin where and angler has the option to harvest a wild winter steelhead.  Harvest is limited to 1 wild steelhead per day and only 3 per year.        
 
 **The best time to head out is after a heavy rain.** Fishing for winter steelhead is almost always best after a heavy rain to get fish moving upstream but heavy rain will make the rivers unfishable for a few days.  
 
@@ -55,8 +45,12 @@ The West Fork Millicoma and North Fork Coquille rivers are the first rivers in t
 
 **Tips for fly fishermen:** For those anglers that like to fly fish for winter steelhead, drifting an egg pattern under a strike indicator is a popular technique which fish well in these bedrock dominated rivers.  There are a few places on all these rivers where it works well to swing flies through a run.   
 
-**Three adult fish per day.** From December 1 through April 30 each season, steelhead anglers in the Coos and Coquille basins are able to keep an additional fin-clipped steelhead per day for a total aggregate of 3 adult fish harvested per day. 
+**Three adult fish per day.** From December 1 through April 30 each season, steelhead anglers in the Coos and Coquille basins are able to keep an additional fin-clipped steelhead per day for a total aggregate of 3 adult fish harvested per day.   
+  
+To learn more, be sure to check with the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/) for the most up to date recreation report and visit [Oregon’s Adventure Coast](https://oregonsadventurecoast.com/equipment-rent-and-buy) for a list of local bait and tackle shops. Visit our website to learn about more [fresh water fishing options](https://oregonsadventurecoast.com/tripideas/fresh-water-fishing-options--by-body-of-water) in Coos Bay. 
 
-[https://oregonsadventurecoast.com/tripideas/winter-fun-in-oregons-adventure-coast/](https://oregonsadventurecoast.com/tripideas/winter-fun-in-oregons-adventure-coast/ "https://oregonsadventurecoast.com/tripideas/winter-fun-in-oregons-adventure-coast/")
+You can also learn more by reading the following posts:
 
-[https://oregonsadventurecoast.com/tripideas/winter-steelhead-fishing-trip-idea/](https://oregonsadventurecoast.com/tripideas/winter-steelhead-fishing-trip-idea/ "https://oregonsadventurecoast.com/tripideas/winter-steelhead-fishing-trip-idea/")
+[Winter Fun On Oregon’s Adventure Coast](https://oregonsadventurecoast.com/tripideas/winter-fun-in-oregons-adventure-coast/)
+
+[Winter Steelhead Fishing Trip Idea](Winter Steelhead Fishing Trip Idea)
