@@ -23,8 +23,7 @@ categories:
 - Eat & Drink
 - Fishing
 - Crabbing & Clamming
-image: "/img/02-02-18-catch-your-own-crab-mealoff.jpg"
-draft: true
+image: "/img/crabbing-clamming-alt.jpg"
 
 ---
 #### <h2>‘Crack Up’ fresh Oregon Dungeness Crab from Charleston at the North Bend Community Center on Saturday, February 9th, 2019!</h2>
@@ -37,24 +36,7 @@ The event will be from 11 AM to 3 PM at the North Bend Community Center, 2222 Br
 
 Volunteers will serve whole or half fresh crab dinners with side dishes, rolls, and a beverage. <strong>*Projected prices:</strong> Whole crab dinners are $20 and half crab dinners at $16 but prices are subject to the market. Make sure to leave room for dessert as pies and cakes will be available for $1 per slice. There will also be local wine, craft beer, crab bibs, entertainment and much much more!
 
-Crab Feeds have been celebrated here on Oregon's Adventure Coast for <a href="http://oregonsadventurecoast.com/2013/01/crab-feeds-have-been-celebrated-in-charleston-oregon-for-generations/" target="_blank" rel="noopener noreferrer">generations</a>. <a href="https://www.facebook.com/events/129814394486626/">Click here</a> for more information.
+Crab Feeds have been celebrated here on Oregon's Adventure Coast for <a href="http://oregonsadventurecoast.com/2013/01/crab-feeds-have-been-celebrated-in-charleston-oregon-for-generations/" target="_blank" rel="noopener noreferrer">generations</a>. 
 
-Here are some fun highlights from previous years.
+p style="text-align: left;">The <a href="http://www.oregonsadventurecoast.com/listings/annual-charleston-crab-feed/" target="_blank" rel="noopener noreferrer">Charleston Crab Feed</a> is one of our favorite ways to celebrate the bounty of the sea and has been a local tradition for generations.  While you are here, stroll around the Charleston Harbor- a bustling marina serving charter boat operators, sports fishermen, crabbers and recreational boaters. The harbor offers wonderful views & a variety of shops/restaurants. Learn about marine life at the Charleston Marine Life Center, go crabbing off the docks at the Charleston Marina Shore, storm watch at Shore Acres, Sunset Bay and Cape Arago State Parks, and hike the trails at South Slough National Estuarine Research Reserve. All are popular recreation spots just minutes away! <a href="http://oregonsadventurecoast.com/lodging/" target="_blank" rel="noopener noreferrer">Book your trip to the Oregon Coast</a> for this special feast you won't want to miss!</p>
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdiscovercharlestonoregon%2Fphotos%2Fa.552511188263834.1073741835.540929339422019%2F709624579219160%2F%3Ftype%3D3&width=500" width="500" height="285" frameborder="0" scrolling="no"></iframe>
-
-#### 
-
-#### 
-
-#### <em>*Subject to change, market dictates actual price during the event. </em>
-
-#### <p style="text-align: left;">The <a href="http://www.oregonsadventurecoast.com/listings/annual-charleston-crab-feed/" target="_blank" rel="noopener noreferrer">Charleston Crab Feed</a> is one of our favorite ways to celebrate the bounty of the sea and has been a local tradition for generations.  While you are here, stroll around the Charleston Harbor- a bustling marina serving charter boat operators, sports fishermen, crabbers and recreational boaters. The harbor offers wonderful views & a variety of shops/restaurants. Learn about marine life at the Charleston Marine Life Center, go crabbing off the docks at the Charleston Marina Shore, storm watch at Shore Acres, Sunset Bay and Cape Arago State Parks, and hike the trails at South Slough National Estuarine Research Reserve. All are popular recreation spots just minutes away! <a href="http://oregonsadventurecoast.com/lodging/" target="_blank" rel="noopener noreferrer">Book your trip to the Oregon Coast</a> for this special feast you won't want to miss!</p>
-
-#### 
-
-#### 
-
-#### 
-
-####
