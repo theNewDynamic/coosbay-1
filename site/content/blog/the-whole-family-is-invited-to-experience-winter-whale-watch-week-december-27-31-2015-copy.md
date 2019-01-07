@@ -1,6 +1,6 @@
 ---
 title: Experience 2018 Winter Whale Watch Week on Oregon's Adventure Coast
-date: 2018-12-13 21:00:00 -0800
+date: 2018-12-14 05:00:00 +0000
 description: 'Cap of 2018 with a Whale Watching Trip on the Oregon Coast! You''ll
   have a "whale of a time"! '
 tags:
@@ -22,6 +22,7 @@ tags:
 categories:
 - State Parks & National Lands
 image: "/img/Gray_whale_Merrill_Gosho_NOAA2_crop.jpg"
+draft: true
 
 ---
 ### **Come Have a "Whale of a Time" During Winter 2018 Whale Watching Week December 27th – 31st, 2018**
