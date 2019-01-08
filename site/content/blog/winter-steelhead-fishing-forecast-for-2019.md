@@ -6,7 +6,7 @@ description: 'Winter steelhead fishing is one of our most popular outdoor recrea
   We recently asked one of our local fishing experts, Gary Vonderohe from the Oregon
   Department of Fish & Wildlife, to share some tips to help anglers get the most out
   of their winter steelhead fishing trip. '
-image: "/img/hm-mas-fishing-mobile.jpg"
+image: "/img/Fishing-Dad-Son-BLOG.jpg"
 tags:
 - best winter steelhead fishing
 - winter steelhead fishing trip
