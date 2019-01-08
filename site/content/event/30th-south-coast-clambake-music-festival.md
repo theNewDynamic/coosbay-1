@@ -1,25 +1,26 @@
 ---
 title: 30th South Coast Clambake Music Festival
-photo: /img/clambake-music-fest-header-03.jpg
-mediumboxphoto: /img/clambake-music-fest-medium-03.jpg
-smallboxphoto: /img/clambake-music-fest-small-02.jpg
+photo: "/img/clambake-music-fest-header-03.jpg"
+mediumboxphoto: "/img/clambake-music-fest-medium-03.jpg"
+smallboxphoto: "/img/clambake-music-fest-small-02.jpg"
 desktoptitle: South Coast Clambake Music Fest
 mobiletitle: Clambake Music Fest
 hovertitle: Clambake Music Festival
-hoverdescription: >-
-  The Clambake Music Festival features incredible music that ranges from
-  traditional jazz to 50’s rock!
-startdate: '2019-03-08'
-enddate: '2019-03-10'
+hoverdescription: The Clambake Music Festival features incredible music that ranges
+  from traditional jazz to 50’s rock!
+startdate: 2019-03-08 00:00:00 +0000
+enddate: 2019-03-10 00:00:00 +0000
 address:
   city: North Bend
   state: Oregon
   street: The Mill Casino • Hotel & RV Park
   street2: 3201 Tremont Avenue
-  zip: '97459'
+  zip: 97459
 phone_toll_free: ''
 phone_local: 541-267-7665
-website: 'https://clambakejazz.com/'
+website: https://clambakejazz.com/
+largeboxphoto: "/img/clambake-music-fest-large.jpg"
+
 ---
 {{< floatimage src="/img/sccmusicfest_30thlogo-1.png" float="right" alt="30th Annual South Coast Clambake Music Festival" size="100" >}}
 
