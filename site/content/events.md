@@ -10,7 +10,7 @@ seo:
 ---
 Experience the infectious fun at the various seasonal, holiday, and special events throughout Coos Bay, North Bend, and Charleston. The historic Egyptian Theatre is an absolute must-see with frequent events, live music, and movies. 
 
-## Oregon Coast Music, <br>Food, & Fun
+## Oregon Coast Music, Food, & Fun
 
 Enjoy the enticing food, beverages, and talented local and national musicians at the various festivals throughout the Oregon Coast including the BBQ, Blues, & Brews Fest, the Blackberry Arts Festival, and the Charleston Seafood Festival.
 
