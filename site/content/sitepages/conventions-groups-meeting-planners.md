@@ -11,9 +11,9 @@ Thank you for having your gathering here. We know that you need to meet specific
 
 But, logistics aside, we also have the ability to work with you, one-on-one, to define needs and find unique and creative venues, as well as provide itineraries for social outings. It is important to us that you have all your details met, but it’s rewarding for us, to know we’ve given you a back drop and venues that event attendees will remember fondly.
 
-If you’d like more personalized help, e-mail us today at [info@oregonsadventurecoast.com](info@oregonsadventurecoast.com).
+If you’d like more personalized help, e-mail us today at [info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com).
 
-_(**The form below is to request assistance with planning a meeting or convention.** Please do not use it to submit events to the VCB. Please email event information to [info@oregonsadventurecoast.com_](info@oregonsadventurecoast.com). Thank You.)_
+_(**The form below is to request assistance with planning a meeting or convention.** Please do not use it to submit events to the VCB. Please email event information to _[info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com)._ Thank You.)_
 
 ### Meeting & Convention Information Request
 
