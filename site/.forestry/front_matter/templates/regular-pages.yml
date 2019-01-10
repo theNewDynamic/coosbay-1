@@ -20,4 +20,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- site/content/sitepages/contest-january-2019-comcast-win-weekend.md
 - site/content/sitepages/regis-page.md
