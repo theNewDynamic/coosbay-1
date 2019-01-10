@@ -104,4 +104,5 @@ RedirectMatch 301 ^/2010/.*$ https://oregonsadventurecoast.com/blog
 Redirect 301 /rob https://oregonsadventurecoast.com/?utm_source=Rob&utm_medium=Basin_Tackle&utm_campaign=Sponsorship
 Redirect 301 /listings/polar-bear-plunge-2 https://oregonsadventurecoast.com/calendar/
 Redirect 301 /adventures/stormwatching https://oregonsadventurecoast.com/storm-watching
+Redirect 301 /listings/shore-acres-state-park https://oregonsadventurecoast.com/state-parks-and-national-lands/
 
