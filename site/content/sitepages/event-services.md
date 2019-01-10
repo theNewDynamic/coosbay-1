@@ -14,8 +14,8 @@ When you select Oregon’s Adventure Coast for your meeting, convention, group t
 
 * [Group-Friendly Lodging Properties PDF](/img/group-hotels-2018.pdf)
 
-* [Mileage Chart PDF](/img/mileage-chart-2018.pdf)
+* [Mileage Chart PDF](/img/mileage-chart.pdf)
 
-* [Transportation Options PDF](/img/transportation-options-2018.pdf)
+* [Transportation Options PDF](/img/transportation-options.pdf)
 
 If you’d like more personalized help, e-mail us today at <mailto:info@oregonsadventurecoast.com>.
