@@ -1,6 +1,6 @@
 ---
 title: Contest January 2019 Comcast Win Weekend
-layout: meeting-planners-sub
+layout: contact
 url: contest-jan-2019-comcast-win-weekend
 photo: /img/meeting-planners.jpg
 
