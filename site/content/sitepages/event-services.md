@@ -12,7 +12,7 @@ When you select Oregon’s Adventure Coast for your meeting, convention, group t
 
 * [Group Friendly Attractions PDF](/img/group-attractions-2018.pdf)
 
-* [Group-Friendly Lodging Properties PDF](/img/group-hotels-2018.pdf)
+* [Group-Friendly Lodging Properties PDF](/img/group-friendly-properties.pdf)
 
 * [Mileage Chart PDF](/img/mileage-chart.pdf)
 
