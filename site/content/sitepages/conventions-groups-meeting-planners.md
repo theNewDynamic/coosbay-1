@@ -13,7 +13,7 @@ But, logistics aside, we also have the ability to work with you, one-on-one, to 
 
 If you’d like more personalized help, e-mail us today at [info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com).
 
-_(**The form below is to request assistance with planning a meeting or convention.** Please do not use it to submit events to the VCB. Please email event information to _[info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com)._ Thank You.)_
+_(**The form below is to request assistance with planning a meeting or convention.** Please do not use it to submit events to the VCB. Please email event information to_ _[info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com)._ _Thank You.)_
 
 ### Meeting & Convention Information Request
 
