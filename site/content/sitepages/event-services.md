@@ -8,7 +8,7 @@ When you select Oregon’s Adventure Coast for your meeting, convention, group t
 
 * [Catering Options PDF](/img/catering-options-2018.pdf)
 
-* [Event & Wedding Services PDF](/img/services-2018.pdf)
+* [Event & Wedding Services PDF](/img/event-wedding-services.pdf)
 
 * [Group Friendly Attractions PDF](/img/group-attractions-2018.pdf)
 
