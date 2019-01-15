@@ -27,3 +27,5 @@ fields:
   name: image
   label: Image
   template: image
+pages:
+- site/content/event/8th-annual-bbq-blues-brews-on-the-bay.md
