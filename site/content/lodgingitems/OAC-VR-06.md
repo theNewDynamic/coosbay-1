@@ -18,7 +18,7 @@ property_description: Hideout in a coastal forest. Built in the 60's as a fishin
   retreat, this cozy cabin is right on the river & in the heart of old logging history.
   Completely remodeled. It provides a perfect excuse to hike, bike, fish & explore.
   Close to Coos Bay.
-website: https://www.airbnb.com/rooms/6306066?guests=1&adults=1
+website: https://www.airbnb.com/rooms/6306066
 amenityList:
 - amenitySelect: 5
 - amenitySelect: 6
