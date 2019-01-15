@@ -8,7 +8,7 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: layout
+- name: layout-02
   label: Layout
   type: text
   hidden: true
@@ -19,6 +19,22 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - contact
+    - meeting-planners
+    - meeting-planners-sub
+    - our-area
+    - press-media-industry
+    - relocation-request
+    - thank-you
+    - travelersinfo
+  label: Layout
+  description: Choose Layout/Sidebar for Your Page
 pages:
 - site/content/sitepages/contest-january-2019-comcast-win-weekend.md
 - site/content/sitepages/regis-page.md
