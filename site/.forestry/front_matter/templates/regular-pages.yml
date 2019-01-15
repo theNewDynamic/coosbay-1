@@ -8,12 +8,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: layout-02
-  label: Layout
-  type: text
-  hidden: true
-  default: ''
-  description: Does this page needs a special layout
 - name: url
   label: Url
   type: text
@@ -35,6 +29,10 @@ fields:
     - travelersinfo
   label: Layout
   description: Choose Layout/Sidebar for Your Page
+- type: file
+  name: photo
+  label: Header Photo
+  description: Choose a header image - size to 2048px by 530px.
 pages:
 - site/content/sitepages/contest-january-2019-comcast-win-weekend.md
 - site/content/sitepages/regis-page.md
