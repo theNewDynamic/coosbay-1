@@ -8,10 +8,10 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: layout
+- name: layout-1
   label: Layout
   type: text
-  hidden: true
+  hidden: false
   default: ''
   description: Does this page needs a special layout
 - name: url
@@ -19,3 +19,19 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - contact
+    - meeting-planners
+    - meeting-planners-sub
+    - our-area
+    - press-media-industry
+    - relocation-request
+    - thank-you
+    - travelersinfo
+  label: Layout
+  description: Choose the Layout/Sidebar for Your Page
