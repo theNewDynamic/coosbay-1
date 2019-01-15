@@ -33,8 +33,8 @@ The Mill's BBQ, Blues & Brews on the Bay has grown into one of The Mill's most a
 **Friday, May 24, 2019**
 
 3:00 pm – 6:30 pm – JUDGING CLASS  
-Learn the ins and outs of BBQ and become a Certified KCBS BBQ Judge.   
-_(To become a judge: The fee is $100 for non-KCBS members and $75 for current KCBS members. Registration also includes a 1 year membership to KCBS. Pre-registration is required. For more information on becoming a judge, contact_ [_Amy Bailey_](abailey@themillcasino.com)_.)_  
+Learn the ins and outs of BBQ and become a Certified KCBS BBQ Judge.  
+_(To become a judge: The fee is $100 for non-KCBS members and $75 for current KCBS members. Registration also includes a 1 year membership to KCBS. Pre-registration is required. For more information on becoming a judge, contact_ [_Amy Bailey_](mailto:abailey@themillcasino.com)_.)_  
 7:00 pm – 9:00 pm  – Meet and greet with cooks and professional pitmasters. Enjoy live entertainment and a no host ba­r in the Salmon Room. Public welcome. 21 and older
 
 **Saturday, May 25, 2019**
@@ -44,8 +44,8 @@ ALL DAY! Sample BBQ from the competitors.
 
 **Sunday, May 26, 2019**
 
-\**ALL DAY! Sample BBQ from the competitors.  
-_* NOTE: BBQ competitors will be in competition mode, new items are typically released every half hour. Be sure to check back often!_
+\*_ALL DAY! Sample BBQ from the competitors.  
+__ NOTE: BBQ competitors will be in competition mode, new items are typically released every half hour. Be sure to check back often!_
 
 Noon – BBQ Judging begins
 
