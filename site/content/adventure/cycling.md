@@ -4,7 +4,7 @@ url: "/cycling"
 photo: "/img/adventures-biking-header.jpg"
 
 ---
-Make Some Tracks!
+## Make Some Tracks!
 
 Whether you take to the road, fat bike on the beach, or careen around single-track trails, you will find heart pumping options on Oregon's Adventure Coast.
 
