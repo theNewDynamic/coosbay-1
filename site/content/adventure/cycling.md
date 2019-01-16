@@ -40,7 +40,7 @@ These professionally built trails are made to withstand the coast's weather, so 
 
 ## Fat Biking
 
-_From rocky headlands to wide-open shores, agates, seabirds, tide pools and lighthouses in the distance, the Oregon Coast is a balm for the soul. Why ride it? Because its 363 miles of glorious coastline are full of wonder, largely car-free and accessible for us all._ - Jen Anderson, Travel Oregon
+_From rocky headlands to wide-open shores, agates, seabirds, tide pools and lighthouses in the distance, the Oregon Coast is a balm for the soul. Why ride it? Because its 363 miles of glorious coastline are full of wonder, largely car-free and accessible for us all._  - Jen Anderson, Travel Oregon
 
 Grab your big, balloon tires and bring your bike down to the beaches and the dunes. Ride along the miles of Horsfall Beach and into The Dunes for a challenging experience. As Katy Bryce put it in her article, [_Fat Biking 100 Miles of Oregon Coast_](https://traveloregon.com/things-to-do/outdoor-recreation/bicycling/fat-biking/fat-biking-100-miles-of-oregon-coast), "Riding fat bikes is not just beach cruising! [The Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html) provided us with the opportunity to shred hard in soft sand. Hike up. Slide down. Giggle. Repeat."
 
