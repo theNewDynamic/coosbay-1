@@ -8,23 +8,23 @@ Make Some Tracks!
 
 Whether you take to the road, fat bike on the beach, or careen around single-track trails, you will find heart pumping options on Oregon's Adventure Coast.
 
-[![The Oregon Coast Bike Route on Oregon's Adventure Coast](https://github.com/tyler-jones/coosbay/raw/aeb2f8abde05ac16f914d7acf9ae6f9761b8df1b/img/road-cycling-695x322.jpg)](https://github.com/tyler-jones/coosbay/blob/aeb2f8abde05ac16f914d7acf9ae6f9761b8df1b/img/road-cycling-695x322.jpg)
+![](/img/road-cycling-695x322.jpg)
 
 ## The Oregon Coast Bike Route
 
 [Check out The Oregon Coast Bike Route (PDF).](https://www.oregon.gov/ODOT/Programs/TDD%20Documents/oregon-coast-bike-route-map.pdf) Oregon has been supporting bicycling since 1971 by developing bikeways throughout the state. Thousands of bicyclists enjoy the natural beauty of the Oregon Coast Bike Route annually. For the most part, it follows US Highway 101 as a shoulder bikeway. In several areas, the route departs from the main highway and follows county roads and city streets. These sections are closer to the ocean, are more scenic, and have lower traffic volumes and slower traffic speeds. Coos Bay, North Bend, Charleston is one of the areas where cyclists depart from the main highway and takes a scenic detour along the rugged coastline on Cape Arago Loop and 7 Devils Road. [Click here for the North Bend to Bandon Oregon Coast Trail Map.](https://www.oregon.gov/oprd/PARKS/docs/OCT_g.pdf)
 
-[![Whiskey Run Mountain Biking Trail](https://github.com/tyler-jones/coosbay/raw/aeb2f8abde05ac16f914d7acf9ae6f9761b8df1b/img/mountain-biking-handlebarrs-695x322.jpg)](https://github.com/tyler-jones/coosbay/blob/aeb2f8abde05ac16f914d7acf9ae6f9761b8df1b/img/mountain-biking-handlebarrs-695x322.jpg)
+![](/img/mountain-biking-handlebarrs-695x322.jpg)
 
 ## Whiskey Run Mountain Biking Trail
 
-{{< link url="[https://www.mtbproject.com/directory/8019222/whiskey-run-trails](https://www.mtbproject.com/directory/8019222/whiskey-run-trails "https://www.mtbproject.com/directory/8019222/whiskey-run-trails")" >}}Check out the Whiskey Run Mountain Biking Trails here.{{< /link >}} The Whiskey Run Mountain Bike Trails is a brand new, one-of-a-kind trail system on the Southern Oregon Coast. Ribbons of clay dirt flow and wind through the Coos County Forest in these cross-country style trails. Moderate climbing and fun descending make this system worth the drive to the gorgeous Southern Oregon Coast. The trail system is located about 10 minutes from Bandon or Coos Bay off Highway 101, in the mists of the coastal forest.
+[Check out the Whiskey Run Mountain Biking Trails here.](https://www.mtbproject.com/directory/8019222/whiskey-run-trails) The Whiskey Run Mountain Bike Trails is a brand new, one-of-a-kind trail system on the Southern Oregon Coast. Ribbons of clay dirt flow and wind through the Coos County Forest in these cross-country style trails. Moderate climbing and fun descending make this system worth the drive to the gorgeous Southern Oregon Coast. The trail system is located about 10 minutes from Bandon or Coos Bay off Highway 101, in the mists of the coastal forest.
 
 Located in an active logging forest, Whiskey Run gives visitors a view of the Coos County Forest most do not get to see - harvesting in this coastal forest while enjoying sweeping views, tranquil streams, and fern covered forest floors. The trails are a blend between flow and cross country style, and are great for all levels of riders with open sight lines, easy climbs, and chances to catch some air if you want. You'll dip and wind through the forest in this unique South Coast environment.
 
 These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services. _Note: 10 of the 30 miles are complete with Phase II construction set to begin soon._
 
-[![Other Notable Mountain Biking Trails on Southern Oregon's Coast](https://github.com/tyler-jones/coosbay/raw/aeb2f8abde05ac16f914d7acf9ae6f9761b8df1b/img/mountain-biking-tire-dust.jpg)](https://github.com/tyler-jones/coosbay/blob/aeb2f8abde05ac16f914d7acf9ae6f9761b8df1b/img/mountain-biking-tire-dust.jpg)
+![](/img/mountain-biking-tire-dust.jpg)
 
 ## Other Mountain Biking Trails
 
@@ -36,7 +36,7 @@ These professionally built trails are made to withstand the coast's weather, so 
 
 [**EUPHORIA RIDGE TRAILS**](http://coostrails.com/traildescriptions/euphoriaridge/euphoriaridge.htm) - this 10 mile track begins on dirt road and quickly moves to single-track trails, through meadows, forest land, and tribal lands.
 
-[![Fat Tire Biking on  Oregon's Adventure Coast](https://github.com/tyler-jones/coosbay/raw/aeb2f8abde05ac16f914d7acf9ae6f9761b8df1b/img/fat-tire-biking-695x322.jpg)](https://github.com/tyler-jones/coosbay/blob/aeb2f8abde05ac16f914d7acf9ae6f9761b8df1b/img/fat-tire-biking-695x322.jpg)
+![](/img/fat-tire-biking-695x322.jpg)
 
 ## Fat Biking
 
