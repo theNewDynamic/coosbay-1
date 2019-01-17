@@ -9,7 +9,7 @@ Enter to Win a Weekend for Two
 
 **Prize package:**
 
-**• 2-Night Stay at Property of Your Choice (**[**https://oregonsadventurecoast.com/lodging/**](https://oregonsadventurecoast.com/lodging/ "https://oregonsadventurecoast.com/lodging/")**)**
+**• 2-Night Stay at Property of Your Choice (Choose from Hotels or Motels in Coos Bay or North Bend. Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included in this offer (Visit Our Lodging Section)**
 
 **• Vouchers for Dinner or Lunch for Two at**
 
