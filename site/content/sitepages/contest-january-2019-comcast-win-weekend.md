@@ -1,11 +1,11 @@
 ---
-title: Contest January 2019 Comcast Win Weekend
+title: 'Weekend Giveaway Contest '
 layout: contact
 url: contest-jan-2019-comcast-win-weekend
 photo: "/img/couple-kayak-facing-camera.jpg"
 
 ---
-Enter to Win a Weekend for Two
+![](/img/giveaway-header-jan-comcast.png)
 
 **Prize package:**
 
