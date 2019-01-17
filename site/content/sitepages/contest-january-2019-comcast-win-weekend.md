@@ -2,7 +2,7 @@
 title: Contest January 2019 Comcast Win Weekend
 layout: contact
 url: contest-jan-2019-comcast-win-weekend
-photo: "/img/meeting-planners.jpg"
+photo: "/img/couple-kayak-facing-camera.jpg"
 
 ---
 Enter to Win a Weekend for Two
@@ -45,6 +45,8 @@ your choice in North Bend, Oregon or Coos Bay, Oregon
 > Etc, etc, etc.
 
 _Call ahead to make your reservations. Valid for one year from prize date._
+
+## ENTER HERE TO WIN!
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/90134603954152"></script>
 
