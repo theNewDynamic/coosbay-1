@@ -7,6 +7,8 @@ seo:
     Offering several family style eateries, as well as ethnic, chain, seafood, and
     fine dining restaurants.
   title: Oregon Coast Trips Vacations - Dining | Oregon's Adventure Coast
+  image: "/img/dining-header.jpg"
+  imgalt: Seafood dining on oregon's adventure coast
 
 ---
 Wherever you are at Oregon’s Adventure Coast, you will have a wide variety of dining and meal options. We have several family style eateries, as well as ethnic, chain, seafood and fine dining restaurants. 
