@@ -12,44 +12,36 @@ seo:
 ---
 ![](/img/giveaway-header-jan-comcast.png)
 
-**Prize package:**
+These look great.
 
-**• 2-Night Stay at Property of Your Choice (Choose from Hotels or Motels in Coos Bay or North Bend. Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included in this offer (Visit Our Lodging Section)**
+Prize package:
 
-**• Vouchers for Dinner or Lunch for Two at**
+Rest up!
 
-**> 7 Devils Brewing Co. (**[**https://www.7devilsbrewery.com/**](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/")**)**
+* 2-Night Stay at Property of Your Choice 
+* Choose from Hotels or Motels in Coos Bay or North Bend. Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included.  (Lodging Options to be Chosen From Hotel/Motels at [https://oregonsadventurecoast.com/lodging/](https://oregonsadventurecoast.com/lodging/ "https://oregonsadventurecoast.com/lodging/"))
 
-**> Rodeo Steakhouse Coos Bay (**[**https://www.rodeosteakhousegrill.com/**](https://www.rodeosteakhousegrill.com/ "https://www.rodeosteakhousegrill.com/")**)**
+##   
+Eat to Your Hearts Content!
 
-**> Sharkbites Cafe (**[**http://www.sharkbites.cafe/**](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/")**)**
+* Meal Vouchers for Each of the Venues Below in the Amount Specified
+  * $75 Voucher The Mill Casino • Hotel & RV Park
+  * $50 Voucher 7 Devils Brewing Co. ([https://www.7devilsbrewery.com/](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/"))
+  * $50 Voucher Rodeo Steakhouse Coos Bay ([rodeosteakhousegrill.com](https://www.rodeosteakhousegrill.com/ "https://www.rodeosteakhousegrill.com/"))
+  * $50 Voucher Sharkbites Cafe ([www.sharkbites.cafe](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/"))
+  * $50 Voucher Back Alley Pub at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
 
-**> Back Alley Pub at North Bend Lanes (**[**https://northbendlanes.com/**](https://northbendlanes.com/ "https://northbendlanes.com/")**)**
+Alcohol and gratuity not included.
 
-**(I know there will be more but that’s what I have who far)**
+## Keep Busy!
 
-**• Passes for a Dune Buggy Tour from Spinreel Dune Buggy & ATV Rental (**[**https://www.ridetheoregondunes.com/**](https://www.ridetheoregondunes.com/ "https://www.ridetheoregondunes.com/")**)**
+Adventure Abounds with Passes for Two to the Locations Listed Below.
 
-**• Passes to the Charleston Marine Life Center (**[**Visit Website**](http://www.charlestonmarinelifecenter.com "Visit Our Website")**)**
-
-**• Passes for Bowling at North Bend Lanes (**[**Visit Our Website**](https://northbendlanes.com)**)**
-
-**• Passes to Coos History Museum (**[**https://cooshistory.org/**](https://cooshistory.org/ "Visit Our Website")**)**
-
-**• We’ll cover the cost of kayak rentals from Waxers or if they prefer a guided tour, we’ll work with South Coast Tours**
-
-**Does that seem like enough? I haven’t heard from the Mill yet. I’m talking Kat at lunch so I will ask her if they can do a meal.**
-
-your choice in North Bend, Oregon or Coos Bay, Oregon
-• Dinner for Two at the restaurant of your choice ($100 value. Does not include alcohol or gratuity)
-• Adventure Passes:
-
-> 2 Passes for the Charleston Marine Life Center
-> 2 Passes to the Coos History Museum
-> 2 Passes for Spinreel Group Tour
-> Etc, etc, etc.
-
-_Call ahead to make your reservations. Valid for one year from prize date._
+* Two Passes for a Dune Buggy Tour from Spinreel Dune Buggy & ATV Rental ([ridetheoregondunes.com](https://www.ridetheoregondunes.com/ "https://www.ridetheoregondunes.com/"))
+* Two Passes to the Charleston Marine Life Center ([charlestonmarinelifecenter.com](http://www.charlestonmarinelifecenter.com/ "http://www.charlestonmarinelifecenter.com/"))
+* Two Passes for Bowling at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
+* Two Passes to Coos History Museum ([cooshistory.org](https://cooshistory.org/ "https://cooshistory.org/"))
+* Two Passes for Kayak Adventure  - Specifics Apply
 
 ## ENTER HERE TO WIN!
 
