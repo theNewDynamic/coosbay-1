@@ -13,3 +13,7 @@ draft: true
 
 ---
 lorem iupsome,.lsdjf;ljasd;fljas;ldfj;lasdjfl;kjef
+
+{{% colortext color="000000" %}}Anything goes{{% /colortext %}}![](/img/couple-kayak-facing-camera.jpg)
+
+{{< floatimage src="img/couple-kayak-facing-camera.jpg" float="right" alt="katyaking" size="40" >}}
