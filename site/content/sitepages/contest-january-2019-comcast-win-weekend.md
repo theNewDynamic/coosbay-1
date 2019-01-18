@@ -12,26 +12,20 @@ seo:
 ---
 ![](/img/giveaway-header-jan-comcast.png)
 
-These look great.
+## Rest up!
 
-Prize package:
+* 2-Night Stay at Property of Your Choice
+* Choose from Hotels or Motels in Coos Bay or North Bend. Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included. Lodging options to be selected from Hotel/Motels at [oregonsadventurecoast.com/lodging](https://oregonsadventurecoast.com/lodging/ "https://oregonsadventurecoast.com/lodging/").
 
-Rest up!
+## Eat to Your Hearts Content!
 
-* 2-Night Stay at Property of Your Choice 
-* Choose from Hotels or Motels in Coos Bay or North Bend. Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included.  (Lodging Options to be Chosen From Hotel/Motels at [https://oregonsadventurecoast.com/lodging/](https://oregonsadventurecoast.com/lodging/ "https://oregonsadventurecoast.com/lodging/"))
+Meal Vouchers for Each of the Venues Below in the Amount Specified. Alcohol and gratuity not included.
 
-##   
-Eat to Your Hearts Content!
-
-* Meal Vouchers for Each of the Venues Below in the Amount Specified
-  * $75 Voucher The Mill Casino • Hotel & RV Park
-  * $50 Voucher 7 Devils Brewing Co. ([https://www.7devilsbrewery.com/](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/"))
-  * $50 Voucher Rodeo Steakhouse Coos Bay ([rodeosteakhousegrill.com](https://www.rodeosteakhousegrill.com/ "https://www.rodeosteakhousegrill.com/"))
-  * $50 Voucher Sharkbites Cafe ([www.sharkbites.cafe](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/"))
-  * $50 Voucher Back Alley Pub at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
-
-Alcohol and gratuity not included.
+* $75 Voucher The Mill Casino • Hotel & RV Park
+* $50 Voucher 7 Devils Brewing Co. ([https://www.7devilsbrewery.com/](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/"))
+* $50 Voucher Rodeo Steakhouse Coos Bay ([rodeosteakhousegrill.com](https://www.rodeosteakhousegrill.com/ "https://www.rodeosteakhousegrill.com/"))
+* $50 Voucher Sharkbites Cafe ([www.sharkbites.cafe](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/"))
+* $50 Voucher Back Alley Pub at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
 
 ## Keep Busy!
 
