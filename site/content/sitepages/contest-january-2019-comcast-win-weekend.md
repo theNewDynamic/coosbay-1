@@ -1,5 +1,5 @@
 ---
-title: Oregon Coast Giveaway
+title: Oregon's Adventure Coast Giveaway
 layout: contact
 url: contest-jan-2019-comcast-win-weekend
 photo: "/img/couple-kayak-facing-camera.jpg"
@@ -26,8 +26,8 @@ You Will Receive Meal Vouchers for Each of the Venues Listed Below in the Amount
 * $75 Comp Card - The Mill Casino • Hotel & RV Park ([themillcasino.com](https://www.themillcasino.com/))
 * $50 - 7 Devils Brewing Co. ([7devilsbrewery.com](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/"))
 * $50 - Rodeo Steakhouse & Grill ([rodeosteakhousegrill.com](https://www.rodeosteakhousegrill.com/ "https://www.rodeosteakhousegrill.com/"))
-* $50 - Sharkbites Cafe ([sharkbites.cafe](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/"))
-* $50 - Back Alley Pub at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
+* $35 - Sharkbites Cafe ([sharkbites.cafe](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/"))
+* $35 - Back Alley Pub at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
 
 <div class="margin-50px-top"></div>
 
