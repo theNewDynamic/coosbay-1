@@ -15,7 +15,7 @@ seo:
 ## Rest up!
 
 * 2-Night Stay at Property of Your Choice
-* Choose from Hotels or Motels in Coos Bay or North Bend. Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included. Lodging options to be selected from Hotel/Motels at [oregonsadventurecoast.com/lodging](https://oregonsadventurecoast.com/lodging/ "https://oregonsadventurecoast.com/lodging/").
+* Choose from Hotels or Motels in Coos Bay or North Bend. Lodging options to be selected from Hotel/Motels at [our lodging page](/lodging). Note: Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included.
 
 ## Eat to Your Hearts Content!
 
