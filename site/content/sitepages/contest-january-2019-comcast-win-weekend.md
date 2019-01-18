@@ -15,27 +15,27 @@ seo:
 ## Rest up!
 
 * 2-Night Stay at Property of Your Choice
-* Choose from Hotels or Motels in Coos Bay or North Bend. Lodging options to be selected from Hotel/Motels at [our lodging page](/lodging). Note: Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included.
+* Choose from Hotels or Motels in Coos Bay or North Bend. Lodging options to be selected from Hotel/Motels at [our lodging page](/lodging). _Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included._ 
 
 ## Eat to Your Hearts Content!
 
-Meal Vouchers for Each of the Venues Below in the Amount Specified. Alcohol and gratuity not included.
+Meal vouchers for each of the venues listed below in the amount specified. _Alcohol and gratuity not included. No cash value._ 
 
-* $75 Voucher The Mill Casino • Hotel & RV Park
-* $50 Voucher 7 Devils Brewing Co. ([https://www.7devilsbrewery.com/](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/"))
-* $50 Voucher Rodeo Steakhouse Coos Bay ([rodeosteakhousegrill.com](https://www.rodeosteakhousegrill.com/ "https://www.rodeosteakhousegrill.com/"))
-* $50 Voucher Sharkbites Cafe ([www.sharkbites.cafe](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/"))
-* $50 Voucher Back Alley Pub at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
+* $75 Comp Card - The Mill Casino • Hotel & RV Park ([themillcasino.com](https://www.themillcasino.com/))
+* $50 - 7 Devils Brewing Co. ([7devilsbrewery.com](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/"))
+* $50 - Rodeo Steakhouse & Grill ([rodeosteakhousegrill.com](https://www.rodeosteakhousegrill.com/ "https://www.rodeosteakhousegrill.com/"))
+* $50 - Sharkbites Cafe ([sharkbites.cafe](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/"))
+* $50 - Back Alley Pub at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
 
 ## Keep Busy!
 
-Adventure Abounds with Passes for Two to the Locations Listed Below.
+Adventure abounds with passes for two to the locations listed below. _No cash value._
 
 * Two Passes for a Dune Buggy Tour from Spinreel Dune Buggy & ATV Rental ([ridetheoregondunes.com](https://www.ridetheoregondunes.com/ "https://www.ridetheoregondunes.com/"))
 * Two Passes to the Charleston Marine Life Center ([charlestonmarinelifecenter.com](http://www.charlestonmarinelifecenter.com/ "http://www.charlestonmarinelifecenter.com/"))
 * Two Passes for Bowling at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
 * Two Passes to Coos History Museum ([cooshistory.org](https://cooshistory.org/ "https://cooshistory.org/"))
-* Two Passes for Kayak Adventure  - Specifics Apply
+* Two Passes for a Kayaking Adventure  - Specifics Apply
 
 ## ENTER HERE TO WIN!
 
