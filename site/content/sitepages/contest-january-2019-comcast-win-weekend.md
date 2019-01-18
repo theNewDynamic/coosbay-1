@@ -19,7 +19,7 @@ seo:
 
 ## Eat to Your Hearts Content!
 
-You Will Receive a Meal Vouchers for Each of the Venues Listed Below in the Amount Specified. _Alcohol and gratuity not included. No cash value._
+You Will Receive Meal Vouchers for Each of the Venues Listed Below in the Amount Specified. _Alcohol and gratuity not included. No cash value._
 
 * $75 Comp Card - The Mill Casino • Hotel & RV Park ([themillcasino.com](https://www.themillcasino.com/))
 * $50 - 7 Devils Brewing Co. ([7devilsbrewery.com](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/"))
