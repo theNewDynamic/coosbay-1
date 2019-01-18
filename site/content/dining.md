@@ -11,11 +11,11 @@ seo:
   imgalt: Seafood dining on oregon's adventure coast
 
 ---
-Wherever you are at Oregon’s Adventure Coast, you will have a wide variety of dining and meal options. We have several family style eateries, as well as ethnic, chain, seafood and fine dining restaurants. 
+Wherever you are at Oregon’s Adventure Coast, you will have a wide variety of dining and meal options. We have several family style eateries, as well as ethnic, chain, seafood and fine dining restaurants.
 
-## Grocery Stores & To-Go Dining for Your Oregon Coast Vacation
+## Dining for Your Oregon Coast Vacation
 
-If you want to get it to go, the delis and grocery stores throughout Coos Bay, North Bend, and Charleston will let you pick the ingredients for that picnic or camp out, or you can take them back to make a meal at your accommodations that feature kitchen amenities. 
+If you want to get it to go, the **delis and grocery stores** throughout Coos Bay, North Bend, and Charleston will let you pick the ingredients for that picnic or camp out, or you can take them back to make a meal at your accommodations that feature kitchen amenities.
 
 Eat well, you’re going to need your energy.
 
