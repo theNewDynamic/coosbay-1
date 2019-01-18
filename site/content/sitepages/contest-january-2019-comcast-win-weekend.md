@@ -29,7 +29,7 @@ You Will Receive Meal Vouchers for Each of the Venues Listed Below in the Amount
 
 ## Keep Busy!
 
-Adventure Abounds with Passes for Two to the Locations Listed Below. _No cash value._
+Adventure Abounds with Passes for Two to the Adventures Listed Below. _No cash value._
 
 * Two Passes for a Dune Buggy Tour from Spinreel Dune Buggy & ATV Rental ([ridetheoregondunes.com](https://www.ridetheoregondunes.com/ "https://www.ridetheoregondunes.com/"))
 * Two Passes to the Charleston Marine Life Center ([charlestonmarinelifecenter.com](http://www.charlestonmarinelifecenter.com/ "http://www.charlestonmarinelifecenter.com/"))
