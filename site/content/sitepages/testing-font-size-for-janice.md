@@ -23,7 +23,7 @@ However, I can set the default for you, so you don't have to guess. I have provi
 
 This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. 
 
-<br><br><br>
+<br>
 
 #### 80% Size of Normal Text
 
