@@ -27,33 +27,33 @@ This text is normal size text on the page. This text is normal size text on the 
 
 #### 80% Size of Normal Text
 
-{{% mousetext font-size="80" %}}This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. {{% /mousetext %}}
+{{% mousetext font-size="80" %}}This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page.This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. {{% /mousetext %}}
 
-<br><br><br>
+<br>
 
 #### Normal Size Text
 
 This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page.
 
-<br><br><br>
+<br>
 
 #### 70% Size of Normal Text
 
-{{% mousetext font-size="70" %}}This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. {{% /mousetext %}}
+{{% mousetext font-size="70" %}}This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. {{% /mousetext %}}
 
-<br><br><br>
+<br>
 
 #### Normal Size Text
 
 This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. 
 
-<br><br><br>
+<br>
 
 #### 60% Size of Normal Text
 
-{{% mousetext font-size="60" %}}This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. {{% /mousetext %}}
+{{% mousetext font-size="60" %}}This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. {{% /mousetext %}}
 
-<br><br><br>
+<br>
 
 #### Normal Size Text
 
