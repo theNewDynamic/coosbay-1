@@ -17,7 +17,7 @@ I have added a MouseText shortcode to the styling navigation at the bottom of th
 
 However, I can set the default for you, so you don't have to guess. I have provided a number of sizes below for you (with normal text in between) so you can choose the default size you would like. Let me know.
 
-<br><br><br>
+<br>
 
 #### Normal Size Text
 
