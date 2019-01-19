@@ -17,29 +17,43 @@ I have added a MouseText shortcode to the styling navigation at the bottom of th
 
 However, I can set the default for you, so you don't have to guess. I have provided a number of sizes below for you (with normal text in between) so you can choose the default size you would like. Let me know.
 
+<br><br><br>
+
 #### Normal Size Text
 
 This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. 
+
+<br><br><br>
 
 #### 80% Size of Normal Text
 
 {{% mousetext font-size="80" %}}This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. This text is 80% size of normal text on the page. {{% /mousetext %}}
 
+<br><br><br>
+
 #### Normal Size Text
 
 This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page.
+
+<br><br><br>
 
 #### 70% Size of Normal Text
 
 {{% mousetext font-size="70" %}}This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. This text is 70% size of normal text on the page. {{% /mousetext %}}
 
+<br><br><br>
+
 #### Normal Size Text
 
 This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. This text is normal size text on the page. 
 
+<br><br><br>
+
 #### 60% Size of Normal Text
 
 {{% mousetext font-size="60" %}}This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. This text is 60% size of normal text on the page. {{% /mousetext %}}
+
+<br><br><br>
 
 #### Normal Size Text
 
