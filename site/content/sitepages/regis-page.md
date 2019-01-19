@@ -3,6 +3,13 @@ title: Regis Page
 date: 2018-10-15 18:10:36 +0000
 layout: ''
 url: ''
+photo: ''
+seo:
+  description: ''
+  title: ''
+  imgalt: ''
+  image: ''
+draft: true
 
 ---
 ## This is my page. Regis.
