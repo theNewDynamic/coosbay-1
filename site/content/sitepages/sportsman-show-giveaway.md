@@ -3,7 +3,7 @@ title: Sportsman Show Giveaway
 date: 2019-01-21 00:53:11 +0000
 url: sportsman-show-giveaway
 layout: contact
-photo: ''
+photo: "/img/marina-subpage-header.jpg"
 seo:
   description: ''
   title: ''
