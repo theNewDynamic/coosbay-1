@@ -39,7 +39,7 @@ Adventure Abounds with Passes for Two to the Adventures Listed Below. _No cash v
 
 ## ENTER HERE TO WIN!
 
-<script type="text/javascript" src="[https://form.jotform.com/jsform/90197398195169](https://form.jotform.com/jsform/90197398195169 "https://form.jotform.com/jsform/90197398195169")"></script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/90197398195169"></script>
 
 <div class="margin-50px-top"></div>
 
