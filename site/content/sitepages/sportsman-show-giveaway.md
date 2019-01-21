@@ -17,19 +17,19 @@ seo:
 
 ### Eat to Your Hearts Content!
 
-You Will Receive Meal Vouchers for Each of the Venues Listed Below in the Amount Specified. _Alcohol and gratuity not included. No cash value._
+Are they getting meal vouchers? . _Alcohol and gratuity not included. No cash value._
 
-* $75 Comp Card - The Mill Casino • Hotel & RV Park ([themillcasino.com](https://www.themillcasino.com/))
-* $50 - 7 Devils Brewing Co. ([7devilsbrewery.com](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/"))
-* $50 - Rodeo Steakhouse & Grill ([rodeosteakhousegrill.com](https://www.rodeosteakhousegrill.com/ "https://www.rodeosteakhousegrill.com/"))
-* $35 - Sharkbites Cafe ([sharkbites.cafe](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/"))
-* $35 - Back Alley Pub at North Bend Lanes ([northbendlanes.com](https://northbendlanes.com/ "https://northbendlanes.com/"))
+* $ Meal Vouchers
 
 ### Keep Busy!
 
 Adventure Abounds with Passes for Two to the Adventures Listed Below. _No cash value._
 
 * Any Adventures?
+
+### Entered to win little basket and grand prize.
+
+Entering to win show basket and you will automatically be entered to win grand prize of two nights stay, and meals? _No cash value._
 
 ### ENTER HERE TO WIN!
 
