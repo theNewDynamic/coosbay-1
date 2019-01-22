@@ -4,7 +4,7 @@ photo: "/img/crab-feed-feb-header.jpg"
 largeboxphoto: "/img/crab-feed-charleston-large.jpg"
 mediumboxphoto: "/img/crab-feed-charleston-medium.jpg"
 smallboxphoto: "/img/crab-feed-charleston-small.jpg"
-desktoptitle: 35th Charleston Crab Feed
+desktoptitle: 35th Annual Charleston Crab Feed
 mobiletitle: Charleston Crab Feed
 hovertitle: 35th Annual Charleston Crab Feed
 hoverdescription: A delicious feast of Dungeness Crab.
