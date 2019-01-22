@@ -14,7 +14,7 @@ enddate: '2019-05-26'
 address:
   street: 3201 Tremont St
   city: North Bend
-  zip: 97459
+  zip: '97459'
 phone_local: 541-756-8800
 phone_toll_free: 800-953-4800
 website: https://www.themillcasino.com/bbq-event/about-the-event
