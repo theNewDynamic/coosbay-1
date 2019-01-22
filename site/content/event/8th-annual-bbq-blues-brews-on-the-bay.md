@@ -1,7 +1,7 @@
 ---
 title: 8th Annual BBQ, Blues & Brews on the Bay
-startdate: 2018-05-24 00:00:00 +0000
-enddate: 2018-05-26 00:00:00 +0000
+startdate: 2018-05-24
+enddate: 2018-05-26
 address:
   street: 3201 Tremont St
   street2: ''
@@ -18,7 +18,7 @@ photo: "/img/bbq-blue-subpage-header.jpg"
 largeboxphoto: "/img/bbq-blues-event-large.jpg"
 mediumboxphoto: "/img/bbq-blues-event-medium.jpg"
 smallboxphoto: "/img/bbq-blues-event-small.jpg"
-date: 2019-01-15 22:51:00 +0000
+date: 2019-01-15
 
 ---
 ![](/img/bbq-event-page-695-x-322.jpg)
