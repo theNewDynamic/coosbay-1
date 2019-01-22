@@ -8,8 +8,8 @@ desktoptitle: 35th Annual Charleston Crab Feed
 mobiletitle: Charleston Crab Feed
 hovertitle: 35th Annual Charleston Crab Feed
 hoverdescription: A delicious feast of Dungeness Crab.
-startdate: 2019-02-09 00:00:00 +0000
-enddate: 2019-02-09 00:00:00 +0000
+startdate: 2019-02-09
+enddate: 2019-02-09
 address:
   city: North Bend
   state: OR
