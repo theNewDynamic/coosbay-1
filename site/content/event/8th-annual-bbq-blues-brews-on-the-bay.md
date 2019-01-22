@@ -19,9 +19,10 @@ largeboxphoto: "/img/bbq-blues-event-large.jpg"
 mediumboxphoto: "/img/bbq-blues-event-medium.jpg"
 smallboxphoto: "/img/bbq-blues-event-small.jpg"
 date: 2019-01-15 22:51:00 +0000
-draft: true
 
 ---
+![](/img/bbq-event-page-695-x-322.jpg)
+
 **Get ready for 3 days of lip-smackin' BBQ, incredible brews and smokin' hot tunes. May 24 - May 26, 2019.**
 
 The Mill's BBQ, Blues & Brews on the Bay has grown into one of The Mill's most attended events. Finger lickin’ good barbecue, hand-crafted beers and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend. Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 24th through the 26th, 2019 at The Mill Casino • Hotel & RV Park.
