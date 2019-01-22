@@ -1,9 +1,9 @@
 ---
 title: 8th Annual BBQ, Blues & Brews on the Bay
-photo: /img/bbq-blue-subpage-header.jpg
-largeboxphoto: /img/bbq-blues-event-large.jpg
-mediumboxphoto: /img/bbq-blues-event-medium.jpg
-smallboxphoto: /img/bbq-blues-event-small.jpg
+photo: "/img/bbq-blue-subpage-header.jpg"
+largeboxphoto: "/img/bbq-blues-event-large.jpg"
+mediumboxphoto: "/img/bbq-blues-event-medium.jpg"
+smallboxphoto: "/img/bbq-blues-event-small.jpg"
 desktoptitle: BBQ, Blues & Brews Festival
 mobiletitle: BBQ, Blues & Brews
 hovertitle: BBQ, Blues & Brews
