@@ -1,23 +1,23 @@
 ---
 title: 8th Annual BBQ, Blues & Brews on the Bay
-startdate: 2018-05-24
-enddate: 2018-05-26
-address:
-  street: 3201 Tremont St
-  street2: ''
-  city: North Bend
-  zip: '97459'
-phone_local: 541-756-8800
-phone_toll_free: 800-953-4800
-website: https://www.themillcasino.com/bbq-event/about-the-event/
-desktoptitle: BBQ, Blues & Brews Festival
-mobiletitle: BBQ, Blues & Brews
-hovertitle: BBQ, Blues & Brews
-hoverdescription: KCBS Sanctioned BBQ Event on the Bay!
 photo: /img/bbq-blue-subpage-header.jpg
 largeboxphoto: /img/bbq-blues-event-large.jpg
 mediumboxphoto: /img/bbq-blues-event-medium.jpg
 smallboxphoto: /img/bbq-blues-event-small.jpg
+desktoptitle: BBQ, Blues & Brews Festival
+mobiletitle: BBQ, Blues & Brews
+hovertitle: BBQ, Blues & Brews
+hoverdescription: KCBS Sanctioned BBQ Event on the Bay!
+startdate: 2018-05-24
+enddate: 2018-05-26
+address:
+  street: 3201 Tremont St
+  street2: 
+  city: North Bend
+  zip: 97459
+phone_local: 541-756-8800
+phone_toll_free: 800-953-4800
+website: https://www.themillcasino.com/bbq-event/about-the-event
 
 ---
 ![](/img/bbq-event-page-695-x-322.jpg)
