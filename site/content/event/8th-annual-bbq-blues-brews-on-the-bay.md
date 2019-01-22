@@ -14,11 +14,10 @@ desktoptitle: BBQ, Blues & Brews Festival
 mobiletitle: BBQ, Blues & Brews
 hovertitle: BBQ, Blues & Brews
 hoverdescription: KCBS Sanctioned BBQ Event on the Bay!
-photo: "/img/bbq-blue-subpage-header.jpg"
-largeboxphoto: "/img/bbq-blues-event-large.jpg"
-mediumboxphoto: "/img/bbq-blues-event-medium.jpg"
-smallboxphoto: "/img/bbq-blues-event-small.jpg"
-date: 2019-01-15
+photo: /img/bbq-blue-subpage-header.jpg
+largeboxphoto: /img/bbq-blues-event-large.jpg
+mediumboxphoto: /img/bbq-blues-event-medium.jpg
+smallboxphoto: /img/bbq-blues-event-small.jpg
 
 ---
 ![](/img/bbq-event-page-695-x-322.jpg)
