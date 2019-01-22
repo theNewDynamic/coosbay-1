@@ -10,7 +10,7 @@ address:
 phone_local: 541-756-8800
 phone_toll_free: 800-953-4800
 website: https://www.themillcasino.com/bbq-event/about-the-event/
-desktoptitle: BBQ, Blues & Brews
+desktoptitle: 8th Annual BBQ, Blues & Brews Festival
 mobiletitle: BBQ, Blues & Brews
 hovertitle: BBQ, Blues & Brews
 hoverdescription: KCBS Sanctioned BBQ Event on the Bay!
