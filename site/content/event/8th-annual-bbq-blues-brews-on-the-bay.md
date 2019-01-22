@@ -12,7 +12,6 @@ startdate: 2018-05-24
 enddate: 2018-05-26
 address:
   street: 3201 Tremont St
-  street2: 
   city: North Bend
   zip: 97459
 phone_local: 541-756-8800
