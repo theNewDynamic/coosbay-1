@@ -29,7 +29,7 @@ The Mill's BBQ, Blues & Brews on the Bay has grown into one of The Mill's most a
 
 [Book your room now!](https://oregonsadventurecoast.com/lodging/ "Lodging on Oregon's Adventure Coast!")
 
-**Schedule**
+### Schedule
 
 **Friday, May 24, 2019**
 
