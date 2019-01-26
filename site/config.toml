@@ -20,4 +20,4 @@ MetaDataFormat = "yaml"
    sitepages = ':slug/'
 
 [blackfriday]
-  hrefTargetBlank = true
+  hrefTargetBlank = false

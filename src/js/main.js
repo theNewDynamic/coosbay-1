@@ -14,10 +14,17 @@
     });
     
 
-    // PDF Links in new window
+    // PDF & External Links in new window
     $('#bd').find('a').each(function(){
         let href = $(this).attr('href');
         if (href !== undefined && href.includes('.pdf')) {
+            $(this).attr('target', '_blank');
+        } else if (
+                href !== undefined &&
+                !href.includes('oregonsadventurecoast.com') &&
+                !href.includes('localhost') &&
+                href.charAt(0) !== '/' &&
+                !href.includes('mailto:')) {
             $(this).attr('target', '_blank');
         }
     });
