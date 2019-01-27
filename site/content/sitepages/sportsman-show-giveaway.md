@@ -1,5 +1,5 @@
 ---
-title: Sportsman Show Giveaway
+title: Sportsman's Show Contest
 date: 2019-01-21 00:53:11 +0000
 url: sportsman-show-giveaway
 layout: contact
