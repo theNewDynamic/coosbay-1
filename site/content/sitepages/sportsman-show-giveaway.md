@@ -11,41 +11,23 @@ seo:
   image: ''
 
 ---
-## Rest up!
+![](/img/sportsman-giveaway-texthdr.png)
 
-* 2-Night Stay at Property of Your Choice
+## Sportsman's Gift Basket
 
-### Eat to Your Hearts Content!
+Enter to win this basket of great gifts we’ve collected just for this show. _Must be 21 to enter. No cash value._
 
-Are they getting meal vouchers? . _Alcohol and gratuity not included. No cash value._
-
-* $ Meal Vouchers
-
-### Keep Busy!
-
-Adventure Abounds with Passes for Two to the Adventures Listed Below. _No cash value._
-
-* Any Adventures?
-
-### Entered to win little basket and grand prize.
-
-ENTER TO WIN AN OREGON’S ADVENTURE COAST
-
-SPORTSMAN’S GIFT BASKET
-
-Enter to win this basket of great gifts we’ve collected
-
-just for this show. Must be 21 to enter.
-
-ADVENTURE COAST GRAND PRIZE
+### Adventure Coast Grand Prize*
 
 You will also be entered to win our Grand Prize drawing in March!
 
-2 Night Stay at The Mill Casino • Hotel & RV Park*; 3 Meal Vouchers toLocal Restaurants and Adventure Passes for Local Attractions.  
+2 Night Stay at The Mill Casino • Hotel & RV Park*
 
-\*Subject to availability. No purchase necessary. Void where prohibited. Open to all legal U.S. residents. See our website for details and restrictions.
+3 Meal Vouchers toLocal Restaurants
 
- _No cash value._
+Adventure Passes for Local Attractions
+
+\* Subject to availability. No purchase necessary. Void where prohibited. Open to all legal U.S. residents 21 and over. _Alcohol and gratuity not included. No cash value._
 
 ### ENTER HERE TO WIN!
 
