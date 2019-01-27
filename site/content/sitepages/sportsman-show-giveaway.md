@@ -15,7 +15,7 @@ seo:
 
 ## Sportsman's Gift Basket
 
-Enter to win this basket of great gifts we’ve collected just for this show. _No purchase necessary. Must be 21 or over to enter. No cash value._
+Enter to win this basket of great gifts we’ve collected just for this show. _Must be 21 or over to enter. No cash value._
 
 ### Adventure Coast Grand Prize*
 
@@ -25,7 +25,7 @@ You will also be entered to win our Grand Prize drawing in March!
 * 3 Meal Vouchers toLocal Restaurants
 * Adventure Passes for Local Attractions
 
-_* Subject to availability. No cash value._
+_* Subject to availability. Must be 21 or over to enter. No cash value._
 
 ### ENTER HERE TO WIN!
 
