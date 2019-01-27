@@ -29,7 +29,23 @@ Adventure Abounds with Passes for Two to the Adventures Listed Below. _No cash v
 
 ### Entered to win little basket and grand prize.
 
-Entering to win show basket and you will automatically be entered to win grand prize of two nights stay, and meals? _No cash value._
+ENTER TO WIN AN OREGON’S ADVENTURE COAST
+
+SPORTSMAN’S GIFT BASKET
+
+Enter to win this basket of great gifts we’ve collected
+
+just for this show. Must be 21 to enter.
+
+ADVENTURE COAST GRAND PRIZE
+
+You will also be entered to win our Grand Prize drawing in March!
+
+2 Night Stay at The Mill Casino • Hotel & RV Park*; 3 Meal Vouchers toLocal Restaurants and Adventure Passes for Local Attractions.  
+
+\*Subject to availability. No purchase necessary. Void where prohibited. Open to all legal U.S. residents. See our website for details and restrictions.
+
+ _No cash value._
 
 ### ENTER HERE TO WIN!
 
