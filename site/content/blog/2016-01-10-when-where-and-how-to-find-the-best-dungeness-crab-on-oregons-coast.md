@@ -1,6 +1,6 @@
 ---
 title: When, Where and How to Find the Best Dungeness Crab on Oregon's Coast
-date: 2016-01-10 19:04:54 +0000
+date: 2019-01-31 11:04:54 -0800
 description: "Whether you like catching them or just eating Dungeness Crab, now is
   the time to plan your Oregon Coast adventure and go crabbing on the Southern Oregon
   Coast.\n\n"
@@ -24,9 +24,7 @@ categories:
 image: "/img/crab-pot-toss-desktop-02.jpg"
 
 ---
-Whether you like catching them or just eating Dungeness Crab, now is the time to plan your Oregon Coast adventure and go crabbing on the <a href="http://www.oregonsadventurecoast.com/index.php" target="_blank">Southern Oregon Coast</a>.
-
-<img class="aligncenter size-full wp-image-64566" src="/wp-content/uploads/2014/12/Oregon-Coast-Crabbing.jpg" alt="Oregon Coast Crabbing" width="640" height="428" srcset="/wp-content/uploads/2014/12/Oregon-Coast-Crabbing.jpg 640w, /wp-content/uploads/2014/12/Oregon-Coast-Crabbing-200x133.jpg 200w, /wp-content/uploads/2014/12/Oregon-Coast-Crabbing-120x80.jpg 120w" sizes="(max-width: 640px) 100vw, 640px" />
+Whether you like catching them or just eating Dungeness Crab, now is the time to plan your Oregon Coast adventure and go crabbing on Oregon's South Coast.
 
 Here are some crabbing tips we have collected through years from local experts for you to follow:
 
