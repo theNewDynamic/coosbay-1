@@ -27,6 +27,10 @@ draft: true
 ---
 Whether you like catching them or just eating Dungeness Crab, now is the time to plan your Oregon Coast adventure and go crabbing on Oregon's South Coast.
 
+Better bring your appetite to Oregon's Adventure Coast the weekend of February 9th because The Charleston fishing village is bringing Oregon’s fresh Dungeness crab harvest to YOU at the 35th Annual Charleston Merchants Crab Feed this year. The event will be from 11 AM to 3 PM at the North Bend Community Center, 2222 Broadway Ave in North Bend, OR 97459. This is the main fundraising event for the Charleston Visitors Center, but also provides funding to other needs in the Charleston community.
+
+In honor of the occasion, our friends at the Port of Coos Bay have created this guide to Crabbing in Charleston along with a delicious recipe for Crab Souffle developed by Margie Whitmer of The Wild Women of Charleston, OR.
+
 Here are some crabbing tips we have collected through years from local experts for you to follow:
 
 ### WHEN SHOULD I GO?
