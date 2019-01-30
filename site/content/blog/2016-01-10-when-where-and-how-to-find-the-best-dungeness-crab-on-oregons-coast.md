@@ -25,57 +25,50 @@ image: "/img/crab-pot-toss-desktop-02.jpg"
 draft: true
 
 ---
-Whether you like catching them or just eating Dungeness Crab, now is the time to plan your Oregon Coast adventure and go crabbing on Oregon's South Coast.
+## Feast on Fresh Oregon Dungeness Crab on Oregon's Adventure Coast!
 
-Better bring your appetite to Oregon's Adventure Coast the weekend of February 9th because The Charleston fishing village is bringing Oregon’s fresh Dungeness crab harvest to YOU at the 35th Annual Charleston Merchants Crab Feed this year. The event will be from 11 AM to 3 PM at the North Bend Community Center, 2222 Broadway Ave in North Bend, OR 97459. This is the main fundraising event for the Charleston Visitors Center, but also provides funding to other needs in the Charleston community.
+Whether you like catching them or just eating Dungeness Crab, now is the time to plan your Oregon Coast adventure and go crabbing on Oregon's South Coast. Anyone can go crabbing, no matter what your skill level is! Our [local crabbing experts]() are always happy to help point you in the right direction. 
 
-In honor of the occasion, our friends at the Port of Coos Bay have created this guide to Crabbing in Charleston along with a delicious recipe for Crab Souffle developed by Margie Whitmer of The Wild Women of Charleston, OR.
+If you're planning a road trip the weekend of February 9th, 2019 you better bring your appetite because the [35th Annual Charleston Merchants Crab Feed ]()is happening! This beloved annual event will be from 11 a.m. to 3 p.m. at the [North Bend Community Center]().
 
-Here are some crabbing tips we have collected through years from local experts for you to follow:
+In honor of the occasion, we wanted to share some crabbing tips we have collected through years from local experts along with this fantastic infographic and delicious local crab recipe our friends at The Port of Coos Bay shared with us. 
+
+![](/img/Oregon Coast Crabbing Tips.jpg)
+
+![](/img/Crab Recipe.jpg)
 
 ### WHEN SHOULD I GO?
 
 * The general rule of thumb if you wanna go crabbing is do it in a month with an ‘r’ (January, February, March, etc).
 * Slack water (the time around high or low tide) are the best times to crab. During slack water, crabs are generally walking around and foraging since they are not getting pushed around by tidal exchange.
 
-### WHERE SHOULD I GO?
-
-* Click here for a <a href="http://www.fishingcoosbay.com/crabmap.jpg" target="_blank">crabbing and clamming area map</a>.
-
 ### WHAT SHOULD I BRING?
 
-Make sure you have the following supplies before you head out:
+Make sure you have the following supplies before you head out along with the other items listed in the infographic. 
 
-* Shellfish license (Ages 14 and older require a shellfish license for crabbing)
+* Shellfish license (Ages 12 and older require a shellfish license for crabbing)
 * Crab measuring tool
 * pots or rings (can be rented)
 * Cooler
 * Gloves
 * Bait holders and bait supply
 
-Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores. Here are a couple of suggestions to get you started:
+Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores. Here’s a short list of some locations:
 
-* <a href="http://www.fishermenswharforegon.com" target="_blank">Fishermen’s Wharf </a> located on D-Dock in the Charleston Boat Basin. Call for hours of operation (541) 888-TUNA (8862).
-* Crab Shack: 63840 Crossline Road, Charleston, OR 97420 (541) 888-3433
-* Davey Jones Locker: Cape Arago Highway & Boat Basin Road Charleston, OR 97420
+**Basin Tackle Shop**  
+63510 Kingfisher Road, Charleston, OR 97420  
+(541) 888-FISH  
+Open Mon-Sat 8am-5pm; Sun 8am-Noon  
+[www.basintackle.com](http://www.basintackle.com/)
 
-  (541) 888-3941
+**Crab Shack**  
+63840 Crossline Road, Charleston, OR 97420  
+(541) 888-3433  
+Open daily from 8am-6pm
 
-### <img class="aligncenter size-large wp-image-64567" src="/wp-content/uploads/2014/12/Davey-Jones-Locker--674x674.jpg" alt="Davey Jones Locker" width="674" height="674" srcset="/wp-content/uploads/2014/12/Davey-Jones-Locker--674x674.jpg 674w, /wp-content/uploads/2014/12/Davey-Jones-Locker--133x133.jpg 133w, /wp-content/uploads/2014/12/Davey-Jones-Locker-.jpg 768w" sizes="(max-width: 674px) 100vw, 674px" />
+**Davey Jones Locker**  
+Cape Arago Highway & Boat Basin Road  
+Charleston, OR 97420  
+(541) 888-3941
 
-### WHAT KIND OF BAIT DO I USE?
-
-* If you’re <a href="http://www.fishingcoosbay.com/crabbing.htm" target="_blank">dock crabbing</a>, and have a cage type crab, you can use any kind of bait you want, fish heads do well in attracting the little guys.
-* If you’re using the crab ring use chicken or turkey. Fish heads attract seals and sea lions- which you don’t want as they’ll steal your bait.
-* To learn more (or read about baiting and sorting techniques), visit <a href="http://www.fishingcoosbay.com/crabbing.htm" target="_blank">Fishing Oregon’s Adventure Coast Crabbing Info Page. </a>
-
-### WHAT IF I DON’T WANT TO GO CRABBING?
-
-Anyone can go crabbing, no matter what your skill level is! Our local crabbing experts are always happy to help point you in the right direction. However, IF crabbing is not for you, find fresh, locally priced crab inside our <a href="/2014/10/where-to-find-the-freshest-seafood-on-oregons-adventure-coast/" target="_blank">fresh seafood markets</a>. There are some great ones to choose from! Some of the stores will even cook it and clean your crab for you for just 50 cents a crab!
-
-### ANY OTHER TIPS I SHOULD KNOW ABOUT?
-
-* If you wanna check the conditions for the day, you can give **Davey Jones Locker** in Charleston a call at any time: at (541) 888-3941. They’re a tiny little market in that always seems to have whatever you need; if you need a tomato, a shellfish license, a micro-brew beer, and a spatula, you will find it here. They also make a mean clam chowder and have the best dang meatloaf sandwich you’ll ever have!
-* Check all lines on pots or rings for knots or kinks to ensure they are durable and will allow gear to work correctly.
-* Make sure your pots are properly marked.
-* Check with the <a href="http://www.dfw.state.or.us/" target="_blank">Oregon Department of Fish and Wildlife</a> for the most current shellfish regulations and harvest notices before you head out!
+For the most current shellfish regulations and harvest notices, check with the [Oregon Department of Fish and Wildlife](https://myodfw.com/articles/how-crab) and be sure to read their [instructional flyer How to Crab](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
