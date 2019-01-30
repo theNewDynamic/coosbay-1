@@ -1,6 +1,9 @@
 ---
-title: 'As Seen in 1859 Oregon''s Magazine! '
-description: O
+title: Oregon's Adventure Coast featured in 1859 Oregon's Magazine
+description: We may be in the early stages of 2019, but Oregon's Adventure Coast has
+  already received a whole lot of buzz this year! We all know that Coos Bay, North
+  Bend and Charleston is one of Oregon's best kept travel secrets, but looks like
+  the word is getting out!
 date: ''
 image: "/img/road-trip-bridge.jpg"
 tags:
