@@ -1,5 +1,5 @@
 ---
-title: When, Where and How to Find the Best Dungeness Crab on Oregon's Coast
+title: How to Find the Best Oregon Dungeness Crab in 2019
 date: 2019-01-31 11:04:54 -0800
 description: "Whether you like catching them or just eating Dungeness Crab, now is
   the time to plan your Oregon Coast adventure and go crabbing on the Southern Oregon
@@ -27,11 +27,11 @@ draft: true
 ---
 ## Feast on Fresh Oregon Dungeness Crab on Oregon's Adventure Coast!
 
-Whether you like catching them or just eating Dungeness Crab, now is the time to plan your Oregon Coast adventure and go crabbing on Oregon's South Coast. Anyone can go crabbing, no matter what your skill level is! Our [local crabbing experts]() are always happy to help point you in the right direction. 
+Feasting on fresh Oregon Dungeness Crab is an experience every foodie must have while visiting the Oregon Coast. Better yet, why not catch your own? Anyone can go crabbing, no matter what your skill level is! Our [local crabbing experts]() are always happy to help point you in the right direction.
 
-If you're planning a road trip the weekend of February 9th, 2019 you better bring your appetite because the [35th Annual Charleston Merchants Crab Feed ]()is happening! This beloved annual event will be from 11 a.m. to 3 p.m. at the [North Bend Community Center]().
+**If you're planning a road trip to Oregon's South Coast the weekend of February 9th, 2019 you better bring your appetite because the** [**35th Annual Charleston Merchants Crab Feed**]() **is happening! This beloved annual event will be from 11 a.m. to 3 p.m. at the** [**North Bend Community Center**]()**.**
 
-In honor of the occasion, we wanted to share some crabbing tips we have collected through years from local experts along with this fantastic infographic and delicious local crab recipe our friends at The Port of Coos Bay shared with us. 
+In honor of the occasion, we wanted to share some crabbing tips we have collected through years from local experts along with this fantastic infographic and delicious local crab recipe our friends at The Port of Coos Bay shared with us.
 
 ![](/img/Oregon Coast Crabbing Tips.jpg)
 
@@ -44,7 +44,7 @@ In honor of the occasion, we wanted to share some crabbing tips we have collecte
 
 ### WHAT SHOULD I BRING?
 
-Make sure you have the following supplies before you head out along with the other items listed in the infographic. 
+Make sure you have the following supplies before you head out along with the other items listed in the infographic.
 
 * Shellfish license (Ages 12 and older require a shellfish license for crabbing)
 * Crab measuring tool
