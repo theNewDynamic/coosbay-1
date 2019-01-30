@@ -22,6 +22,7 @@ categories:
 - Fishing
 - Crabbing & Clamming
 image: "/img/crab-pot-toss-desktop-02.jpg"
+draft: true
 
 ---
 Whether you like catching them or just eating Dungeness Crab, now is the time to plan your Oregon Coast adventure and go crabbing on the <a href="http://www.oregonsadventurecoast.com/index.php" target="_blank">Southern Oregon Coast</a>.
