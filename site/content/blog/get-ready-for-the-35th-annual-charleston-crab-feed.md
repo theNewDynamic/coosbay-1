@@ -10,13 +10,13 @@ categories: []
 draft: true
 
 ---
-‘Crack Up’ fresh Oregon Dungeness Crab from Charleston at the North Bend Community Center on Saturday, February 9th!
+## ‘Crack Up’ fresh Oregon Dungeness Crab from Charleston at the North Bend Community Center on Saturday, February 9th!
 
-Better bring your appetite to Oregon's Adventure Coast the weekend of February 9th because The Charleston fishing village is bringing Oregon’s fresh Dungeness crab harvest to YOU at the 35th Annual Charleston Merchants Crab Feed this year.
+Better bring your appetite to Oregon's Adventure Coast the weekend of February 9th because The Charleston fishing village is bringing Oregon’s fresh Dungeness crab harvest to YOU at the [35th Annual Charleston Merchants Crab Feed ]()this year.
 
 The event will be from 11 AM to 3 PM at the North Bend Community Center, 2222 Broadway Ave in North Bend, OR 97459. This is the main fundraising event for the Charleston Visitors Center, but also provides funding to other needs in the Charleston community.
 
-In honor of the occasion,  our friends at the Port of Coos Bay have created this guide to Crabbing in Charleston along with a delicious recipe for Crab Souffle developed by Margie Whitmer of The Wild Women of Charleston, OR. 
+In honor of the occasion,  our friends at the Port of Coos Bay have created this guide to Crabbing in Charleston along with a delicious recipe for Crab Souffle developed by Margie Whitmer of The Wild Women of Charleston, OR.
 
 ![Crabbing at the Charleston Marina](/img/Oregon Coast Crabbing Tips.jpg "Crabbing at the Charleston Marina")
 
@@ -30,4 +30,4 @@ Make a weekend of it! Head out to Charleston and learn about marine life at the 
 
 Local Key Club students and Chamber Ambassadors along with other volunteers will be serving and making your Dungeness crab dinner a great and fun experience! “The returning star of the annual festival is fresh, certifiably delicious Oregon Dungeness crab,” said Wild Woman Mel Campbell. “Don’t miss it!”
 
-Story Source: Port of Coos Bay https://www.portofcoosbay.com/news-releases/2019/1/16/were-bringing-charleston-to-you-at-the-35th-annual-charleston-crab-feed
+Story Source: [Port of Coos Bay ](https://www.portofcoosbay.com/news-releases/2019/1/16/were-bringing-charleston-to-you-at-the-35th-annual-charleston-crab-feed)
