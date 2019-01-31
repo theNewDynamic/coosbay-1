@@ -22,7 +22,6 @@ categories:
 - Fishing
 - Crabbing & Clamming
 image: "/img/crab-pot-toss-desktop-02.jpg"
-draft: true
 
 ---
 ## Feast on Fresh Oregon Dungeness Crab on Oregon's Adventure Coast!
