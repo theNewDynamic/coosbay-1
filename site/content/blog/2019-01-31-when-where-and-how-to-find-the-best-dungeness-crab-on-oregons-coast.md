@@ -1,6 +1,6 @@
 ---
 title: How to Find the Best Oregon Dungeness Crab in 2019
-date: 2019-01-31 11:04:54 -0800
+date: 2019-01-30 11:04:54 -0800
 description: "Whether you like catching them or just eating Dungeness Crab, now is
   the time to plan your Oregon Coast adventure and go crabbing on the Southern Oregon
   Coast.\n\n"
