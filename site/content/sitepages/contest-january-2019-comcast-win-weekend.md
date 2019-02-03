@@ -12,9 +12,11 @@ seo:
 ---
 ![](/img/giveaway-header-jan-comcast.png)
 
-## This contest is now over. Thank you for all who participated!
+## This contest is now over.
 
-## Rest up!
+Thank you for all who participated!
+
+### Rest up!
 
 * 2-Night Stay at Property of Your Choice
 * Choose from Hotels or Motels in Coos Bay or North Bend. Lodging options to be selected from Hotel/Motels at [our lodging page](/lodging). _Vacation Rentals, Bed & Breakfasts, Camping and RV Parks are not included._
@@ -45,7 +47,7 @@ Adventure Abounds with Passes for Two to the Adventures Listed Below. _No cash v
 
 <div class="margin-50px-top"></div>
 
-## This contest is now over. 
+## This contest is now over.
 
 <div class="margin-50px-top"></div>
 
