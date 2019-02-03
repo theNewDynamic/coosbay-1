@@ -12,6 +12,8 @@ seo:
 ---
 ![](/img/giveaway-header-jan-comcast.png)
 
+## This contest is now over. Thank you for all who participated!
+
 ## Rest up!
 
 * 2-Night Stay at Property of Your Choice
@@ -43,9 +45,7 @@ Adventure Abounds with Passes for Two to the Adventures Listed Below. _No cash v
 
 <div class="margin-50px-top"></div>
 
-## ENTER HERE TO WIN!
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/90134603954152"></script>
+## This contest is now over. 
 
 <div class="margin-50px-top"></div>
 
