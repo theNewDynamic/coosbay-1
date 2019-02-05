@@ -4,7 +4,7 @@ property_description: Perched on the edge of Coos Bay, new luxury 2 bed/2bath to
   has everything you need for a relaxing coastal getaway. Expansive views, a hot tub
   on the private enclosed deck, fully outfitted media room, wet bar, 60” flat panel
   Smart TV, & more.
-photo_name: ''
+photo_name: "/img/seagate-premier-properties-lodging.jpg"
 photo_alt: Seagate Townhouse Overlooking Coos Bay
 units: 1
 cost: 3 - $$$
