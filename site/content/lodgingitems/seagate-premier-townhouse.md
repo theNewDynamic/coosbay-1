@@ -22,6 +22,5 @@ phone_local: ''
 phone_toll_free: ''
 website: https://www.bookairhop.com/listings/5b50b433c5e46b0034ead03c
 date: 2019-02-05 11:54:45 -0800
-draft: true
 
 ---
