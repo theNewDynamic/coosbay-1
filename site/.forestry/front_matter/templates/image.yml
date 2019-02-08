@@ -14,6 +14,7 @@ fields:
 - type: file
   name: mediumboxphoto
   label: Medium
-- type: file
+- type: include
   name: smallboxphoto
   label: Small
+  template: image-alt
