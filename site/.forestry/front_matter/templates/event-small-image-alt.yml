@@ -1,0 +1,11 @@
+---
+label: Event Small Image + Alt
+hide_body: false
+is_partial: true
+fields:
+- type: file
+  name: smallboxphoto
+  label: small
+- type: text
+  name: photo_alt
+  label: Alternate Image Text
