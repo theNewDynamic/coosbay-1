@@ -1,8 +1,8 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-- title: Charleston Crab Feed - Feb 9th!
-  photo: "/img/crab-feed-home-page-slider.jpg"
+- title: Clambake Music Fest - Mar 8-10!
+  photo: "/img/clambake-music-hm-slider.jpg"
 - title: Best Storm Watching!
   photo: "/img/storm-watching-wave-crash.jpg"
 - title: Being in the Moment
