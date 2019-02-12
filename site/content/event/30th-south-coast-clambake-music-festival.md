@@ -1,37 +1,39 @@
 ---
 title: 30th South Coast Clambake Music Festival
-photo: /img/clambake-music-fest-header-03.jpg
-largeboxphoto: /img/clambake-music-fest-large.jpg
-mediumboxphoto: /img/clambake-music-fest-medium-03.jpg
-smallboxphoto: /img/clambake-music-fest-small-02.jpg
+photo: "/img/clambake-music-fest-header-03.jpg"
+largeboxphoto: "/img/clambake-music-fest-large.jpg"
+mediumboxphoto: "/img/clambake-music-fest-medium-03.jpg"
+smallboxphoto: "/img/clambake-music-fest-small-02.jpg"
 desktoptitle: South Coast Clambake Music Fest
 mobiletitle: Clambake Music Fest
 hovertitle: Clambake Music Festival
 hoverdescription: The Clambake Music Festival features incredible music that ranges
   from traditional jazz to 50’s rock!
-startdate: 2019-03-08
-enddate: 2019-03-10
+startdate: 2019-03-07 00:00:00 +0000
+enddate: 2019-03-10 00:00:00 +0000
 address:
   city: North Bend
   state: Oregon
   street: The Mill Casino • Hotel & RV Park
   street2: 3201 Tremont Avenue
-  zip: '97459'
+  zip: 97459
 phone_toll_free: ''
 phone_local: 541-267-7665
-website: 'https://clambakejazz.com'
+website: https://clambakejazz.com
 
 ---
 {{< floatimage src="/img/sccmusicfest_30thlogo-1.png" float="right" alt="30th Annual South Coast Clambake Music Festival" size="100" >}}
 
-Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the South Coast Clambake Music Festival! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite. 
+Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the South Coast Clambake Music Festival! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.
 
-The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hotel in North Bend on Oregon's Adventure Coast! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar. 
+Festivities begin Thursday evening, March 7th with a Warm Up Party. Doors open at 6pm. 
+
+The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hotel in North Bend on Oregon's Adventure Coast! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
 
 **Featuring the music of bands all across these United States!** <br>
-Enjoy the Dave Bennett Quartet from Detroit, Good Co. from Seattle, Dave Stuckey and the Hot House Gang from Los Angeles, Gator Nation from Sonoma California, Gino and Lone Gunmen from Temecula California, Phat Cat Swinger from Disneyland, Royal Jelly Jive form San Francisco, Barn Door Slammers from Portland, Lisa Mann from Portland, Bay City Swing from Coos Bay/North Bend Oregon and the Young Bucs from North Bend/Coos Bay Oregon! 
+Enjoy the Dave Bennett Quartet from Detroit, Good Co. from Seattle, Dave Stuckey and the Hot House Gang from Los Angeles, Gator Nation from Sonoma California, Gino and Lone Gunmen from Temecula California, Phat Cat Swinger from Disneyland, Royal Jelly Jive form San Francisco, Barn Door Slammers from Portland, Lisa Mann from Portland, Bay City Swing from Coos Bay/North Bend Oregon and the Young Bucs from North Bend/Coos Bay Oregon!
 
-For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit our website for details: [ClambakeJazz.com](https://clambakejazz.com).
+For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit the website for details: [ClambakeJazz.com](https://clambakejazz.com). For a printable schedule, [click here](https://clambakejazz.com/printable-schedule/).
 
 ## The 2019 Lineup include:
 
