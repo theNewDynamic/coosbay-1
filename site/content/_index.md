@@ -1,7 +1,7 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-- title: Clambake Music Fest - Mar 8-10!
+- title: Clambake Music Fest - Mar 7-10!
   photo: "/img/clambake-music-hm-slider.jpg"
 - title: Best Storm Watching!
   photo: "/img/storm-watching-wave-crash.jpg"
