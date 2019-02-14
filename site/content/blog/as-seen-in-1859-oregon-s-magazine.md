@@ -1,8 +1,9 @@
 ---
-title: Oregon's Adventure Coast featured in 1859 Oregon's Magazine
+title: Plan Your Next Visit to Oregon's Adventure Coast with 1859 Oregon's Magazine’s
+  January Trip Planner
 description: We may be in the early stages of 2019, but Oregon's Adventure Coast has
-  already received a whole lot of buzz this year! We all know that Coos Bay, North
-  Bend and Charleston is one of Oregon's best kept travel secrets, but looks like
+  already received a whole lot of buzz this year! We all know that the Coos Bay, North
+  Bend and Charleston are is one of Oregon's best-kept travel secrets, but looks like
   the word is getting out!
 date: ''
 image: "/img/road-trip-bridge.jpg"
@@ -15,16 +16,15 @@ tags:
 - North Bend Oregon
 - Charleston Oregon
 categories: []
-draft: true
 
 ---
 ### "The area has an abundance of outdoors opportunities and vistas that simply can’t be seen in other parts of the state."- [1859 Oregon's Magazine](https://1859oregonmagazine.com/explore-oregon/trip-planners/oregons-adventure-coast/)
 
-We may be in the early stages of 2019, but Oregon's Adventure Coast has already received a whole lot of buzz this year! We all know that Coos Bay, North Bend and Charleston is one of Oregon's best-kept travel secrets, but looks like the word is getting out!
+We may be in the early stages of 2019, but Oregon's Adventure Coast has already received a whole lot of buzz this year! We all know that the Coos Bay, North Bend and Charleston are is one of Oregon's best-kept travel secrets, but looks like the word is getting out!
 
 **As Seen in 1859 Oregon's Magazine!** In case you missed it, Oregon's Adventure Coast was featured in [1859 Oregon's Magazine](https://1859oregonmagazine.com/explore-oregon/trip-planners/oregons-adventure-coast/) earlier this month. The magazine explores the landscapes, the personalities, the movers and shakers, the history and the architecture that is the jewel of the Pacific Northwest and has been characterized as "a National Geographic for the state of Oregon."
 
-In the article, [_Oregon's Adventure Coast _](https://1859oregonmagazine.com/explore-oregon/trip-planners/oregons-adventure-coast/), writer Sheila G. Miller highlights the unique natural attractions that make this area so special like our [undeveloped beaches](https://oregonsadventurecoast.com/undeveloped-beaches/), the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/) and our [magnificent selection of state parks and national lands]().
+In the article, [_Oregon's Adventure Coast](https://1859oregonmagazine.com/explore-oregon/trip-planners/oregons-adventure-coast/), editor Sheila G. Miller highlights the unique natural attractions that make this area so special including our [undeveloped beaches](https://oregonsadventurecoast.com/undeveloped-beaches/), the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/) and our [magnificent selection of state parks and national lands]().
 
 The article also shines the spotlight on the [Coos History Museum](https://oregonsadventurecoast.com/art-history-culture/) and local businesses like Bay Point Landing, a new luxury property of RV sites and cabins along with [local hotspots](https://oregonsadventurecoast.com/entertainment-and-nightlife/) like The Mill Casino and 7 Devils Brewing Company. Some of our [favorite local eateries](https://oregonsadventurecoast.com/dining/) like Tokyo Bistro, Sharkbites, High Tide Cafe and Bayside Coffee in Charleston were also featured. [**Click here**](https://1859oregonmagazine.com/explore-oregon/trip-planners/oregons-adventure-coast/) **to read the article and/or follow her amazing 3-day itinerary.**
 
