@@ -6,10 +6,10 @@ fields:
 - type: text
   name: title
   label: Title
-- type: textarea
-  name: description
-  label: Description
-  description: Text introducing the post on list pages.
+- type: text
+  name: url
+  label: URL
+  description: URL for the page
 - type: datetime
   label: Publish Date
   name: date
@@ -17,6 +17,10 @@ fields:
   hidden: false
   config:
     required: true
+- type: textarea
+  name: description
+  label: Description
+  description: Text introducing the post on list pages.
 - type: file
   name: image
   label: Image
