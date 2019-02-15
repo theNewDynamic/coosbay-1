@@ -27,7 +27,7 @@ We’ve put together a [list of resources](/img/RackCard-Fishing-03-18.pdf) that
 
 [Download our  
 Fishing Information  
-Rack Card here (PDF).](/rackcard-fishing-03-18.pdf)
+Rack Card here (PDF).](/img/rackcard-fishing-03-18.pdf)
 
 <div class="clearfix margin-30px-top"></div>
 
