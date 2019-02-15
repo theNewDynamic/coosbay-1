@@ -2,7 +2,8 @@
 title: Plan Your Next Visit to Oregon's Adventure Coast with 1859 Oregon's Magazine’s
   January Trip Planner
 date: 2019-02-13 21:00:00 -0800
-description: We may be in the early stages of 2019, but Oregon's Adventure Coast has
+description: >-
+  We may be in the early stages of 2019, but Oregon's Adventure Coast has
   already received a whole lot of buzz this year! We all know that the Coos Bay, North
   Bend and Charleston are is one of Oregon's best-kept travel secrets, but looks like
   the word is getting out!
