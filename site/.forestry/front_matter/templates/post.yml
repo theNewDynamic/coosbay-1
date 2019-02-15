@@ -6,10 +6,6 @@ fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: url
-  label: URL
-  description: URL for the page
 - type: datetime
   label: Publish Date
   name: date
