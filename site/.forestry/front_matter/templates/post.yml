@@ -24,9 +24,11 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+  description: Hit the TAB key after each Tag is entered.
 - type: tag_list
   name: categories
   label: Categories
+  description: Hit the TAB key after each Category is entered.
 pages:
 - site/content/blog/come-for-the-lights-stay-for-the-sights.md
 - site/content/blog/get-ready-for-the-35th-annual-charleston-crab-feed.md
