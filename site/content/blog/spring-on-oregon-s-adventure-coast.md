@@ -6,7 +6,7 @@ description: 'Looking for fun and excitement this spring. Come to the Oregon''s 
 image: "/img/mccullough-bridge-blog-695x322.jpg"
 tags:
 - Adventure
-- " Spring Adventures"
+- Spring Adventure
 categories:
 - Beach
 - Eat & Drink
