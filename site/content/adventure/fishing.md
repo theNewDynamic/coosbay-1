@@ -19,7 +19,7 @@ Fishing opportunities are in no short supply here on Oregon's Adventure Coast! T
 
 There are more than [30 lakes and rivers](/tripideas/fresh-water-fishing-options--by-body-of-water) to choose from in Coos County, and [bay and ocean fishing](/tripideas/saltwater-fishing--ocean-bay). Come by boat, by foot, by kayak or by charter, the fish are biting.
 
-We’ve put together a [list of resources](/img/RackCard-Fishing-03-18.pdf) that might be helpful in planning your trip. Be sure to visit one of our [bait shops](/equipment-rent-and-buy) while in the area, they’re always willing to share pointers with visiting anglers.
+We’ve put together a [list of resources](/img/rackcard-fishing-03-18.pdf) that might be helpful in planning your trip. Be sure to visit one of our [bait shops](/equipment-rent-and-buy) while in the area, they’re always willing to share pointers with visiting anglers.
 
 <div class="clearfix margin-20px-top"></div>
 
