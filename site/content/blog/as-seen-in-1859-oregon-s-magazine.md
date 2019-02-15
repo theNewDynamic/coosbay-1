@@ -1,5 +1,5 @@
 ---
-title: Plan Your Next Visit to Oregon's Adventure Coast with 1859 Oregon's Magazine’s January Trip Planner
+title: Plan Your Next Visit to Oregon's Adventure Coast
 date: 2018-02-13 09:20:00 -07:00
 description: 'We may be in the early stages of 2019, but Oregon's Adventure Coast has
   already received a whole lot of buzz this year! We all know that the Coos Bay, North
