@@ -6,7 +6,7 @@ description: We may be in the early stages of 2019, but Oregon's Adventure Coast
   already received a whole lot of buzz this year! We all know that the Coos Bay, North
   Bend and Charleston are is one of Oregon's best-kept travel secrets, but looks like
   the word is getting out!
-image: "/img/Fishing-Dad-Son-BLOG.jpg"
+image: "/img/road-trip-bridge.jpg"
 tags:
 - 1859 Magazine
 - Itinerary
@@ -16,7 +16,6 @@ tags:
 - North Bend Oregon
 - Charleston Oregon
 categories: []
-draft: true
 
 ---
 ## "The area has an abundance of outdoors opportunities and vistas that simply can’t be seen in other parts of the state."- [1859 Oregon's Magazine](https://1859oregonmagazine.com/explore-oregon/trip-planners/oregons-adventure-coast/)
