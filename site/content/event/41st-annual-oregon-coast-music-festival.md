@@ -19,7 +19,7 @@ largeboxphoto: ''
 mediumboxphoto: ''
 smallboxphoto: ''
 photo_alt: ''
-date: 2019-02-10 13:57:25 -0800
+date: 2019-02-10 21:57:25 +0000
 draft: true
 
 ---
@@ -29,29 +29,36 @@ Whether a novice or seasoned classical music fan, a very special treat awaits he
 
 #### **OCMA Orchestra Concerts**
 
-July 23rd – [**Concert I**](http://www.oregoncoastmusic.org/concert-i/) **– “World Premiere Night”**
+July 23rd - 7:30pm – [**Concert I**](http://www.oregoncoastmusic.org/concert-i/) **– “World Premiere Night” Runestad, Mozart, Stravinsky -** Marshfield High School Auditorium - $20/$25
 
-July 25th – [**Pops Concert**](http://www.oregoncoastmusic.org/pops-concert/) **– “Youth Has No Age”**
+July 25th - 7:30pm – [**Pops Concert**](http://www.oregoncoastmusic.org/pops-concert/) **– “Youth Has No Age” Music from films and musicals -** Marshfield High School Auditorium - $20/$25
 
-July 27th – [**Concert II**](http://www.oregoncoastmusic.org/concert-ii/) **– “Musical Magic”**
+July 27th - 7:30pm – [**Concert II**](http://www.oregoncoastmusic.org/concert-ii/) **– “Musical Magic” Brahms, Sibelius, Faure -** Marshfield High School Auditorium - $20/$25
 
-#### **  
+#### **
+
 Expanded Festival Schedule:**  
 July 13 to July 27, 2019
 
-July 13th – **Bay Area Concert Band Mingus Park Kick-off Concert**
+July 13th - Noon – **OMCA Kick-off Concert - Bay Area Concert Band -** Mingus Park - Free
 
-TBD – **Musical events at local venues:** details forthcoming
+July 17th - 7pm – **Pub Night at the Liberty** - Liberty Pub - $10
 
-July 20th – **Shore Acres Picnic and Concert**
+July 20th - Noon – **Shore Acres Picnic and Concert** - $5 parking fee
 
-July 21st – **Boat House Concert and Reception**
+July 21st - 2-4pm – **Jazz at the Boathouse Concert and Reception - Aaron Johnson Trio** - OIMB Boathouse Auditorium - $40/$50
 
-July 22nd – **Coos Bay Library Noontime Lectures**
+July 21st - 2pm – **Tribute to Children's Musicals** - Dolphin Playhouse - $10/$8/$5
 
-July 24th – **Coos Bay Library Noontime Lectures**
+July 22nd - Noon – **Noon Lectures with Adam Stern** - Coos Bay Library - Free
 
-July 26th – **Coos Bay Library Noontime Lectures**
+July 22nd - 7pm – **Tribute to Children's Musicals** - Dolphin Playhouse - $10/$8/$5
+
+July 23rd - 10am – **Youth Interpretive Workshop and Pops Rehearsal -** Marshfield High School Auditorium - Free with Registration
+
+July 24th - Noon – **Noon Lectures with Adam Stern** - Coos Bay Library - Free
+
+July 26th - Noon – **Noon Lectures with Adam Stern** - Coos Bay Library - Free
 
 #### The Festival Orchestra
 
