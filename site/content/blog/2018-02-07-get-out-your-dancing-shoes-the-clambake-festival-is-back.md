@@ -1,38 +1,37 @@
 ---
-title: >-
-  From Jazz to 50’s Rock, the 2018 South Coast Clambake Music Festival Has It
+title: From Jazz to 50’s Rock, the 2018 South Coast Clambake Music Festival Has It
   All!
-date: 2018-02-07T19:53:14.000Z
-description: >+
-  Break out those dancin’ shoes! The annual South Coast Clambake Music Festival
-  (formerly South Coast Clambake Jazz Festival) is coming back to rock and roll
-  Oregon's South Coast March 9th-11th, 2018!
-
+date: 2019-02-19 07:46:00 -0800
+description: "Break out those dancin’ shoes! The annual South Coast Clambake Music
+  Festival (formerly South Coast Clambake Jazz Festival) is coming back to rock and
+  roll Oregon's South Coast March 9th-11th, 2018!\n\n"
 tags:
-  - Beaches
-  - best western
-  - Charleston
-  - Coast
-  - Coos Bay
-  - Coos Bay-North Bend
-  - Dixieland Jazz Festival
-  - hotel reservations
-  - Jazz Festival
-  - March
-  - North Bend
-  - Oregon
-  - Oregon Coast
-  - recreation
-  - Red Lion Hotel
-  - Rock and Roll North Bend
-  - South Coast Clambake
-  - South Coast Clambake Jazz Festival
-  - The Mill Casino
-  - the Oregon Coast
+- Beaches
+- best western
+- Charleston
+- Coast
+- Coos Bay
+- Coos Bay-North Bend
+- Dixieland Jazz Festival
+- hotel reservations
+- Jazz Festival
+- March
+- North Bend
+- Oregon
+- Oregon Coast
+- recreation
+- Red Lion Hotel
+- Rock and Roll North Bend
+- South Coast Clambake
+- South Coast Clambake Jazz Festival
+- The Mill Casino
+- the Oregon Coast
 categories:
-  - Entertainment & Nightlife
-  - Fairs & Festivals
-image: /img/02-07-18-south-coast-music-festivel.jpg
+- Entertainment & Nightlife
+- Fairs & Festivals
+image: "/img/02-07-18-south-coast-music-festivel.jpg"
+draft: true
+
 ---
 Break out those dancin’ shoes! The annual <a href="https://clambakejazz.com/" target="_blank" rel="noopener noreferrer">South Coast Clambake Music Festival </a> (formerly South Coast Clambake Jazz Festival) is coming back to rock and roll Oregon's South Coast <strong>March 9th-11th, 2018</strong>!
 
