@@ -28,15 +28,17 @@ tags:
 categories:
 - Entertainment & Nightlife
 - Fairs & Festivals
-image: "/img/02-07-18-south-coast-music-festivel.jpg"
+image: "/img/DSC_6673.jpeg"
 draft: true
 
 ---
 ![](https://clambakejazz.com/wp-content/uploads/2013/09/SCCMusicFest_30thlogo-1.png)
 
-Break out those dancin’ shoes! The annual <a href="https://clambakejazz.com/" target="_blank" rel="noopener noreferrer">South Coast Clambake Music Festival </a>  is coming back to rock and roll Oregon's South Coast <strong>March 8th-10th, 2019</strong>!
+Break out those dancin’ shoes! The annual <a href="https://clambakejazz.com/" target="_blank" rel="noopener noreferrer">South Coast Clambake Music Festival </a>  is coming back to rock and roll Oregon's South Coast <strong>March 8th-10th, 2019</strong> at The Mill Casino in North Bend!
 
-This year's exciting musical extravaganza brings another fabulous lineup of incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco!
+![](/img/DSC_3224.jpeg)
+
+Now in its 30th year, the South Coast Clambake Music Festival has entertained thousands of music lovers in our region. This year's exciting musical extravaganza brings another fabulous lineup of incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco all under one roof! [Click here to see the list of bands and musicians](https://clambakejazz.com/our-bands/) performing at the 2019 festival. 
 
 What originally began as the Dixieland Jazz Festival nearly 30 years ago has evolved into one of the biggest annual music festivals on the Oregon Coast and offers a wide range of musical styles that will have you up on your feet.
 
