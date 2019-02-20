@@ -35,10 +35,8 @@ July 25th - 7:30pm – [**Pops Concert**](http://www.oregoncoastmusic.org/pops-c
 
 July 27th - 7:30pm – [**Concert II**](http://www.oregoncoastmusic.org/concert-ii/) **– “Musical Magic” Brahms, Sibelius, Faure -** Marshfield High School Auditorium - $20/$25
 
-#### **
-
-Expanded Festival Schedule:**  
-July 13 to July 27, 2019
+**Expanded Festival Schedule:**  
+**July 13 to July 27, 2019**
 
 July 13th - Noon – **OMCA Kick-off Concert - Bay Area Concert Band -** Mingus Park - Free
 
