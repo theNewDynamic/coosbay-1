@@ -1,7 +1,7 @@
 ---
 title: From Jazz to 50’s Rock, the 2019 South Coast Clambake Music Festival Has It
   All!
-date: 2019-02-19 15:46:00 +0000
+date: 2019-02-12 07:46:00 -0800
 description: "Break out those dancin’ shoes! The annual South Coast Clambake Music
   Festival is coming back to rock and roll Oregon's South Coast March 8th-10th, 2019!\n\n"
 tags:
