@@ -21,21 +21,19 @@ image: "/img/sports-blog-post.jpg"
 draft: true
 
 ---
-<h3 style="text-align: center;">3A OSAA Basketball Tournament Fans: Share Your Fun Photos on Twitter or Instagram with the #3ACoosBay Hashtag for a Chance to Win Some Awesome Prizes</h3>
+<h3 style="text-align: center;">3A OSAA Basketball Tournament Fans: Share Your Fun Photos on Twitter or Instagram with the #3ACoosBay Hashtag for a Chance to Win Some Outstanding Prizes</h3>
 
 The [OSAA / U.S. Bank / Les Schwab Tires 3A Basketball State Championships ](http://www.osaa.org/activities/bbx/brackets?div=3A)is just days away and we can't wait to welcome back the outstanding young athletes, faculty members and their families to this exciting tournament!
 
 It's going to be non-stop action here as teams battle it out the weekend of February 28th- March 2nd, 2019 for the 3A Basketball State Championship Title!
 
-For many of our guests, this special weekend is also about having fun and making special once-in-a-lifetime memories. That's why we're conducting the #3ACoosBay Twitter & Instagram photo contest once again!
+For many of our guests, this special weekend is also about having fun and making special once-in-a-lifetime memories. That's why we're sponsoring the **#3ACoosBay Twitter & Instagram photo contest** once again! Here's a list of prizes you could win just for sharing your favorite moments from the tournament:
 
-This year's Grand Prize winner will receive an [AKASO EK7000 4K WiFi Sports Action Camera Ultra HD Waterproof DV Camcorder 12MP](https://www.amazon.com/AKASO-EK7000-Sports-Waterproof-Camcorder/dp/B01HGM33HG/ref=sr_1_3?ie=UTF8&qid=1548805513&sr=8-3&keywords=akaso+ek7000+4k+wifi+sports+action+camera) with [an accessory kit](https://www.amazon.com/gp/product/B00PQ9YNI0/ref=ox_sc_act_title_2?smid=A2AVQ8OGQQLVR9&psc=1). 
+* The 2019 **Grand Prize winner** will receive an [AKASO EK7000 4K WiFi Sports Action Camera Ultra HD Waterproof DV Camcorder 12MP](https://www.amazon.com/AKASO-EK7000-Sports-Waterproof-Camcorder/dp/B01HGM33HG/ref=sr_1_3?ie=UTF8&qid=1548805513&sr=8-3&keywords=akaso+ek7000+4k+wifi+sports+action+camera) with [an accessory kit](https://www.amazon.com/gp/product/B00PQ9YNI0/ref=ox_sc_act_title_2?smid=A2AVQ8OGQQLVR9&psc=1). 
+* **2nd prize winner** will receive a [portable Zamkol Waterproof Bluetooth Speaker](https://www.amazon.com/Bluetooth-Speakers-Zamkol-Waterproof-Dustproof/dp/B07GXDNZJ7/ref=sr_1_12?s=electronics&ie=UTF8&qid=1548805888&sr=1-12&keywords=bluetooth+speakers&refinements=p_36:1253504011,p_72:1248879011)
+* **3rd place winner** will receive a $25 Amazon Gift Card.
 
-2nd prize winner will receive a [portable Zamkol Waterproof Bluetooth Speaker](https://www.amazon.com/Bluetooth-Speakers-Zamkol-Waterproof-Dustproof/dp/B07GXDNZJ7/ref=sr_1_12?s=electronics&ie=UTF8&qid=1548805888&sr=1-12&keywords=bluetooth+speakers&refinements=p_36:1253504011,p_72:1248879011)
-
-3rd place winner will receive a $25 Amazon Gift Card.
-
-Think you can up your game?  Here's how to enter:
+Be sure to follow the [#3acoosbay]() hashtag to see entries from previous years and to follow the action for 2019! Here's how to enter:
 
 <ol>
 
