@@ -1,6 +1,6 @@
 ---
 title: 3A Coos Bay Photo Contest Rules 2019
-url: ''
+url: 3a-coosbay-rules-2019
 layout: ''
 photo: ''
 seo:
@@ -9,7 +9,6 @@ seo:
   imgalt: ''
   image: ''
 date: 2019-02-20 12:44:59 -0800
-draft: true
 
 ---
 Updated 2/7/2019
@@ -31,13 +30,3 @@ Updated 2/7/2019
 * By accepting a prize, each winner agrees to award VCB the right to publicize his/her name and/or user name, photographs or avatars, biographical information, along with winning photograph, for purposes of this and future promotions without further compensation, except where prohibited.
 
 All entrants agree that the Contest is in no way sponsored, endorsed or administered by, or associated with Instagram, Twitter, or any other social networks, and entrants further agree to release any and all such entities from any and all claims relating to or arising from the Contest.
-
- 
-
-<p align="center">
-<b>#3ACoosBay</b>
-</p>
-
- 
-
-<p align="center">
