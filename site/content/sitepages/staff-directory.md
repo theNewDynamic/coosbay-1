@@ -1,6 +1,6 @@
 ---
 title: Staff Directory
-url: ''
+url: staff-directory
 layout: press-media-industry
 photo: "/img/undeveloped-beaches-sub-header.jpg"
 seo:
@@ -8,13 +8,12 @@ seo:
   title: ''
   imgalt: ''
   image: ''
-date: 2019-02-18 11:35:33 -0800
+date: 2019-02-18 19:35:33 +0000
 
 ---
 #### **Coos Bay-North Bend Visitor & Convention Bureau Staff Directory**
 
-**  
-Janice Langlinais**  
+**Janice Langlinais**  
 Executive Director  
 541-269-1181 ext 2303  
 [janice@oregonsadventurecoast.com](mailto:janice@oregonsadventurecoast.com)
