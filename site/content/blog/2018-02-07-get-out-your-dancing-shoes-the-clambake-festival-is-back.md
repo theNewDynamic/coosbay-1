@@ -31,7 +31,7 @@ categories:
 image: "/img/clambake-jazz-header-blog-695x322.jpg"
 
 ---
-{{< floatimage src="/img/SCCMusicFest_30thlogo-1.png" float="right" alt="South Coast Clambake Music Festival 30th Anniversary" size="100" >}}
+{{< floatimage src="![](https://clambakejazz.com/wp-content/uploads/2013/09/SCCMusicFest_30thlogo-1.png)" float="right" alt="South Coast Clambake Music Festival 30th Anniversary" size="100" >}}
 
 Break out those dancin’ shoes! The annual <a href="https://clambakejazz.com/" target="_blank" rel="noopener noreferrer">South Coast Clambake Music Festival </a>  is coming back to rock and roll Oregon's South Coast <strong>March 8th-10th, 2019</strong> at The Mill Casino • Hotel in North Bend!
 
