@@ -19,7 +19,6 @@ tags:
 categories:
 - Events
 image: "/img/Ready-for-3a-Tournament.png"
-draft: true
 
 ---
 ## 3A OSAA Basketball Tournament Fans: Share Your Fun Photos on Twitter or Instagram with the #3ACoosBay Hashtag for a Chance to Win Some Outstanding Prizes
