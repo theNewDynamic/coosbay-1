@@ -29,7 +29,6 @@ categories:
 - Entertainment & Nightlife
 - Fairs & Festivals
 image: "/img/DSC_6673.jpeg"
-draft: true
 
 ---
 ![](https://clambakejazz.com/wp-content/uploads/2013/09/SCCMusicFest_30thlogo-1.png)
