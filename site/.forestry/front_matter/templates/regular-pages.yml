@@ -50,6 +50,7 @@ fields:
     name: image
     label: SEO Image
 pages:
+- site/content/sitepages/3a-coos-bay-photo-contest-rules-2019.md
 - site/content/sitepages/tour-groups.md
 - site/content/sitepages/regis-page.md
 - site/content/sitepages/testing-font-size-for-janice.md
