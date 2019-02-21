@@ -10,14 +10,15 @@ address:
 phone_local: ''
 phone_toll_free: 800-200-5239
 website: https://www.historicalseaport.org/public-tours-sails/sailing-schedule/coos-bay-oregon/
-desktoptitle: Tall Ships return to Coos Bay, May 1-5
-mobiletitle: Tall Ships return to Coos Bay, May 1-5
-hovertitle: Tall Ships return to Coos Bay, May 1-5
-hoverdescription: Tall Ships return to Coos Bay, May 1-5
+desktoptitle: Tall Ships Return to Coos Bay
+mobiletitle: Tall Ships Return!
+hovertitle: Tall Ships Return to Coos Bay
+hoverdescription: The Lady Washington and the Hawaiian Chieftain will visit Coos Bay
+  May 1-5!
 photo: ''
-largeboxphoto: ''
-mediumboxphoto: ''
-smallboxphoto: ''
+largeboxphoto: "/img/tall-ships-event-large.jpg"
+mediumboxphoto: "/img/tall-ships-event-medium.jpg"
+smallboxphoto: "/img/tall-ships-event-small.jpg"
 photo_alt: Tall Ships return to Coos Bay, May 1-5
 date: 2019-02-20 13:32:52 -0800
 draft: true
