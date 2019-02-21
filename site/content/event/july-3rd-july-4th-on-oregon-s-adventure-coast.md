@@ -7,7 +7,7 @@ address:
   street2: ''
   city: ''
   zip: ''
-phone_local: 5412690215
+phone_local: 541-269-0215
 phone_toll_free: 800-824-8486
 website: http://www.oregonsadventurecoast.com
 desktoptitle: Celebrate our Independence Over Coos Bay
@@ -20,7 +20,6 @@ mediumboxphoto: "/img/fireworks-event-medium.jpg"
 smallboxphoto: "/img/fireworks-event-small.jpg"
 photo_alt: Fireworks over Coos Bay
 date: 2019-02-10 21:43:54 +0000
-draft: true
 
 ---
 ![](/img/fireworks-event-blog-695x322.jpg)
