@@ -1,7 +1,7 @@
 ---
 title: 37th Annual Blackberry Arts Festival
-startdate: 2019-08-24 00:00:00 +0000
-enddate: 2019-08-25 00:00:00 +0000
+startdate: 2019-08-24
+enddate: 2019-08-25
 address:
   street: 200 Central Ave
   street2: ''
@@ -19,7 +19,6 @@ photo: "/img/blackberry-event-page-header.jpg"
 largeboxphoto: "/img/blackberry-event-large.jpg"
 mediumboxphoto: "/img/blackberry-event-medium.jpg"
 smallboxphoto: "/img/blackberry-event-small.jpg"
-photo_alt: ''
 date: 2019-02-10 22:01:16 +0000
 
 ---
