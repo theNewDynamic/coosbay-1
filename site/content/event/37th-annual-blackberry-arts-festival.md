@@ -16,8 +16,8 @@ hovertitle: Celebrate all things Blackberry!
 hoverdescription: Celebrate all things Blackberry!
 photo: "/img/blackberry-event-page-header.jpg"
 largeboxphoto: "/img/blackberry-event-large.jpg"
-mediumboxphoto: "/img/blackberry-event-medium.jpg"
-smallboxphoto: "/img/blackberry-event-small.jpg"
+mediumboxphoto: ''
+smallboxphoto: ''
 photo_alt: ''
 date: 2019-02-10 22:01:16 +0000
 
