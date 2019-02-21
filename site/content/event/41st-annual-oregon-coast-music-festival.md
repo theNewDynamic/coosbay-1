@@ -1,7 +1,7 @@
 ---
 title: 41st Annual Oregon Coast Music Festival
-startdate: 2019-07-13
-enddate: 2019-07-27
+startdate: 2019-07-13 00:00:00 +0000
+enddate: 2019-07-27 00:00:00 +0000
 address:
   street: ''
   street2: ''
@@ -20,7 +20,6 @@ mediumboxphoto: "/img/music-festival-medium.jpg"
 smallboxphoto: "/img/music-festival-small.jpg"
 photo_alt: ''
 date: 2019-02-10 21:57:25 +0000
-draft: true
 
 ---
 **Coos Bay is home to the longest running music festival on the Oregon Coast! Each year over 80 musicians travel from all over the United States and Canada to perform three classical concerts during Festival Week.**
