@@ -1,7 +1,7 @@
 ---
 title: July 3rd & July 4th on Oregon's Adventure Coast
-startdate: 2019-07-04
-enddate: 2019-07-05
+startdate: 2019-07-04 00:00:00 +0000
+enddate: 2019-07-05 00:00:00 +0000
 address:
   street: ''
   street2: ''
@@ -14,15 +14,17 @@ desktoptitle: Celebrate our Independence Over Coos Bay
 mobiletitle: Celebrate our Independence Over Coos Bay
 hovertitle: Celebrate our Independence Over Coos Bay
 hoverdescription: Celebrate our Independence Over Coos Bay
-photo: "/img/06-08-18-fireworks-at-the-mill.jpg"
-largeboxphoto: "/img/06-08-18-fireworks-at-the-mill.jpg"
-mediumboxphoto: "/img/4th-of-july-fireworks-coos-bay-674x447.jpg"
-smallboxphoto: ''
+photo: "/img/fireworks-event-page-header.jpg"
+largeboxphoto: "/img/fireworks-event-large.jpg"
+mediumboxphoto: "/img/fireworks-event-medium.jpg"
+smallboxphoto: "/img/fireworks-event-small.jpg"
 photo_alt: Fireworks over Coos Bay
 date: 2019-02-10 21:43:54 +0000
 draft: true
 
 ---
+![](/img/fireworks-event-blog-695x322.jpg)
+
 ## July 3rd Fireworks at The Mill
 
 _July 3, 2019_
