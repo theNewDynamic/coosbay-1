@@ -1,7 +1,7 @@
 ---
 title: Lady Washington & Hawaiian Chieftain Tall Ships
-startdate: 2019-05-01 00:00:00 +0000
-enddate: 2019-05-05 00:00:00 +0000
+startdate: 2019-05-01
+enddate: 2019-05-05
 address:
   street: 200 Bayshore Drive (Coos Bay Boardwalk)
   street2: ''
