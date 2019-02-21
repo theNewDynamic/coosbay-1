@@ -16,7 +16,7 @@ fields:
   name: mediumboxphoto
   label: Medium
   description: Image Size 667px x 355px
-- type: include
-  name: small_image_template
-  label: Small Image Template
-  template: event-small-image-alt
+- type: file
+  name: smallboxphoto
+  label: small
+  description: Image Size 340px x 214px
