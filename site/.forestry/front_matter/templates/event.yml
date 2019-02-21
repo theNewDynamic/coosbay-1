@@ -6,14 +6,14 @@ fields:
 - type: text
   name: title
   label: Title
-- type: datetime
-  label: Start Date
+- type: text
   name: startdate
-  description: Choose Start Date
-- type: datetime
-  label: End Date
+  label: Start Date
+  description: 'IMPORTANT: Date must be entered YYYY-MM-DD (NO Time)'
+- type: text
   name: enddate
-  description: Choose End Date
+  label: End Date
+  description: 'IMPORTANT: Date must be entered YYYY-MM-DD (NO Time)'
 - type: include
   template: contact
   label: Contact
