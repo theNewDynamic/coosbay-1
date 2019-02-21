@@ -15,13 +15,12 @@ mobiletitle: Tall Ships Return!
 hovertitle: Tall Ships Return to Coos Bay
 hoverdescription: The Lady Washington and the Hawaiian Chieftain will visit Coos Bay
   May 1-5!
-photo: ''
+photo: "/img/tall-ships-event-page-header.jpg"
 largeboxphoto: "/img/tall-ships-event-large.jpg"
 mediumboxphoto: "/img/tall-ships-event-medium.jpg"
 smallboxphoto: "/img/tall-ships-event-small.jpg"
 photo_alt: Tall Ships return to Coos Bay, May 1-5
 date: 2019-02-20 13:32:52 -0800
-draft: true
 
 ---
 ## Tall Ships return to Coos Bay, May 1-5
