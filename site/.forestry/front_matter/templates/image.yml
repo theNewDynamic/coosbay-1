@@ -5,16 +5,17 @@ is_partial: true
 display_field: photo
 fields:
 - type: file
-  label: 'Image '
+  label: Page Hero Image
   name: photo
-  description: Default image
+  description: Image Size 2048px x 530px
 - type: file
   name: largeboxphoto
   label: Large
+  description: Image Size 1024px x 395px
 - type: file
   name: mediumboxphoto
   label: Medium
-  description: Image Size
+  description: Image Size 667px x 355px
 - type: include
   name: small_image_template
   label: Small Image Template
