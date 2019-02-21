@@ -9,8 +9,8 @@ mobiletitle: Clambake Music Fest
 hovertitle: Clambake Music Festival
 hoverdescription: The Clambake Music Festival features incredible music that ranges
   from traditional jazz to 50’s rock!
-startdate: 2019-03-07 00:00:00 +0000
-enddate: 2019-03-10 00:00:00 +0000
+startdate: 2019-03-07
+enddate: 2019-03-10
 address:
   city: North Bend
   state: Oregon
