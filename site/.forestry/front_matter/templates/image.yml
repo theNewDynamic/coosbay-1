@@ -18,3 +18,6 @@ fields:
   name: small_image_template
   label: Small Image Template
   template: event-small-image-alt
+- type: include
+  label: Medium Image Template
+  name: medium_image_template
