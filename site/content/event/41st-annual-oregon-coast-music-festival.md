@@ -14,10 +14,10 @@ desktoptitle: 41st Annual Oregon Coast Music Festival
 mobiletitle: 41st Annual Oregon Coast Music Festival
 hovertitle: 41st Annual Oregon Coast Music Festival
 hoverdescription: 41st Annual Oregon Coast Music Festival
-photo: ''
-largeboxphoto: ''
-mediumboxphoto: ''
-smallboxphoto: ''
+photo: "/img/orchestra-music-fest-event-pg-headear.jpg"
+largeboxphoto: "/img/music-festival-large.jpg"
+mediumboxphoto: "/img/music-festival-medium.jpg"
+smallboxphoto: "/img/music-festival-small.jpg"
 photo_alt: ''
 date: 2019-02-10 21:57:25 +0000
 draft: true
