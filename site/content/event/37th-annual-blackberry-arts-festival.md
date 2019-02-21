@@ -1,7 +1,7 @@
 ---
 title: 37th Annual Blackberry Arts Festival
-startdate: 2019-08-24
-enddate: 2019-08-25
+startdate: 2019-08-24 00:00:00 +0000
+enddate: 2019-08-25 00:00:00 +0000
 address:
   street: 200 Central Ave
   street2: ''
@@ -10,8 +10,8 @@ address:
 phone_local: "(541) 266-9706"
 phone_toll_free: ''
 website: https://blackberryartsfestival.com/
-desktoptitle: Celebrate All Things Blackberry!
-mobiletitle: Celebrate All Things Blackberry!
+desktoptitle: Celebrate the Blackberry!
+mobiletitle: Celebrate the Blackberry!
 hovertitle: Celebrate All Things Blackberry!
 hoverdescription: Joins us for the annual Blackberry Arts Festival, celebrating the
   delicious blackberry!
