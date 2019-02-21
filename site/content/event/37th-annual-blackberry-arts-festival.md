@@ -15,12 +15,11 @@ mobiletitle: Celebrate all things Blackberry!
 hovertitle: Celebrate all things Blackberry!
 hoverdescription: Celebrate all things Blackberry!
 photo: ''
-largeboxphoto: ''
-mediumboxphoto: ''
-smallboxphoto: ''
+largeboxphoto: "/img/blackberry-arts-festival-large.jpg"
+mediumboxphoto: "/img/blackberry-arts-festival-medium.jpg"
+smallboxphoto: "/img/blackberry-arts-festival-small.jpg"
 photo_alt: ''
-date: 2019-02-10 14:01:16 -0800
-draft: true
+date: 2019-02-10 22:01:16 +0000
 
 ---
 The annual **Blackberry Arts Festival** celebrates the delicious blackberry! Blackberry arts, food and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the Blackberry Jam all weekend long! Bring the whole family to downtown Coos Bay for the Blackberry Arts Festival, August 24 and 25 2019.
