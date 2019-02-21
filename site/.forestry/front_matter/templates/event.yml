@@ -6,10 +6,10 @@ fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: startdate
+- type: datetime
   label: Start Date
-  description: 'Important: Format must be as 2018-10-25'
+  name: startdate
+  description: 'Important: Format must be as YYYY-MM-DD'
 - type: text
   name: enddate
   label: End date
