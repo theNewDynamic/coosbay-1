@@ -14,10 +14,10 @@ desktoptitle: Celebrate all things Blackberry!
 mobiletitle: Celebrate all things Blackberry!
 hovertitle: Celebrate all things Blackberry!
 hoverdescription: Celebrate all things Blackberry!
-photo: ''
-largeboxphoto: "/img/blackberry-arts-festival-large.jpg"
-mediumboxphoto: "/img/blackberry-arts-festival-medium.jpg"
-smallboxphoto: "/img/blackberry-arts-festival-small.jpg"
+photo: "/img/blackberry-event-page-header.jpg"
+largeboxphoto: "/img/blackberry-event-large.jpg"
+mediumboxphoto: "/img/blackberry-event-medium.jpg"
+smallboxphoto: "/img/blackberry-event-small.jpg"
 photo_alt: ''
 date: 2019-02-10 22:01:16 +0000
 
