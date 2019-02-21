@@ -10,10 +10,10 @@ fields:
   label: Start Date
   name: startdate
   description: 'Important: Format must be as YYYY-MM-DD'
-- type: text
+- type: datetime
+  label: End Date
   name: enddate
-  label: End date
-  description: 'Important: Format must be as 2018-10-25'
+  description: Choose End Date for Event
 - type: include
   template: contact
   label: Contact
