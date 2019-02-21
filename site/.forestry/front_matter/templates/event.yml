@@ -9,11 +9,11 @@ fields:
 - type: datetime
   label: Start Date
   name: startdate
-  description: Choose Start Date & Time
+  description: Choose Start Date
 - type: datetime
   label: End Date
   name: enddate
-  description: Choose End Date & Time
+  description: Choose End Date
 - type: include
   template: contact
   label: Contact
