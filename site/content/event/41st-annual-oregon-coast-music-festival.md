@@ -1,7 +1,7 @@
 ---
 title: 41st Annual Oregon Coast Music Festival
-startdate: 2019-07-13
-enddate: 2019-07-27
+startdate: 2019-07-13 00:00:00 +0000
+enddate: 2019-07-27 00:00:00 +0000
 address:
   street: ''
   street2: ''
@@ -10,10 +10,11 @@ address:
 phone_local: 541-267-0938
 phone_toll_free: ''
 website: http://www.oregoncoastmusic.org/
-desktoptitle: 41st Annual Oregon Coast Music Festival
-mobiletitle: 41st Annual Oregon Coast Music Festival
+desktoptitle: Oregon Coast Music Festival
+mobiletitle: Oregon Coast Music Festival
 hovertitle: 41st Annual Oregon Coast Music Festival
-hoverdescription: 41st Annual Oregon Coast Music Festival
+hoverdescription: Each year over 80 musicians travel from all over the United States
+  and Canada to perform three classical concerts during Festival Week.
 photo: "/img/orchestra-music-fest-event-pg-headear.jpg"
 largeboxphoto: "/img/music-festival-large.jpg"
 mediumboxphoto: "/img/music-festival-medium.jpg"
