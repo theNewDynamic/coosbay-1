@@ -15,7 +15,7 @@ mobiletitle: Celebrate the Blackberry!
 hovertitle: Celebrate All Things Blackberry!
 hoverdescription: Joins us for the annual Blackberry Arts Festival, celebrating the
   delicious blackberry!
-photo: "/img/blackberry-event-page-header.jpg"
+photo: "/img/blackberry-event-page-header-1.jpg"
 largeboxphoto: "/img/blackberry-event-large.jpg"
 mediumboxphoto: "/img/blackberry-event-medium.jpg"
 smallboxphoto: "/img/blackberry-event-small.jpg"
