@@ -19,12 +19,13 @@ largeboxphoto: "/img/06-08-18-fireworks-at-the-mill.jpg"
 mediumboxphoto: "/img/4th-of-july-fireworks-coos-bay-674x447.jpg"
 smallboxphoto: ''
 photo_alt: Fireworks over Coos Bay
-date: 2019-02-10 13:43:54 -0800
+date: 2019-02-10 21:43:54 +0000
 draft: true
 
 ---
-## **July 3rd Fireworks at The Mill  
-**July 3, 2019
+## July 3rd Fireworks at The Mill
+
+_July 3, 2019_
 
 Don’t miss Oregon’s largest fireworks display on July 3rd. The Mill Casino will light up the skies over North Bend and the Coos Bay shoreline with their annual waterfront fireworks display.
 
@@ -33,8 +34,9 @@ Guests are invited to enjoy the fireworks show and music for free in the non-res
 The Mill Casino * Hotel & RV Park  
 3201 Tremont Ave, North Bend OR, 97459
 
-## **4th of July in Mingus Park & Coos Bay Boardwalk Fireworks  
-**July 4, 2019
+## 4th of July in Mingus Park & Coos Bay Boardwalk Fireworks
+
+_July 4, 2019_
 
 This event features fishing ponds, face painting, free swimming, family competitions, clowns, kids entertainment, horse viewing and petting, Boy Scouts and Furry Friends Therapy Dogs. Enjoy crafts and goodie bags, delicious food and much more. Fireworks by the City of Coos Bay.
 
