@@ -11,7 +11,7 @@ phone_local: 541-267-0938
 phone_toll_free: ''
 website: http://www.oregoncoastmusic.org/
 desktoptitle: Oregon Coast Music Festival
-mobiletitle: Oregon Coast Music Festival
+mobiletitle: OR Coast Music Fest
 hovertitle: 41st Annual Oregon Coast Music Festival
 hoverdescription: Each year over 80 musicians travel from all over the United States
   and Canada to perform three classical concerts during Festival Week.
