@@ -10,10 +10,10 @@ address:
 phone_local: 541-269-0215
 phone_toll_free: 800-824-8486
 website: http://www.oregonsadventurecoast.com
-desktoptitle: Celebrate our Independence Over Coos Bay
-mobiletitle: Celebrate our Independence Over Coos Bay
+desktoptitle: Celebrate Over Coos Bay
+mobiletitle: Celebrate Over Coos Bay
 hovertitle: Celebrate our Independence Over Coos Bay
-hoverdescription: Celebrate our Independence Over Coos Bay
+hoverdescription: Don’t miss Oregon’s largest fireworks display on July 3rd!
 photo: "/img/fireworks-event-page-header.jpg"
 largeboxphoto: "/img/fireworks-event-large.jpg"
 mediumboxphoto: "/img/fireworks-event-medium.jpg"
