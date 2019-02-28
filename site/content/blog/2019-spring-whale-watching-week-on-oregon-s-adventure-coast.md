@@ -23,9 +23,9 @@ In late March 2019, up to 20,000 migrating gray whales will start their northbou
 
 A family trip to the Oregon Coast during Whale Watching Week is the perfect way to spend Spring Break. Hundreds of <a href="http://www.whalespoken.org/">Whale Watching Spoken Here®</a> volunteers will be available from 10 a.m. - 1 p.m. at 26 whale-watching locations along on the coast the week of March 23rd - 31st, 2019. These trained volunteers will help visitors spot the migrating whales and other marine life along our coast and learn more about them.
 
-![](/img/Whale Watching on the Oregon Coast.jpeg)
+![](/img/whale-watching-tail-blog-695x322.jpg)
 
-![](/img/Whale Watching Oregon Coast.jpeg)
+{{< floatimage src="img/Whale Watching Oregon Coast.jpeg" float="right" alt="Your Alt Text goes here" size="40" >}}
 
 It's estimated that 18,000-plus gray whales now live in the eastern north Pacific area. An average of six (6) whales per hour migrate past the Oregon coast during the peak northbound migration, but that return trip is spread over four months. About 200 of these whales drop off the migration route and feed along the Oregon coast all summer.
 
