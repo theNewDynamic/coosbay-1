@@ -1,9 +1,9 @@
 ---
 title: 2019 Spring Whale Watching Week on Oregon's Adventure Coast
-date: 2019-02-26 21:00:00 -0800
+date: 2019-02-27 05:00:00 +0000
 description: Bring the whole family to Oregon's Adventure Coast in late March to experience
   2019 Spring Whale Watching Week!
-image: "/img/Whale Watching Oregon Coast .jpg"
+image: "/img/whale-watching-family-blog-695x322.jpg"
 tags:
 - Whale Watching
 - " Whales Spoken Here "
