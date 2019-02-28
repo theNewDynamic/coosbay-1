@@ -1,15 +1,15 @@
 ---
-title: 32nd Annual Holiday Lights at Shore Acres
+title: 33rd Annual Holiday Lights at Shore Acres
 photo: /img/shore-acres-holiday-lights-header.jpg
 largeboxphoto: /img/holiday-lights-large.jpg
 mediumboxphoto: /img/holiday-lights-medium.jpg
 smallboxphoto: /img/holiday-lights-small.jpg
-desktoptitle: 32nd Annual Holiday Lights at Shore Acres
+desktoptitle: 33rd Annual Holiday Lights at Shore Acres
 mobiletitle: Shore Acres Holiday Lights
 hovertitle: Bright & Beautiful Holiday Lights
 hoverdescription: 'Don''t Miss 325,000 Holiday Lights at Shore Acres State Park'
-startdate: '2018-11-22'
-enddate: '2018-12-31'
+startdate: '2019-11-28'
+enddate: '2019-12-31'
 address:
   city: Charleston
   state: OR
@@ -21,11 +21,11 @@ website: 'http://shoreacres.net/'
 ---
 ![32nd Annual Holiday Lights at Shore Acres](/img/holiday-lights-695x322.jpg)
 
-The brightest and most beautiful place on the West Coast shines as brightly as ever in 2018.
+The brightest and most beautiful place on the West Coast shines as brightly as ever in 2019.
 
 Famous for its beautiful 7 acre botanical gardens and Japanese lily pond, Share Acres shines with over a quarter million lights, animated displays, Santa, choirs, and more. A holiday tradition for the whole family. 
 
-This festive annual display debuts on Thanksgiving Day (Thursday, November 22nd) and will light up Shore Acres from 4 p.m.-9:30 p.m. each night (including Dec 24th & 25th) thru December 31st.
+This festive annual display debuts on Thanksgiving Day (Thursday, November 28th) and will light up Shore Acres from 4 p.m.-9:30 p.m. each night (including Dec 24th & 25th) thru December 31st.
 
 <iframe width="695" height="390" src="https://www.youtube.com/embed/WEXAadGTff8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
