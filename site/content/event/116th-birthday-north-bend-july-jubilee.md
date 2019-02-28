@@ -9,7 +9,7 @@ address:
   zip: '97549'
 phone_local: "(541) 756-4613"
 phone_toll_free: ''
-website: https://julyjubilee.com/
+website: https://julyjubilee.com
 desktoptitle: Celebrate North Bend's 116th Birthday!
 mobiletitle: North Bend's 116th Birthday!
 hovertitle: Join Us for the North Bend July Jubilee!
@@ -20,7 +20,6 @@ mediumboxphoto: "/img/july-jubilee-event-medium.jpg"
 smallboxphoto: "/img/july-jubilee-event-small.jpg"
 photo_alt: ''
 date: 2019-02-10 21:50:51 +0000
-draft: true
 
 ---
 **Come and enjoy the sights and sounds of the 2019 North Bend July Jubilee! Featuring live music, food, dancing, a parade, the July Jaunt, and an all car cruise! So much fun as we celebrate our town's 116th Birthday, North Bend Oregon USA!**
