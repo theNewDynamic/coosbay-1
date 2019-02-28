@@ -11,15 +11,15 @@ phone_local: "(541) 756-4613"
 phone_toll_free: ''
 website: https://julyjubilee.com/
 desktoptitle: Celebrate North Bend's 116th Birthday!
-mobiletitle: Celebrate North Bend's 116th Birthday!
-hovertitle: Celebrate North Bend's 116th Birthday!
-hoverdescription: Celebrate North Bend's 116th Birthday!
+mobiletitle: North Bend's 116th Birthday!
+hovertitle: Join Us for the North Bend July Jubilee!
+hoverdescription: Enjoy the sights and sounds of the 2019 North Bend July Jubilee!
 photo: ''
-largeboxphoto: ''
-mediumboxphoto: ''
-smallboxphoto: ''
+largeboxphoto: "/img/july-jubilee-event-large.jpg"
+mediumboxphoto: "/img/july-jubilee-event-medium.jpg"
+smallboxphoto: "/img/july-jubilee-event-small.jpg"
 photo_alt: ''
-date: 2019-02-10 13:50:51 -0800
+date: 2019-02-10 21:50:51 +0000
 draft: true
 
 ---
