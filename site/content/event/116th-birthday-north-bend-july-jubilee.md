@@ -14,7 +14,7 @@ desktoptitle: Celebrate North Bend's 116th Birthday!
 mobiletitle: North Bend's 116th Birthday!
 hovertitle: Join Us for the North Bend July Jubilee!
 hoverdescription: Enjoy the sights and sounds of the 2019 North Bend July Jubilee!
-photo: ''
+photo: "/img/our-area-north-bend-header.jpg"
 largeboxphoto: "/img/july-jubilee-event-large.jpg"
 mediumboxphoto: "/img/july-jubilee-event-medium.jpg"
 smallboxphoto: "/img/july-jubilee-event-small.jpg"
