@@ -8,8 +8,8 @@ desktoptitle: Mill Casino Food Truck Off
 mobiletitle: Mill Food Trucks
 hovertitle: Mill Food Trucks
 hoverdescription: Food trucks, live music and more!
-startdate: 2019-08-02 00:00:00 +0000
-enddate: 2019-08-04 00:00:00 +0000
+startdate: 2019-08-02
+enddate: 2019-08-04
 address:
   city: North Bend
   state: OR
