@@ -1,9 +1,9 @@
 ---
 title: 3rd Annual The Mill Casino Food Truck Off
-photo: "/img/events-runners-header.jpg"
-largeboxphoto: "/img/mill-casino-truck-off-large.jpg"
-mediumboxphoto: "/img/mill-casino-truck-off-medium.jpg"
-smallboxphoto: "/img/mill-casino-truck-off-small.jpg"
+photo: "/img/truck-off-event-pg-header.jpg"
+largeboxphoto: "/img/truck-off-event-large.jpg"
+mediumboxphoto: "/img/truck-off-event-medium.jpg"
+smallboxphoto: "/img/truck-off-event-small.jpg"
 desktoptitle: Mill Casino Food Truck Off
 mobiletitle: Mill Food Trucks
 hovertitle: Mill Food Trucks
