@@ -8,8 +8,8 @@ desktoptitle: Mill Casino Food Truck Off
 mobiletitle: Mill Food Trucks
 hovertitle: Mill Food Trucks
 hoverdescription: Food trucks, live music and more!
-startdate: 2019-08-02
-enddate: 2019-08-04
+startdate: 2019-08-02 00:00:00 +0000
+enddate: 2019-08-04 00:00:00 +0000
 address:
   city: North Bend
   state: OR
@@ -21,7 +21,7 @@ seo:
   imgalt: 'Mill Casino Food Truck Off '
 
 ---
-{{< floatimage src="/img/mill-casino-truck-off-large.jpg" float="none" alt="People at Mill Casino Food Truck Off" size="68" >}}
+![](/img/truck-off-event-blog-695x322-1.jpg)
 
 **Enjoy a 3-day event featuring food trucks, live music and more.**
 
