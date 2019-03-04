@@ -16,7 +16,8 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 [Check out The Oregon Coast Bike Route (PDF).](https://www.oregon.gov/ODOT/Programs/TDD%20Documents/oregon-coast-bike-route-map.pdf) Oregon has been supporting bicycling since 1971 by developing bikeways throughout the state. Thousands of bicyclists enjoy the natural beauty of the Oregon Coast Bike Route annually. For the most part, it follows US Highway 101 as a shoulder bikeway. In several areas, the route departs from the main highway and follows county roads and city streets. These sections are closer to the ocean, are more scenic, and have lower traffic volumes and slower traffic speeds. Coos Bay, North Bend, Charleston is one of the areas where cyclists depart from the main highway and takes a scenic detour along the rugged coastline on Cape Arago Loop and 7 Devils Road. [Click here for the North Bend to Bandon Oregon Coast Trail Map.](https://www.oregon.gov/oprd/PARKS/docs/OCT_g.pdf)
 
 <div class="margin-50px-top"></div>
-![](/img/mountain-biking-handlebarrs-695x322.jpg)
+
+![](/img/mountain-biking-whiskey-run-blog-695x322.jpg)
 
 ## Whiskey Run Mountain Biking Trail
 
