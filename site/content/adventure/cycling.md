@@ -9,6 +9,7 @@ photo: "/img/adventures-biking-header.jpg"
 Whether you take to the road, fat bike on the beach, or careen around single-track trails, you will find heart pumping options on Oregon's Adventure Coast.
 
 <div class="margin-50px-top"></div>
+
 ![](/img/road-cycling-695x322.jpg)
 
 ## The Oregon Coast Bike Route
