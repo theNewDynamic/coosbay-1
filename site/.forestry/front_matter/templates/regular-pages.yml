@@ -50,10 +50,10 @@ fields:
     name: image
     label: SEO Image
 pages:
+- site/content/sitepages/sportsman-show-giveaway.md
 - site/content/sitepages/3a-coos-bay-photo-contest-rules-2019.md
 - site/content/sitepages/staff-directory.md
 - site/content/sitepages/privacy-policy.md
-- site/content/sitepages/sportsman-show-giveaway.md
 - site/content/sitepages/testing-font-size-for-janice.md
 - site/content/sitepages/regis-page.md
 - site/content/sitepages/tour-groups.md
