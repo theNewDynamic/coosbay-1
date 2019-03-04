@@ -18,7 +18,7 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 
 <div class="margin-50px-top"></div>
 
-![](/img/mountain-biking-whiskey-run-blog-695x322.jpg)
+![](/img/mountain-biking-whiskey-run-turn-blog-695x322.jpg)
 
 ## Whiskey Run Mountain Biking Trail
 
