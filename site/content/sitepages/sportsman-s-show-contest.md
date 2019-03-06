@@ -11,8 +11,6 @@ seo:
   image: ''
 
 ---
-![](/img/sportsman-giveaway-texthdr.png)
-
 ## Travel & Adventure Show
 
 Enter to win this great adventure gear! _No cash value._
