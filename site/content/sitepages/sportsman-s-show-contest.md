@@ -20,6 +20,8 @@ Enter to win this great adventure gear! _No cash value._
 
 ### Enter to Win Here
 
+<script type="text/javascript" src="https://form.jotform.com/jsform/90645108032146"></script>
+
 <div class="margin-50px-top"></div>
 
 <p style="font-size:50%;"><strong>Contest Details:</strong> All items in this giveaway are subject to availability and substitutions may apply. No purchase necessary. Void where prohibited.</p>
