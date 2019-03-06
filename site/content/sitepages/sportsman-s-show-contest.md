@@ -11,11 +11,9 @@ seo:
   image: ''
 
 ---
-## Travel & Adventure Show
+## Enter to Win this Great Gear!
 
-Enter to win this great adventure gear! _No cash value._
-
-### Enter to Win Here
+Fill out the form below and you will be entered to win this great adventure gear! _No cash value._
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/90645108032146"></script>
 
