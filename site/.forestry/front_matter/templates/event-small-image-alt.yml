@@ -1,7 +1,6 @@
 ---
 label: Event Small Image + Alt
 hide_body: false
-is_partial: true
 fields:
 - type: file
   name: smallboxphoto

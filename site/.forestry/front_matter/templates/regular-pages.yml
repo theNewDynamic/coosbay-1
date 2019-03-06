@@ -1,7 +1,6 @@
 ---
 label: Regular Pages
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -50,6 +49,7 @@ fields:
     name: image
     label: SEO Image
 pages:
+- site/content/sitepages/sportsman-s-show-contest.md
 - site/content/sitepages/sportsman-show-giveaway.md
 - site/content/sitepages/3a-coos-bay-photo-contest-rules-2019.md
 - site/content/sitepages/staff-directory.md

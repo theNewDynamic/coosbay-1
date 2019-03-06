@@ -1,7 +1,6 @@
 ---
 label: Event Medium Image + Alt
 hide_body: false
-is_partial: true
 fields:
 - type: file
   label: medium
