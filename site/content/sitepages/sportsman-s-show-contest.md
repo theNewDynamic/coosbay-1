@@ -9,7 +9,6 @@ seo:
   title: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
 ![](/img/sportsman-giveaway-texthdr.png)
