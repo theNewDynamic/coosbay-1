@@ -3,7 +3,7 @@ title: Travel and Adventure Show 2019
 date: 2019-01-21 00:53:11 +0000
 url: travel-and-adventure-show-2019
 layout: contact
-photo: "/img/marina-subpage-header.jpg"
+photo: "/img/kayakers-subpage-header.jpg"
 seo:
   description: ''
   title: ''
@@ -13,7 +13,7 @@ seo:
 ---
 ## Enter to Win this Great Gear!
 
-Fill out the form below and you will be entered to win this great adventure gear! _No cash value._
+Fill out the form below and you will be entered to win a fat tire bike or a single kayak. _No cash value._
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/90645108032146"></script>
 
