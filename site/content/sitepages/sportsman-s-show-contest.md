@@ -13,7 +13,13 @@ seo:
 ---
 ## Enter to Win this Great Gear!
 
+{{< floatimage src="img/TSOC-Logo-Final.png" float="right" alt="Southern Oregon Coast Logo" size="100" >}}
+
 Fill out the form below and you will be entered to win a fat tire bike or a single kayak. _No cash value._
+
+**Fat Tire Bike:** The all new Rhino FLT sets the standard for performance alloy fat bikes. This bike is perfect for riding beaches AND world class singletrack in the loamy mountain terrain of the Southern Oregon Coast. Retail $1,999!
+
+**Single Kayak:** Ulluptatem solor asperferovit eatquia dendi omnimi, nonet etur magnien ihillaborro temporis ratin nis nos doluptassum, seque occae rest, soluptatures alis magnis nat re istrum quideli quibus eni dolenes tianisquatem.
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/90645108032146"></script>
 
