@@ -32,3 +32,6 @@ Rack Card here (PDF).](/img/rackcard-fishing-03-18.pdf)
 <div class="clearfix margin-30px-top"></div>
 
 ![fishing months and seasons](/img/fishing-months-01.jpg)
+
+[Tide Timetables & Charts](https://tides4fishing.com/us/oregon/coos-bay)
+[Tide Timetables & Charts](https://www.tideschart.com/United-States/Oregon/Coos-Bay/)
