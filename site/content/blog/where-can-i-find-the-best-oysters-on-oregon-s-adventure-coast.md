@@ -6,7 +6,7 @@ description: Fresh and delicious Coos Bay oysters have been an Oregon Coast deli
   them. Whether it’s roasted, fried, sauteed, steamed open on the barbecue, broiled
   or served raw, we guess you could say the world is your oyster when you are here
   on Oregon's Adventure Coast.
-image: "/img/aw-shucks-oyster-Large.jpg"
+image: "/img/oysters-blog-695x322.jpg"
 tags:
 - Oysters
 - " Best Oysters "
