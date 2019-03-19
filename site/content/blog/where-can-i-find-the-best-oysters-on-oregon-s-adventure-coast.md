@@ -6,7 +6,7 @@ description: Fresh and delicious Coos Bay oysters have been an Oregon Coast deli
   them. Whether it’s roasted, fried, sauteed, steamed open on the barbecue, broiled
   or served raw, we guess you could say the world is your oyster when you are here
   on Oregon's Adventure Coast.
-image: "/img/oysters-blog-695x322.jpg"
+image: "/img/aw-shucks-oyster-Large.jpg"
 tags:
 - Oysters
 - " Best Oysters "
@@ -35,4 +35,4 @@ When asked “Who has the best oysters in town?” an overwhelming number of res
 **Restaurants**
 If you’ve got a hankering for good oysters while you’re out and about, we have several restaurants in town that are likely to have a dish to satisfy your craving. Restaurants like Fisherman's Grotto- "The oysters were amazing...", Captain's Choice Fish House- "We absolutely loved the food, the best & freshest oysters I've had." SharkBite's Seafood Cafe- "Wonderful oysters! My partner and I split the house salad and ..." and Restaurant O- "Oysters with lemon air Beetroot Hummus plate Salmon Sorrel Crab ..." are great spots for oyster lovers. You’ll also want to try  The Oysters Rockefeller at Millers At The Cove, BBQ oysters at Coach House, The B.O.L.T. (bacon, oysters, lettuce, tomato) at Blue Heron Bistro, the Fried oysters appetizer at 7 Devils Brewing and grilled oysters at Tokyo Bistro.
 
-[Click here]() for a complete list of the best oysters in Coos Bay, North Bend and Charleston as listed on Yelp.
+[Click here](https://www.yelp.com/search?find_desc=oysters&find_loc=Coos+Bay%2C+OR) for a complete list of the best oysters in Coos Bay, North Bend and Charleston as listed on Yelp.
