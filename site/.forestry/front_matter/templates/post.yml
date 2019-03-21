@@ -29,6 +29,7 @@ fields:
   label: Categories
   description: Hit the TAB key after each Category is entered.
 pages:
+- site/content/blog/charleston-marine-life-center-in-a-hidden-gem.md
 - site/content/blog/where-can-i-find-the-best-oysters-on-oregon-s-adventure-coast.md
 - site/content/blog/2019-spring-whale-watching-week-on-oregon-s-adventure-coast.md
 - site/content/blog/get-ready-for-the-35th-annual-charleston-crab-feed.md
