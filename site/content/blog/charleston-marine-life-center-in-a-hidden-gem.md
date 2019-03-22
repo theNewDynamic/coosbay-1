@@ -1,5 +1,5 @@
 ---
-title: Charleston Marine Life Center in a Hidden Gem
+title: Charleston Marine Life Center is a Hidden Gem
 date: 2019-03-20 21:00:00 -0700
 description: 'One of our most prized hidden gems is the Charleston Marine Life Center,
   part of the OIMB - The Oregon Institute of Marine Biology. From the outside, you''d
