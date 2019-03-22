@@ -40,7 +40,7 @@ Much of the success of the Charleston Marine Life Center should be credited to a
 The Marine Life Center features different exhibits that include:
 
 * A 13-foot skull of a humpback whale in addition to marine specimens collected by university researchers dating back 50 years.
-* Underwater Oregon Gallery, an exhibit where visitors can select dive sites and see the incredible marine life found in deep waters off of Oregon By using a touch screen. Just spend a few minutes exploring and you’re guaranteed to see a multitude of marine life you may have never known existed.
+* Underwater Oregon Gallery, an exhibit where visitors can select dive sites and see the incredible marine life found in deep waters off of Oregon by using a touch screen. Just spend a few minutes exploring and you’re guaranteed to see a multitude of marine life you may have never known existed.
 * Marine Ecosystem Gallery, an aquarium gallery filled with aquatic life from the surrounding area. It even includes a shallow touch tank may (gently!) handle starfish, hermit crabs, and more.
 * The Oregon Fisheries Gallery, an open-air deck where visitors can look and see fishing vessels coming and going from the harbor, as well as unloading their latest catch. The real star of the Oregon Fisheries Gallery is the interactive display panels that will inform visitors of fishing equipment, commercially important species of fish, and the role marine life has played with ancient cultures.
 * The Marine Mammal Gallery, home to the complete skeletons of a 23-foot long orca and a 35-foot long California grey whale, as well as skulls and bones of smaller whales, sea otters, and seals. Furthermore, visitors can look out through the large windows to harbor seals and sea lions.
