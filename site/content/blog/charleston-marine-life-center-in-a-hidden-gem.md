@@ -17,8 +17,6 @@ The Pacific Ocean is filled with a vibrant array of marine life and rich ecosyst
 
 One of our most prized hidden gems is the [Charleston Marine Life Center,](http://www.charlestonmarinelifecenter.com/) part of the [OIMB - The Oregon Institute of Marine Biology](https://oimb.uoregon.edu/). From the outside, you'd never know that a wealth of knowledge about the Oregon Coast and it's mysterious ocean life is available to all. It's nearly impossible to visit the exhibits and not learn something new.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FUOCMLC%2Fposts%2F783533221980165&width=500" width="500" height="651" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
 The 6,000-square-foot marine center was recently described by one visitor as "A modest looking building, but when you walk thru the entrance it is an 'OMG' experience...There are amazing and highly informative exhibits of marine life including everything from 'whales to snails' and everything in between...Lots of hands on projects for kids 9-90! This place is amazing - a treasure - go out of your way to see !!"
 
 ![](/img/CharlestonMarineLifeCenterblog-695x322.jpg)
