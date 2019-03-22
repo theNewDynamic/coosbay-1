@@ -17,6 +17,8 @@ The Pacific Ocean is filled with a vibrant array of marine life and rich ecosyst
 
 One of our most prized hidden gems is the [Charleston Marine Life Center,](http://www.charlestonmarinelifecenter.com/) part of the [OIMB - The Oregon Institute of Marine Biology](https://oimb.uoregon.edu/). From the outside, you'd never know that a wealth of knowledge about the Oregon Coast and it's mysterious ocean life is available to all. It's nearly impossible to visit the exhibits and not learn something new.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FUOCMLC%2Fposts%2F783533221980165&width=500" width="500" height="651" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 The 6,000-square-foot marine center was recently described by one visitor as "A modest looking building, but when you walk thru the entrance it is an 'OMG' experience...There are amazing and highly informative exhibits of marine life including everything from 'whales to snails' and everything in between...Lots of hands on projects for kids 9-90! This place is amazing - a treasure - go out of your way to see !!"
 
 ![](/img/CharlestonMarineLifeCenterblog-695x322.jpg)
@@ -41,7 +43,7 @@ The Marine Life Center features different exhibits that include:
 
 * A 13-foot skull of a humpback whale in addition to marine specimens collected by university researchers dating back 50 years.
 * Underwater Oregon Gallery, an exhibit where visitors can select dive sites and see the incredible marine life found in deep waters off of Oregon By using a touch screen. Just spend a few minutes exploring and you’re guaranteed to see a multitude of marine life you may have never known existed.
-* Marine Ecosystem Gallery, an aquarium gallery filled with aquatic life from the surrounding area including a giant Pacific octopus! It even includes a shallow touch tank may (gently!) handle starfish, hermit crabs, and more.
+* Marine Ecosystem Gallery, an aquarium gallery filled with aquatic life from the surrounding area. It even includes a shallow touch tank may (gently!) handle starfish, hermit crabs, and more.
 * The Oregon Fisheries Gallery, an open-air deck where visitors can look and see fishing vessels coming and going from the harbor, as well as unloading their latest catch. The real star of the Oregon Fisheries Gallery is the interactive display panels that will inform visitors of fishing equipment, commercially important species of fish, and the role marine life has played with ancient cultures.
 * The Marine Mammal Gallery, home to the complete skeletons of a 23-foot long orca and a 35-foot long California grey whale, as well as skulls and bones of smaller whales, sea otters, and seals. Furthermore, visitors can look out through the large windows to harbor seals and sea lions.
 
