@@ -11,7 +11,7 @@ seo:
   image: ''
 
 ---
-## Enter to Win this Great Gear!
+## This contest has ended.
 
 {{< floatimage src="img/TSOC-Logo-Final.png" float="right" alt="Southern Oregon Coast Logo" size="100" >}}
 
@@ -23,7 +23,7 @@ Fill out the form below and you will be entered to win a fat tire bike or a sing
 
 **Drawing:** The drawing will occur at **5:00PM on March 24th** at the close of the Travel & Adventure Show. Winner will be notified by phone immediately after the drawing and **must claim prize no later than Monday, March 25th at 6:00PM**.
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/90645108032146"></script>
+THIS CONTEST HAS ENDED.
 
 <div class="margin-50px-top"></div>
 
