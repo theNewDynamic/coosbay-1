@@ -37,7 +37,7 @@ This funky 1950’s hotel located in North Bend is a local treasure. With just f
 
 ![](/img/DSC07347a.jpg)
 
-### #2 [The Old Tower House Bed & Breakfast]()
+### **#2-** [**The Old Tower House Bed & Breakfast**](http://www.oldtowerhouse.com)
 
 Visitors cannot get enough of this charming B&B located in Coos Bay’s Empire District. This circa-1870s tower-house is the oldest standing structure in Coos Bay and features lovely antiques as well as shabby-chic rooms & apartments. Guests enjoy the friendly service as well as a 4-minute walk to the ocean and proximity to the top local attractions. Read what some of them have written recently about this lovely Coos Bay establishment.
 
@@ -50,6 +50,8 @@ Visitors cannot get enough of this charming B&B located in Coos Bay’s Empire D
 Photo @ The Old Tower House, Coos Bay Bed and Breakfast
 
 ### #3 [Coos Bay Manor]()
+### **#1-** [**The Itty Bitty Inn**](http://www.ittybittyinn.com)
+
 
 Built in 1912, this grand colonial-style B&B featuring elegant cozy antiques-filled rooms,  late 19th-century charm, high ceilings, free WiFi & full breakfast is adored by visitors. Guests are treated to a glass of wine upon arrival along with a delicious breakfast the next morning. The Coos Bay Manor is also within walking distance of restaurants and often described by visitors as romantic, timeless, accommodating, comfortable and clean.
 
@@ -59,7 +61,8 @@ Built in 1912, this grand colonial-style B&B featuring elegant cozy antiques-fil
 
 Photo @ Coos Bay Manor Bed and Breakfast
 
-### #4 [Captain John's Motel]()
+### **#4-** [**Captain John's Motel**](https://capitanjohnsmotel.wixsite.com/captjohnsmotel)
+
 
 Planning on doing some crabbing, clamming or fishing while you’re here? You can’t go wrong with this no-nonsense motel featuring excellent service, fair prices, convenience, basic but clean rooms and fish-cleaning station among other things! It’s just a 6-minute walk to Charleston Marina Complex, 2 miles from Bastendorff Beach County Park and 3 miles from Sunset Bay State Park.
 
@@ -68,7 +71,8 @@ Planning on doing some crabbing, clamming or fishing while you’re here? You ca
 ![](/img/135097029.jpg)
 Photo @[ Booking.com](https://www.booking.com/hotel/us/captain-john-39-s-motel.html)
 
-### #5-[The Bay Point Landing]()
+### **#5-** [**The Bay Point Landing**](https://www.baypointlanding.com)
+
 
 Eager to try “glamping”? If you are looking to reconnect with nature, but not quite ready for “roughing it”, The Bay Point Landing might be just the place for you! Nestled on 103 acres sanctuary in Coos Bay, this local gem is a destination for visitors wanting a unique, contemporary camping experience. The park is equipped with modern cabins, RV spots, and Airstreams along with comfortable amenities, adventure, and lovely beachfront views. Experience the outdoors on a whole new level!
 
