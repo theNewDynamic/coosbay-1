@@ -49,8 +49,7 @@ Visitors cannot get enough of this charming B&B located in Coos Bay’s Empire D
 
 Photo @ The Old Tower House, Coos Bay Bed and Breakfast
 
-### #3 [Coos Bay Manor]()
-### **#1-** [**The Itty Bitty Inn**](http://www.ittybittyinn.com)
+### **#3-** [**Coos Bay Manor**](https://www.coosbaymanor.com/en-us)
 
 
 Built in 1912, this grand colonial-style B&B featuring elegant cozy antiques-filled rooms,  late 19th-century charm, high ceilings, free WiFi & full breakfast is adored by visitors. Guests are treated to a glass of wine upon arrival along with a delicious breakfast the next morning. The Coos Bay Manor is also within walking distance of restaurants and often described by visitors as romantic, timeless, accommodating, comfortable and clean.
