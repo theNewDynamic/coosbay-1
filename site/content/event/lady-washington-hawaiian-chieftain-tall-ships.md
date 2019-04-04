@@ -1,7 +1,7 @@
 ---
 title: Lady Washington & Hawaiian Chieftain Tall Ships
-startdate: 2019-05-01
-enddate: 2019-05-05
+startdate: 2019-05-01 00:00:00 +0000
+enddate: 2019-05-06 00:00:00 +0000
 address:
   street: 200 Bayshore Drive (Coos Bay Boardwalk)
   street2: ''
@@ -32,9 +32,10 @@ date: 2019-02-20 13:32:52 -0800
 These majestic Tall Ships will offer family-oriented Adventure Sails and Battle Sails featuring a living history experience with demonstrations of tall ship handling, sea shanty singing, and maritime amusements. A ticket is required for all passengers on the sails, including babes in arms. Children 12 and under must be accompanied by an adult.
 Call (800)200-5239 or visit website for tickets and information. A ticket is not required for vessel walk-on tours, but a $5 donation is suggested.
 
-Here is the schedule for Lady Washington and Hawaiian Chieftain's time in Coos Bay:
+Here is the schedule for Lady Washington and Hawaiian Chieftain's time in Coos Bay:  
+(Please note that due to a slight change in the schedule, the tours originally planned for May 1st have been cancelled as the ships will be arriving late afternoon on May 1st. Note that an additional day of tours has been added on May 6th.)
 
-**May 1-3 (Wednesday-Friday)**
+**May 2-3 (Wednesday-Friday)**
 Boats are available for school programming 9:00 AM to 3:30 PM, schools may call the office for availability 1-800-200-5239
 
 **May 3 (Friday)**
@@ -49,5 +50,5 @@ Battle Sail: 2:00 PM to 4:00 PM ($59-$79)
 Vessel Tours: 10:00 AM to 1:00 PM ($5 donation)
 Battle Sail: 2:00 PM to 4:00 PM ($59-$79)
 
-**May 6 (Monday)**
-Boats depart
+**May 6 (Monday)  
+**Vessel Tours: 4:00 PM to 6:00 PM ($5 donation)****
