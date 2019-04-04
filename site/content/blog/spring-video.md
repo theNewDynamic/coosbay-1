@@ -2,7 +2,7 @@
 title: Spring Video
 date: 2019-04-15 00:00:00 -0700
 description: ''
-image: ''
+image: "/img/stand-up-paddleboard-blog-695x322.jpg"
 tags: []
 categories: []
 draft: true
