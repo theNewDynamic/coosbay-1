@@ -29,6 +29,7 @@ fields:
   label: Categories
   description: Hit the TAB key after each Category is entered.
 pages:
+- site/content/blog/where-the-soul-meets-the-sea-video.md
 - site/content/blog/spring-video.md
 - site/content/blog/helpful-travel-tips-for-savvy-travelers.md
 - site/content/blog/crabbing-and-clamming-on-the-oregon-coast.md
