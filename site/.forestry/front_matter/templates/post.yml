@@ -29,6 +29,7 @@ fields:
   label: Categories
   description: Hit the TAB key after each Category is entered.
 pages:
+- site/content/blog/after-you-see-the-tall-ships-see-more-of-oregon-s-adventure-coast.md
 - site/content/blog/where-the-soul-meets-the-sea-video.md
 - site/content/blog/coos-bay-named-tree-city-usa.md
 - site/content/blog/spring-video.md
