@@ -6,7 +6,24 @@ description: The tall ships are always a treat, but we hope our visitors will ge
   region. Here are some tips to help you enjoy the very best of Coos Bay, North Bend
   and Charleston, Oregon during your visit.
 image: "/img/ShoreAcres_blog-695x322.jpg"
-tags: []
+tags:
+- Crabbing
+- " Clamming"
+- Tall Ships
+- Lady Washington
+- Hawaiian Chieftain
+- Coos Bay Boardwalk
+- Cape Arago Highway Beach Loop
+- Sunset Bay State Park
+- Shore Acres State Park
+- Cape Arago State Park
+- Kayak
+- Oregon’s South Coast
+- Charleston Marina Complex
+- Oregon Dunes National Recreation Area
+- Coos Bay Farmers Market
+- Golden and Silver Falls
+- Charleston Marine Life Center
 categories: []
 draft: true
 
