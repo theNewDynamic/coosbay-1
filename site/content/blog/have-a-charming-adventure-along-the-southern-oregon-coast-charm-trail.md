@@ -25,7 +25,7 @@ Umpqua Discovery Center (Reedsport)
 
 {{< floatimage src="/img/img_0351.jpg" float="right" alt="Southern Oregon Charm trail" size="40" >}}
 
-Pick up a free Southern Oregon Coast Charm Trail map (or [download it here](https://info4hr.com/uploads/3/4/5/6/34568256/charm_trail_map_-_11.1.18.pdf) ) then plan a visit to as many (or all 34) participating venues on the map and add other charms for $2.00 each. Make sure you get one of our super cute crab charms and be on the lookout for any other hidden treasures as you make your way on the trail.
+Pick up a free Southern Oregon Coast Charm Trail map (or [download it here](https://info4hr.com/uploads/3/4/5/6/34568256/charm_trail_map_-_11.1.18.pdf) ) then plan a visit to as many (or all 37) participating venues on the map and add other charms for $2.00 each. Make sure you get one of our super cute crab charms and be on the lookout for any other hidden treasures as you make your way on the trail.
 
 Don't forget to share your adventure by tagging your photos with #CharmTrail, #OregonCoast & #TravelCoosBay
 
