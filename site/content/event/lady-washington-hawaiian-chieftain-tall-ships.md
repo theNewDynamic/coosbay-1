@@ -35,9 +35,9 @@ Call (800)200-5239 or visit website for tickets and information. A ticket is 
 Here is the schedule for Lady Washington and Hawaiian Chieftain's time in Coos Bay:  
 (Please note that due to a slight change in the schedule, the tours originally planned for May 1st have been cancelled as the ships will be arriving late afternoon on May 1st. Note that an additional day of tours has been added on May 6th.)
 
-**May 1 (Wednesday)  
-**Boats arrive in Coos Bay**  
-  
+\**May 1 (Wednesday)  
+**Boats arrive in Coos Bay**
+
 May 2-3 (Thursday-Friday)**
 Boats are available for school programming 9:00 AM to 3:30 PM, schools may call the office for availability 1-800-200-5239
 
@@ -54,4 +54,7 @@ Vessel Tours: 10:00 AM to 1:00 PM ($5 donation)
 Battle Sail: 2:00 PM to 4:00 PM ($59-$79)
 
 **May 6 (Monday)  
-**Vessel Tours: 4:00 PM to 6:00 PM ($5 donation)****
+Vessel Tours: 4:00 PM to 6:00 PM ($5 donation)**
+
+**May 7 (Tuesday)**  
+Boats depart Coos Bay
