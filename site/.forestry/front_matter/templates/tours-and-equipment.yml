@@ -34,4 +34,5 @@ fields:
   label: Contact
   name: contact
 pages:
+- site/content/tourandequipment/bahama-boards.md
 - site/content/tourandequipment/indigenous-02.md
