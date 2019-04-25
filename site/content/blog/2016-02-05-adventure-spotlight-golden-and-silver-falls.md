@@ -23,7 +23,7 @@ categories:
 image: "/img/Golden and Silver Falls blog695x322.jpg"
 
 ---
-_Updated March 2018_
+_Updated Feb 2019_
 
 Spring is right around the corner and the need for fresh-aired exploration can be too great to ignore. Fortunately, there is the perfect solution right here on Oregon’s South Coast. Pack your bag, grab a camera, get your hiking boots on, and take a day trip <a href="http://alltrails.com/parks/us/oregon/golden-and-silver-falls-state-natural-area" target="_blank" rel="noopener noreferrer">Golden and Silver Falls State Natural Area</a>, “a hidden gem in the dense coastal forests” in our region.
 
@@ -68,7 +68,5 @@ This is the golden rule for any nature preserve (or anywhere else for that matte
 This tip also extends to leaving nature as you found it; so don’t pick flowers, break boulders, carve trees, or any other such behavior. When in doubt leave it alone.
 
 But really,  the most important thing is to be safe and have a great time! With Golden and Silver Falls you’re guaranteed an extraordinary day away from the noise of the city and the complexities of modern life.
-
- 
 
 A note about the drive up Hwy 241. Please be aware that the road leading up to the parking area for Golden & Silver Falls is, at times, only one lane and more dirt than pavement. Take the drive slowly to avoid any potentially dangerous situations, including meeting other vehicles traveling in the opposite direction and rough traveling conditions. Believe us when we say, the drive up is part of the adventure! And well worth the effort.
