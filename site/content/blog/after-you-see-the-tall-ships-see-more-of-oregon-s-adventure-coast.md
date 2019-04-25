@@ -1,7 +1,7 @@
 ---
 title: After You See the Tall Ships, See More of Oregon's Adventure Coast
 date: 2019-04-23 21:00:00 -0700
-description: The tall ships are always a treat, but we hope our visitors will get
+description: The tall ships are always a treat, but we invite our visitors to get
   out and explore the unique destinations that make Oregon’s Adventure Coast an exceptional
   region. Here are some tips to help you enjoy the very best of Coos Bay, North Bend
   and Charleston, Oregon during your visit.
