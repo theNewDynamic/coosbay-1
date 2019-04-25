@@ -27,7 +27,7 @@ tags:
 categories: []
 
 ---
-The historic tall ships, Lady Washington and the Hawaiian Chieftain, will soon set sail for the Coos Bay Boardwalk where they will dock May 1st- 5th! The Lady Washington is a full-scale reproduction of the original Lady Washington, the first American vessel to make landfall on the west coast of North America in 1788. The Hawaiian Chieftain is a replica of a typical early nineteenth-century European merchant ship. Her hull shape and rigging are similar to the ships used by Spanish explorers during the 18th-century expeditions of the Washington, Oregon, and California coasts.
+The historic tall ships, Lady Washington and the Hawaiian Chieftain, will soon set sail for the Coos Bay Boardwalk where they will dock May 1st- 6th! The Lady Washington is a full-scale reproduction of the original Lady Washington, the first American vessel to make landfall on the west coast of North America in 1788. The Hawaiian Chieftain is a replica of a typical early nineteenth-century European merchant ship. Her hull shape and rigging are similar to the ships used by Spanish explorers during the 18th-century expeditions of the Washington, Oregon, and California coasts.
 
 This is an exciting opportunity for the whole family to experience and learn about maritime history during the walk-on tours of the ships (for a suggested donation of $5 per person) and educational programs for all. [Click here](https://www.historicalseaport.org/public-tours-sails/sailing-schedule/coos-bay-oregon/)  to see the current schedule. **_Please note this schedule is subject to change depending on conditions._**
 
