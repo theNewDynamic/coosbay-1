@@ -56,6 +56,8 @@ If you want to take a break from the Coos Bay Boardwalk, Charleston is home to a
 
 **#7. Hike to Golden and Silver Falls.** For adventure lovers, Golden and Silver Falls (about half an hour off Highway 101, on Highway 241) does not disappoint! This is a perfect place to enjoy nature and solitude as you hike through scenic canyons and lush coastal forests to two magnificent waterfalls. [Click here](https://oregonsadventurecoast.com/blog/2016-02-05-adventure-spotlight-golden-and-silver-falls/) for our tips and more info.
 
+![](/img/Golden and Silver Falls blog695x322.jpg)
+
 ![](/img/Golden and Silver State Park Waterfalls_blog-695x322.jpg)
 
 **#8. Go Fishing, Crabbing Or Clamming!** Hands down, one of our favorite adventures that can be enjoyed any time of the year. Local tip: before you head out on your fishing adventure, contact our local bait and tackle shops and ask for tips! It could save you time and money! [Click here ](https://oregonsadventurecoast.com/crabbing-clamming/)for more info.
