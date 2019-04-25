@@ -19,4 +19,4 @@ If you want to get it to go, the **delis and grocery stores** throughout Coos Ba
 
 Eat well, you’re going to need your energy.
 
-[Download our Restaurant Guide to carry with you on your vacation to the Oregon Coast!](/img/restaurant-brochure-12-18.pdf)
+[Download our Restaurant Guide to carry with you on your vacation to the Oregon Coast!](https://app.forestry.io/sites/2lzmjp3bn6gdfg/body-media//img/restaurant-brochure-04-19.pdf)
