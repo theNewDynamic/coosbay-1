@@ -48,4 +48,4 @@ Here's what you can expect at this event:
 
 Wanna be a judge? Become a certified BBQ judge on Friday, May 24, 2019, from 3:00 pm – 6:30 pm. Pre-registration is required. Details are on the [BBQ, Blues & Brews on the Bay event page](https://www.themillcasino.com/bbq-event/).
 
-If good fun, great music, and tasty BBQ & Brews sound good to you, then make your travel plans right now! Please visit the [BBQ Blues & Brews on the Bay Facebook Page](https://www.facebook.com/BbqBluesBrewsOnTheBay/) for additional event details and announcements!
+If good fun, great music, and tasty BBQ & Brews sound good to you, then make your travel plans right now! Visit our[ Lodging Page ](https://oregonsadventurecoast.com/lodging/)for a list of local hotels, motels, campgrounds, Bed & Breakfasts and RV Parks. Be sure to follow the [BBQ Blues & Brews on the Bay Facebook Page](https://www.facebook.com/BbqBluesBrewsOnTheBay/) for additional event details and announcements!
