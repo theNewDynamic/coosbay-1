@@ -1,6 +1,6 @@
 ---
 title: 'Adventure Spotlight: A Walk Through Golden and Silver Falls'
-date: 2016-02-05 19:53:59 +0000
+date: 2019-02-18 21:00:00 -0800
 description: "Spring is right around the corner and the need for fresh-aired exploration
   can be too great to ignore. Fortunately, there is the perfect solution right here
   on Oregon's South Coast. Pack your bag, grab a camera, get your hiking boots on,
