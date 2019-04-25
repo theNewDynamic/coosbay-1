@@ -1,6 +1,6 @@
 ---
 title: After You See the Tall Ships, See More of Oregon's Adventure Coast
-date: 2019-04-23 21:00:00 -0700
+date: 2019-04-24 04:00:00 +0000
 description: The tall ships are always a treat, but we invite our visitors to get
   out and explore the unique destinations that make Oregon’s Adventure Coast an exceptional
   region. Here are some tips to help you enjoy the very best of Coos Bay, North Bend
@@ -76,7 +76,7 @@ Our area has a rich and unique history, making this region a treasure trove for 
 
 **#12. Grab A Bite Or A Drink At One Of Our Local Restaurants.** There are a number of local restaurants dishing out the freshest seafood and chowder you could possibly hope for! [Download our local restaurant guide ](oregonsadventurecoast.Com/dining )to help you choose the right spot!
 
-**#13.Explore even more local Art, History & Culture.** If you enjoy learning about the history of the tall ships, be sure to make some time to explore the premium museums and galleries to learn even more about the history and culture of the Coos Bay, North Bend, Charleston area. Start with the Coos History Museum, Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs, ever-changing exhibits and a unique museum shop. Eventually, make your way to the Coos Art Museum, the third oldest art museum in Oregon featuring rotating exhibits and the Steve Prefontaine Memorial Gallery. [Click here](https://oregonsadventurecoast.com/art-history-culture/) for more info about local museums and galleries we recommend visiting.
+**#13.Explore even more local Art, History & Culture.** If you enjoy learning about the history of the tall ships, be sure to make some time to explore the premium museums and galleries to learn even more about the history and culture of the Coos Bay, North Bend, Charleston area. Start with the Coos History Museum, Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs, ever-changing exhibits and a unique museum shop. Then make your way to the Coos Art Museum, the third oldest art museum in Oregon featuring rotating exhibits and the Steve Prefontaine Memorial Gallery. [Click here](https://oregonsadventurecoast.com/art-history-culture/) for more info about local museums and galleries we recommend visiting.
 
 For even more ideas for your South Coast itinerary, [click here](https://oregonsadventurecoast.com/adventures/) or check out these posts for more info and tips:
 
