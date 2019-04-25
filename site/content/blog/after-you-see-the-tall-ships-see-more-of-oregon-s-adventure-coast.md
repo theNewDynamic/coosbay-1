@@ -25,7 +25,6 @@ tags:
 - Golden and Silver Falls
 - Charleston Marine Life Center
 categories: []
-draft: true
 
 ---
 The historic tall ships, Lady Washington and the Hawaiian Chieftain, will soon set sail for the Coos Bay Boardwalk where they will dock May 1st- 5th! The Lady Washington is a full-scale reproduction of the original Lady Washington, the first American vessel to make landfall on the west coast of North America in 1788. The Hawaiian Chieftain is a replica of a typical early nineteenth-century European merchant ship. Her hull shape and rigging are similar to the ships used by Spanish explorers during the 18th-century expeditions of the Washington, Oregon, and California coasts.
@@ -77,7 +76,7 @@ Our area has a rich and unique history, making this region a treasure trove for 
 
 **#12. Grab A Bite Or A Drink At One Of Our Local Restaurants.** There are a number of local restaurants dishing out the freshest seafood and chowder you could possibly hope for! [Download our local restaurant guide ](oregonsadventurecoast.Com/dining )to help you choose the right spot!
 
-**#13.Explore even more local Art, History & Culture.** If you enjoy learning about the history of the tall ships, be sure to make some time to explore the premium museums and galleries to learn even more about the history and culture of the Coos Bay, North Bend, Charleston area. Start with the Coos History Museum, Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs, ever-changing exhibits and a unique museum shop. Eventually, make your way to the Coos Art Museum, the third oldest art museum in Oregon featuring rotating exhibits and the Steve Prefontaine Memorial Gallery. 
+**#13.Explore even more local Art, History & Culture.** If you enjoy learning about the history of the tall ships, be sure to make some time to explore the premium museums and galleries to learn even more about the history and culture of the Coos Bay, North Bend, Charleston area. Start with the Coos History Museum, Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs, ever-changing exhibits and a unique museum shop. Eventually, make your way to the Coos Art Museum, the third oldest art museum in Oregon featuring rotating exhibits and the Steve Prefontaine Memorial Gallery. [Click here](https://oregonsadventurecoast.com/art-history-culture/) for more info about local museums and galleries we recommend visiting.
 
 For even more ideas for your South Coast itinerary, [click here](https://oregonsadventurecoast.com/adventures/) or check out these posts for more info and tips:
 
