@@ -41,7 +41,7 @@ Coming up on the 8th year, BBQ, Blues & Brews on the Bay has grown to be one of 
 
 Here's what you can expect at this event:
 
-* Amazing BBQ, Mac-n-Cheese and other delicacies from 30+ pitmasters and teams from all over the region.
+* Amazing BBQ, Mac-n-Cheese and other delicacies from 30+ pitmasters and teams from all over the country.
 * Live music & entertainment.
 * Brew sampling from 30 breweries for a $15 donation.
 * Awards Ceremony on Sunday afternoon. Watch as the winners from each category are announced and awarded over $13,500 in prize money!
