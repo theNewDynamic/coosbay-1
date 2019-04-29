@@ -1,7 +1,7 @@
 ---
 title: July 3rd & July 4th on Oregon's Adventure Coast
 startdate: 2019-07-03 00:00:00 +0000
-enddate: 2019-07-05 00:00:00 +0000
+enddate: 2019-07-04 00:00:00 +0000
 address:
   street: ''
   street2: ''
