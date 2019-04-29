@@ -6,7 +6,7 @@ property_description: Rent kayaks, boogie boards, surfboards, stand up paddleboa
 property_name: Bahama Boards
 equip_type:
 - 2 - Equipement
-photo_name: ''
+photo_name: "/img/bahama-boards-coos-bay.jpg"
 photo_alt: ''
 address:
   street: 650 Ivy Street
@@ -16,7 +16,6 @@ address:
 phone_local: 541-808-3535
 phone_toll_free: ''
 website: https://bahamastyles.com/coos-bay-rentals/
-date: 2019-04-25 12:14:50 -0700
-draft: true
+date: '2019-04-25T12:14:50-07:00'
 
 ---
