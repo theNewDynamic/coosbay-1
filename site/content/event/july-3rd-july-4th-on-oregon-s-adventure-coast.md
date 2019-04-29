@@ -1,7 +1,7 @@
 ---
 title: July 3rd & July 4th on Oregon's Adventure Coast
-startdate: 2019-07-03
-enddate: 2019-07-05
+startdate: 2019-07-03 00:00:00 +0000
+enddate: 2019-07-05 00:00:00 +0000
 address:
   street: ''
   street2: ''
@@ -28,7 +28,7 @@ date: 2019-02-10 21:43:54 +0000
 
 _July 3, 2019_
 
-Don’t miss Oregon’s largest fireworks display on July 3rd. The Mill Casino will light up the skies over North Bend and the Coos Bay shoreline with their annual waterfront fireworks display.
+Don’t miss Oregon Coast’s largest fireworks display on July 3rd. The Mill Casino will light up the skies over North Bend and the Coos Bay shoreline with their annual waterfront fireworks display.
 
 Guests are invited to enjoy the fireworks show and music for free in the non-reserved seating areas located along the boardwalk. An outdoor grill, beverage station and beer garden will be available from 7 p.m. to 10 p.m. while free non-stop shuttle service will be available from the south end of Pony Village Mall to the casino from 7 p.m. until midnight. This event is open to all ages. Fireworks begin at dusk (approximately 10 p.m.)
 
