@@ -1,5 +1,5 @@
 [build]
-  command = "yarn build"
+  command = "gulp build && npm run index"
   publish = "dist"
 [build.environment]
   YARN_VERSION = "1.3.2"
