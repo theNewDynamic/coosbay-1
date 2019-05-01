@@ -23,7 +23,7 @@ import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/c
      * @return
      */
 	$.ajax({
-        url: '/data-api/index.php?method=get&type=calendar',
+        url: 'https://oregonsadventurecoast.com/data-api/index.php?method=get&type=calendar',
         dataType: 'jsonp',
         contentType: 'application/json; charset=utf-8'
     })

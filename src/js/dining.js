@@ -38,7 +38,7 @@ function initMap() {
      * @return
      */
     $.ajax({
-        url: '/data-api/index.php?method=get&type=dining',
+        url: 'https://oregonsadventurecoast.com/data-api/index.php?method=get&type=dining',
         dataType: 'jsonp',
         contentType: 'application/json; charset=utf-8'
     })
